@@ -193,7 +193,7 @@ if __name__=='__main__':
 		#North Carolina FIRST Robotics State Championship
 		'NC':32,
 		#New England District Championship
-		'NE':60,
+		'NE':64,
 		#Pacific Northwest District Championship
 		'PNW':64,
 		#Peachtree District State Championship
