@@ -1,0 +1,162 @@
+Best-case points to make it to district cmp: 41
+Worst-case points to make it to district cmp: 92
+Best estimate: 54
+{'bubble': 44, 'out': 37, '~in': 37, '~out': 27, 'in': 13}
+0	in	1983 - Skunk Works Robotics
+1	in	2522 - Royal Robotics
+2	in	3238 - Cyborg Ferrets
+3	in	4061 - SciBorgs
+4	in	2046 - Bear Metal
+5	in	4911 - CyberKnights
+6	in	4488 - Shockwave
+7	in	5920 - VIKotics
+8	in	3663 - CPR - Cedar Park Robotics
+9	in	2147 - CHUCK
+10	in	3711 - Iron Mustang
+11	in	4205 - ROBOCUBS
+12	in	2928 - Viking Robotics
+13	~in	2557 - SOTAbots
+14	~in	3826 - Sequim Robotics Federation "SR...
+15	~in	2930 - Sonic Squirrels
+16	~in	4726 - Robo Dynasty
+17	~in	4980 - Canine Crusaders
+18	~in	2990 - Hotwire
+19	~in	1425 - Error Code Xero
+20	~in	955 - CV Robotics
+21	~in	1318 - Issaquah Robotics Society
+22	~in	4450 - Olympia Robotics Federation
+23	~in	1778 - Chill Out
+24	~in	1595 - The Dragons
+25	~in	753 - High Desert Droids
+26	~in	5450 - St. Helens Robotics and Engine...
+27	~in	4915 - Spartronics
+28	~in	5085 - LakerBots
+29	~in	3223 - Retrobotics
+30	~in	2811 - StormBots
+31	~in	4077 - M*A*S*H
+32	~in	2907 - Lion Robotics
+33	~in	3574 - HIGH TEKERZ
+34	~in	1258 - SeaBot
+35	~in	4125 - Confidential
+36	~in	5942 - Warriors
+37	~in	2149 - CV Bearbots
+38	~in	4089 - Stealth Robotics
+39	~in	5827 - Code Purple
+40	~in	5803 - Apex Robotics
+41	~in	997 - Spartan Robotics
+42	~in	2944 - Titanium Tigers
+43	~in	1510 - Wildcats
+44	~in	2471 - Team Mean Machine
+45	~in	5495 - Aluminati
+46	~in	5588 - Holy Names Academy
+47	~in	949 - Wolverine Robotics
+48	bubble	2926 - Robo Sparks
+49	~out	4513 - Circuit Breakers
+50	~out	4495 - Tigers
+51	~out	1294 - Top Gun
+52	~in	1540 - Flaming Chickens
+53	~out	4682 - BraveBots
+54	~in	3786 - Chargers
+55	out	6129 - Shadle Park
+56	~out	2923 - Aggies
+57	bubble	5468 - Retro-bots
+58	bubble	5975 - Beta Blues
+59	bubble	5937 - MI-Robotics
+60	bubble	2910 - Jack in the Bot
+61	~out	4173 - Bulldogs
+62	~out	4180 - Iron Riders
+63	bubble	4131 - Iron Patriots
+64	out	3586 - Pride in the Tribe-Caveman Rob...
+65	out	2521 - SERT
+66	out	847 - PHRED
+67	out	2903 - NeoBots
+68	out	3712 - RoboCats
+69	out	4608 - Duct Tape Warriors
+70	bubble	3393 - Horns of Havoc
+71	bubble	3024 - My Favorite Team
+72	out	4683 - Full-metal Robotics
+73	out	3070 - Team Pronto
+74	bubble	4469 - R.A.I.D. (Raider Artificial In...
+75	out	4120 - Jagwires
+76	out	3220 - Mechanics of Mayhem
+77	out	4512 - BEARbots
+78	out	3812 - Bits & Bots
+79	out	2148 - Mechaknights
+80	out	568 - Nerds of the North
+81	out	488 - Team XBot
+82	out	4030 - NullPointerException
+83	bubble	3673 - C.Y.B.O.R.G. Seagulls
+84	bubble	2374 - Crusader Bots
+85	out	492 - Titan Robotics Club
+86	bubble	4692 - Metal Mallards
+87	bubble	2411 - Rebel @lliance
+88	out	2976 - Spartabots
+89	bubble	3674 - 4-H Clover Bots
+90	bubble	2412 - Robototes
+91	bubble	4057 - STEAMPUNK - Klamath Basin Robo...
+92	bubble	2733 - Pigmice
+93	bubble	3221 - KM Royals
+94	out	6076 - Mustangs
+95	out	5198 - Knight Tech
+96	bubble	5970 - BeaverTronics
+97	bubble	4309 - 4-H Botsmiths
+98	out	2605 - Sehome Seamonsters
+99	bubble	4051 - Sabin-Sharks
+100	bubble	4043 - NerdHerd
+101	out	4082 - Ranching Robots
+102	bubble	360 - The Revolution
+103	bubble	4662 - Byte Sized Robotics
+104	bubble	5941 - SPQL
+105	bubble	3787 - Wild Robotocats
+106	bubble	5956 - Falcons
+107	bubble	1432 - Metal Beavers
+108	bubble	948 - NRG (Newport Robotics Group)
+109	out	3693 - GearHead Pirates
+110	bubble	1359 - Scalawags
+111	bubble	3588 - the Talon
+112	bubble	2906 - Sentinel Prime Robotics
+113	bubble	4132 - Scotbots
+114	out	3268 - Vahallabots
+115	bubble	4110 - DEEP SPACE NINERS
+116	out	3789 - On Track Robotics
+117	bubble	2635 - Lake Monsters
+118	bubble	2002 - Tualatin Robotics
+119	bubble	3684 - Electric Eagles
+120	bubble	2550 - Skynet
+121	out	3681 - Robo-Raiders
+122	out	1899 - Saints Robotics
+123	bubble	4681 - Murphy's law
+124	bubble	5683 - RAVE
+125	out	3192 - Tiger Bytes
+126	out	4918 - The Roboctopi
+127	out	4104 - Blackhawks
+128	~out	5977 - Rosemary Anderson H S/POIC
+129	out	4127 - LoggerBots
+130	bubble	3781 - Cardinal 4-H Robotics
+131	out	3575 - OK Aggies
+132	~out	5939 - Lakes Lancers
+133	bubble	4654 - Mountaineers
+134	out	957 - SWARM
+135	bubble	2927 - Pi Rho Techs
+136	bubble	3219 - TREAD
+137	~out	4060 - S.W.A.G.
+138	~out	2980 - The Whidbey Island Wild Cats
+139	~out	4461 - Ramen
+140	~out	3237 - Bionic Braves
+141	out	3876 - Mabton LugNutz
+142	out	5111 - SaxonBots
+143	~out	5748 - Octo π Rates
+144	~out	3049 - BremerTron
+145	~out	2929 - JAGBOTS
+146	~out	3218 - Panther Robotics
+147	out	2660 - Pengbots
+148	~out	3636 - Generals
+149	~out	1571 - CALibrate Robotics
+150	~out	5295 - Aldernating Current
+151	~out	2915 - Riverdale Robotics/Pandamonium
+152	~out	2555 - RoboRams
+153	~out	2942 - Panda ER
+154	~out	4579 - RoboEagles
+155	~out	3131 - Gladiators
+156	~out	3576 - Clover Park High School Warrio...
+157	~out	3831 - Da Bears

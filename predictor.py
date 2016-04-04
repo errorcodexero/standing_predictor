@@ -23,13 +23,22 @@ def parse_line(s):
 			if d>0: return d
 			return None
 		except: return None
+	def parse_qual(s):
+		st=s.strip()
+		if st=='Qualified': return 'in'
+		if st=='---': return 'out'
+		print 'not understood: \"%s\"'%s
+		raise
+
 	#print len(sp),sp
 	return {
 		'rank':sp[0],
 		'total_points':int(sp[1]),
 		'team':sp[2],
+		'team_number':int(sp[2].split()[0]),
 		'event1':parse_event(3),
-		'event2':parse_event(4)
+		'event2':parse_event(4),
+		'dcmp_qual':parse_qual(sp[5])
 		}
 
 def parse_file(input_filename):

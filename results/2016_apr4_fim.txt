@@ -1,0 +1,415 @@
+Best-case points to make it to district cmp: 66
+Worst-case points to make it to district cmp: 92
+Best estimate: 71
+{'bubble': 37, 'out': 205, '~in': 46, '~out': 81, 'in': 42}
+0	in	67 - The HOT Team 
+1	in	33 - Killer Bees 
+2	in	2834 - Bionic Black Hawks 
+3	in	85 - B.O.B. (Built on Brains) 
+4	in	3357 - COMETS 
+5	in	1023 - Bedford Express 
+6	in	5505 - V2 Robotics 
+7	in	3534 - House of Cards 
+8	in	2767 - Stryke Force 
+9	in	1718 - The Fighting Pi 
+10	in	3620 - Average Joes 
+11	in	3546 - Buc'n'Gears 
+12	in	2137 - TORC 
+13	in	5926 - MooBotics 
+14	in	1918 - NC GEARS 
+15	in	5460 - Strike Zone 
+16	in	3602 - RoboMos 
+17	in	4384 - Benzene Bots 
+18	in	5114 - Titanium Tigers 
+19	in	5980 - East Grand Rapids Robotics 
+20	in	4377 - Boyne City Blaze 
+21	in	6193 - The Legend of Robotics 
+22	in	70 - More Martians 
+23	in	494 - Martians 
+24	in	503 - Frog Force 
+25	in	3618 - Petoskey Paladins 
+26	in	107 - Team R.O.B.O.T.I.C.S. 
+27	in	3538 - RoboJackets 
+28	in	5448 - CC Automationeers 
+29	in	2619 - The Charge 
+30	in	2054 - Tech Vikes 
+31	in	6098 - bIrobot 
+32	in	123 - Team - Cosmos 
+33	in	217 - ThunderChickens 
+34	in	2337 - EngiNERDs 
+35	in	548 - Robostangs 
+36	in	3656 - Dreadbots 
+37	in	6086 - Ignition 
+38	in	4381 - Twisted Devils 
+39	in	5150 - Hybrid Hornets 
+40	in	1481 - The Riveters 
+41	in	3548 - RoboRavens2 
+42	~in	3655 - Tractor Technicians 
+43	~in	5053 - Lakers 
+44	~in	573 - Mech Warriors 
+45	~in	4362 - Gems 
+46	~in	5155 - Bearcats 
+47	~in	2474 - Excel 
+48	~in	1701 - RoboCubs 
+49	~in	68 - Truck Town Thunder 
+50	~in	3539 - Byting Bulldogs 
+51	~in	4967 - That ONE Team 
+52	~in	5222 - JackBotics 
+53	~in	5502 - Cobrots 
+54	~in	2959 - Robotarians 
+55	~in	1250 - Gator-Bots 
+56	~in	3707 - Brighton TechnoDogs 
+57	~in	4680 - Az-Tech Eagles 
+58	~in	3098 - The Captains 
+59	~in	2611 - Jacktown Vectors 
+60	~in	3770 - BlitzCreek 
+61	~in	1684 - Chimeras 
+62	~in	4003 - TriSonics 
+63	~in	858 - Demons 
+64	~in	5166 - Fabricators 
+65	~in	5084 - FridgeBot Inc. 
+66	~in	3668 - TroBots 
+67	~in	2612 - The Corsairs 
+68	~in	5712 - Hemlock's Gray Matter 
+69	~in	5167 - Vi-Bots 
+70	~in	5230 - The Resistance 
+71	~in	2771 - Code Red Robotics / Stray Dogs 
+72	~in	1025 - IMPIS 
+73	~in	5203 - Volatile Chaos Inhibitors 
+74	~in	5048 - Spartronics 
+75	~in	2586 - Copper Bots 
+76	~in	3604 - Goon Squad 
+77	~in	4391 - BraveBots 
+78	~in	51 - The Wings of Fire 
+79	out	5843 - Flurb 
+80	~in	27 - Team RUSH 
+81	~in	5567 - Code Red Robotics 
+82	~in	308 - The Monsters 
+83	~in	2832 - The Livonia Warriors 
+84	~in	3535 - Galaktech Invaders 
+85	bubble	4392 - The Deceivers 
+86	bubble	2851 - Crevolution 
+87	bubble	4376 - Raydernators 
+88	~out	1188 - RoboRavens1 
+89	~out	201 - The FEDS 
+90	~out	4810 - I AM Robot 
+91	~out	910 - The Foley Freeze 
+92	out	6085 - Devil Bots 
+93	~out	2960 - automation nation 
+94	~out	5046 - Jacked Up Jackets 
+95	out	6002 - ZooBOTix 
+96	~out	3658 - Robo - Beavers 
+97	~out	4325 - RoboRangers 
+98	~out	469 - Las Guerrillas 
+99	~out	4453 - The Red Hot Chili Bots 
+100	out	5710 - The O-Bots 
+101	~out	4130 - The Blue Devils 
+102	out	5610 - Saugatuck Robotics 
+103	out	1596 - The Instigators 
+104	out	3617 - Cold Logic 
+105	out	1506 - Metal Muscle 
+106	out	6081 - Digital Dislocators 
+107	out	141 - WOBOT 
+108	out	857 - Superior Roboworks 
+109	out	6090 - Wayland Wildcats 
+110	out	904 - D cubed 
+111	out	5509 - Like a Boss. 
+112	out	5462 - 2PawR (2 Paw Robotics) 
+113	out	5238 - Falconators 
+114	out	5915 - Mercy Midnight Storm 
+115	out	5534 - Onaway Onabots 
+116	out	1189 - The Gearheads 
+117	out	226 - Hammerheads 
+118	out	6067 - Underdogs 
+119	out	2405 - Techno Trojans 
+120	out	6117 - Team Eagle 
+121	out	703 - Team Phoenix 
+122	out	862 - Lightning Robotics 
+123	out	5860 - Full Metal Muskrats 
+124	out	5675 - WiredCats 
+125	out	5661 - RoboCards 
+126	out	4956 - Robosharks 
+127	out	2604 - Metal and Soul 
+128	bubble	5907 - CC Shambots 
+129	out	5162 - The Big Red Theory 
+130	out	245 - Adambots 
+131	~in	3688 - Norsemen 
+132	out	3667 - Mecanum Knights 
+133	out	302 - The Dragons 
+134	out	1076 - Pi Hi Samurai 
+135	out	5662 - A Flock of Nerds 
+136	out	4409 - Ground Zero 
+137	~in	5050 - Cow Town Robotics 
+138	out	2075 - Enigma Robotics 
+139	out	4776 - S.C.O.T.S. Bots 
+140	out	6114 - Do the Thing 
+141	bubble	6097 - Botcats 
+142	out	4819 - Flat Mountain Mechanics 
+143	bubble	5878 - The Great Lakers 
+144	out	280 - TnT 
+145	out	5069 - The Iron Giants 
+146	~in	3452 - GreengineerZ 
+147	~in	3886 - More Titans 
+148	out	6071 - Bot Central 
+149	out	894 - Chargers 
+150	out	6120 - Cyberstangs 
+151	out	5547 - The Talons 
+152	out	4004 - M.A.R.S. Rovers 
+153	out	4779 - RoboSapiens 
+154	out	5248 - Robo-Saxons 
+155	out	5623 - Robotic Rams 
+156	out	3572 - Wavelength 
+157	out	6020 - JGHS 
+158	out	5068 - The Outsiders 
+159	out	5234 - MarauderBots 
+160	bubble	6075 - Leland Zebrotics 
+161	out	3568 - RoboEagles 
+162	out	5256 - Atomic Vikings 
+163	out	4970 - ICE Cubed 
+164	out	2048 - The Pink Panthers 
+165	out	6108 - DRAGONBOTS 
+166	out	4237 - Team Lance-A-Bot 
+167	bubble	6121 - Robo Vikes 
+168	out	5247 - Red Devil Robotics 
+169	out	4994 - Kingston Robo-Cards 
+170	bubble	6190 - Will-er Run 
+171	out	3875 - Red Storm Robotics 
+172	out	6066 - Rambler Robotics 
+173	bubble	5194 - Voltage 
+174	bubble	3536 - Electro Eagles 
+175	out	5470 - Broncos 
+176	out	818 - Steel Armadillos 
+177	out	4961 - Shock and Awe-sum 
+178	out	470 - Grizzly Robotics 
+179	out	3570 - Pheonix 
+180	out	1 - The Juggernauts 
+181	out	4827 - Minerbotics 
+182	bubble	1711 - Raptors 
+183	out	5622 - Green Hornets 
+184	out	1502 - Technical Difficulties 
+185	out	5216 - E-Ville Empire 
+186	out	5559 - Gear Grinders 
+187	out	5447 - Team Robotica 
+188	out	6043 - Allegan Tigers Robotics Team 
+189	out	5424 - Rogue Robots 
+190	out	4327 - Q Branch 
+191	out	5066 - Singularity 
+192	bubble	6013 - Robowolves 
+193	out	5561 - Raider Robotics 
+194	out	5473 - Team Spitfire. 
+195	out	830 - The RatPack 
+196	out	5517 - District 5517 The Engineers on... 
+197	out	5560 - Central Lake Trobotics 
+198	out	6113 - M.A.R.C. 1 
+199	out	6073 - Cav-Bots 
+200	out	6094 - Manic Mechanics 
+201	out	5260 - Owosso Operating System 
+202	out	3547 - VIRUS 
+203	out	3175 - Knight Vision 
+204	out	6088 - Stephenson Eagles 
+205	out	4368 - BullBots 
+206	out	5692 - ChiefBots 
+207	out	3603 - Cyber Coyotes 
+208	out	815 - Advanced Power 
+209	out	5436 - Cyber Cats 
+210	bubble	6057 - Team Edsel 
+211	out	5555 - Spartans 
+212	bubble	4835 - Junkyard Dawgs 
+213	out	5056 - MegaHurtz 
+214	out	5224 - Panther Power 
+215	out	216 - More RoboDawgs 
+216	bubble	3641 - The Flying Toasters 
+217	out	5530 - The Lawnmowers 
+218	out	5478 - Pershing Doughbots 
+219	out	1322 - Genesee Robotics Area Youth Te... 
+220	out	4375 - Westend Gearbusters 
+221	out	5229 - Heritage Hawkbots 
+222	out	1254 - Tech Force 
+223	bubble	3767 - Titan Robotics 
+224	out	3632 - D-Techs 
+225	out	5963 - CA Frost High School 
+226	out	5989 - Panthers 
+227	out	6152 - ROBO-FALCONS 
+228	out	453 - Rockem Sockem Robotics 
+229	out	6065 - Titanium Dragons 
+230	out	5535 - Bionic Bison 
+231	out	5756 - R.E.C'in Crew 
+232	bubble	5901 - Cougars 
+233	out	288 - The RoboDawgs 
+234	bubble	6089 - Annapolis Cougars 
+235	out	1243 - Dragons 
+236	out	5487 - Tiger Robotics 
+237	out	5152 - Alotobots 
+238	out	6137 - Red Theory 
+239	bubble	94 - The Technojays 
+240	out	5702 - Robotawatomis 
+241	bubble	5524 - MacroProcessors 
+242	out	3398 - Crushing Crusaders 
+243	out	4390 - ATA Coregears 
+244	out	5660 - A.R.T. Atherton Robotics Team 
+245	out	5674 - The GEARHOUNDS 
+246	out	5161 - Trojan Technicians 
+247	out	5612 - RoboRaptors 
+248	out	6119 - Puma's 
+249	bubble	6077 - Wiking Kujon 
+250	out	5193 - Pantheon 
+251	bubble	3414 - Hackbots 
+252	out	314 - The Megatron Oracles 
+253	out	5745 - Gearheads 
+254	out	6099 - Knight Riders 
+255	out	6087 - Cybertronic Lancers 
+256	out	5246 - Tech Tribe 
+257	out	5175 - Robo Panthers 
+258	out	5486 - Robotic Turmoil 
+259	out	5642 - Mumford Mustangs 
+260	out	6102 - Mustangs 
+261	out	6078 - RoboRams 
+262	~out	6128 - The Automatics 
+263	bubble	5067 - Steiner Steel Storm 
+264	out	5619 - Jaguars 
+265	out	5182 - Chieftainators 
+266	out	4983 - IronBots 
+267	out	5688 - Robo Knights 
+268	out	5708 - Zebrotics 
+269	out	5927 - iCademy Globetrotters 
+270	out	6138 - Bulldogs 
+271	bubble	5709 - Rudyard Nerf Herders 
+272	bubble	2673 - Tenacious Technicians 
+273	out	5676 - Robo-Hornets 
+274	out	5784 - Vulcans 
+275	~out	6096 - UPSM Cobras 
+276	bubble	4216 - Blue Ops Robotics 
+277	bubble	3234 - Red Arrows 
+278	out	240 - Tempest 
+279	bubble	5697 - Bearcats 
+280	out	4337 - R 13 
+281	~out	6112 - Stang Nation 
+282	out	4811 - Majestic Eagles 
+283	out	5251 - WAYbots 
+284	out	5695 - Heavy Duty Eagles 
+285	out	4482 - Intelligent Design [ID Robotic... 
+286	out	6079 - Mech Tech 
+287	out	6091 - Eagle 1 
+288	~out	6101 - RoboRaid 
+289	bubble	5217 - Robocats 
+290	bubble	3773 - Cobalt Commanders 
+291	~out	5525 - Tool Cats 
+292	bubble	3542 - S.P.E.E.D 
+293	out	313 - The Bionic Zebras 
+294	out	322 - Team F.I.R.E. 
+295	out	5703 - Eagles Crew 
+296	bubble	74 - Team C.H.A.O.S. 
+297	bubble	2620 - Titans 
+298	out	5156 - Laker Robots 
+299	out	5501 - Bobcats 
+300	out	5650 - Carbonite Crusaders 
+301	out	5532 - The G.O.A.T.S 
+302	out	5704 - Blended Learning Academies 
+303	out	5575 - SHOCK 
+304	~out	6208 - Mechstangs 
+305	bubble	5072 - Raider Robotics 
+306	bubble	3322 - Eagle Imperium 
+307	out	247 - Da Bears 
+308	out	4715 - Big Bay Black Bears 
+309	~out	6093 - Unplugged 
+310	bubble	66 - Grizzly Robotics 
+311	~out	5853 - FEAR The Termigators 
+312	out	5282 - Railroaders 
+313	out	5706 - Tahquamenon Phenomenon 
+314	~out	6100 - MSMohawks 
+315	out	6011 - Cyber Trojans 
+316	~out	6150 - BlueBotics 
+317	out	5226 - Syn. Surgers 
+318	out	5201 - Bronco Bots 
+319	out	5641 - Eagles 
+320	out	2591 - RedTails 
+321	~out	5014 - Wildcats 
+322	out	4408 - The Robo Panthers 
+323	out	5316 - The Architects 
+324	out	244 - RoboDawgs 3D 
+325	out	3537 - Delta Force 
+326	out	5694 - Hamady Hawks 
+327	out	5713 - Beecher Cyber Bucs 
+328	~out	6019 - Lapeer Homeschool 
+329	~out	5110 - Elks 
+330	out	468 - Aftershock 
+331	out	4815 - ELECTROPANTHERS 
+332	~out	6092 - Q-Bots 
+333	~out	6074 - RoscoBots 
+334	~out	6033 - Gaget Agents 
+335	~out	6122 - Bear Lake 
+336	~out	4855 - Ramageddon 
+337	out	1677 - Quantum Ninjas 
+338	out	5235 - Gears of Fortune 
+339	out	5314 - Ice Bots 
+340	out	5664 - Big Red Robotics 
+341	~out	5774 - Maximum Overload 
+342	out	5538 - Vikingbots 
+343	~out	5531 - Orange Crush 
+344	~out	5577 - Kinematic Wolves 
+345	~out	5562 - Laker Logistics 
+346	~out	6116 - Cougar Robotics 
+347	~out	6029 - The Railbots 
+348	~out	6005 - Cardinaltronics 
+349	~out	5982 - Circuits of Destruction 
+350	~out	3302 - TurboTrojans 
+351	out	1940 - The Tech Tigers 
+352	out	5231 - Radical Jays 
+353	out	5017 - Pirates 
+354	~out	6053 - Magi Pride 
+355	out	2145 - HAZMATs 
+356	out	5574 - P.A.N.T.H.E.R.S. 
+357	~out	5467 - RoboTractors 
+358	~out	5504 - The Loose Connections 
+359	out	4568 - Robot Commander 
+360	out	4768 - Comets 
+361	out	5227 - Eagle Elite 
+362	out	5183 - Devil Bots 
+363	~out	5523 - RoboWarriors 
+364	~out	5685 - Robo Terriers 
+365	out	4998 - TESLA 
+366	~out	6136 - Ravens 
+367	~out	1504 - Desperate Penguins 
+368	out	5239 - Harper Woods Pioneers 
+369	~out	4398 - Imprimis Deo 
+370	out	3096 - The Village Bulldogs 
+371	out	3458 - Code Blue 
+372	out	5173 - Robohawks 
+373	out	5214 - The Mighty CavBots 
+374	~out	4380 - Dynomite 
+375	~out	5263 - Robo-Bucs 
+376	~out	5144 - P.R.E.D.A.T.O.R.S 
+377	~out	835 - The Sting 
+378	~out	5527 - Cyber Phoenix 
+379	~out	5008 - (robo)LIONS 
+380	~out	4988 - Yooper Troopers 
+381	out	4758 - RoboBlazers 
+382	~out	4851 - JungleBots 
+383	~out	5498 - Wired Devils 
+384	~out	5603 - Rise of the Warrior Bots 
+385	~out	5711 - Battling Bathers 
+386	~out	4395 - Dundee Vi-Borgs 
+387	~out	5090 - Torque-Nados 
+388	~out	1528 - MTR (Monroe Trojan Robotics) 
+389	~out	5086 - Cadillac Connectors 
+390	~out	1896 - Concussive Engineers 
+391	~out	4854 - Trobots 
+392	~out	2246 - The Army of Sum 
+393	~out	5533 - Electric Horse Power 
+394	~out	5213 - St. Ignace SHIELD 
+395	~out	5204 - Robocats 
+396	~out	5714 - Ojibwe Bots 
+397	~out	5205 - CHS FullMetal-Jackets 
+398	out	5255 - Robotic Tigers 
+399	~out	3619 - Blackhawks 
+400	~out	4737 - Atomigators 
+401	~out	2224 - RoboPhoenix 
+402	~out	4507 - TARminators 
+403	~out	4405 - The Atoms Family 
+404	~out	5065 - Knights 
+405	~out	5197 - DCP @ NW 
+406	~out	5215 - Steagles 
+407	~out	5225 - The Shambotz 
+408	~out	2676 - Ecorse Robo Raiders 
+409	~out	5257 - CometKaze 
+410	~out	4840 - The Panthers 
