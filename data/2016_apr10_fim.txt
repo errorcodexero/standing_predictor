@@ -1,0 +1,411 @@
+1 	146 	67 - The HOT Team 	73 [FIM District - Waterford Event] 	73 [FIM District - Howell Event] 	Qualified 	Qualified 	0
+2 	146 	33 - Killer Bees 	73 [FIM District - Waterford Event] 	73 [FIM District - Troy Event] 	Qualified 	--- 	0
+3 	145 	2834 - Bionic Black Hawks 	76 [FIM District - Lakeview Event] 	69 [FIM District - Howell Event] 	Qualified 	--- 	0
+4 	145 	2771 - Code Red Robotics / Stray Dogs 	75 [FIM District - East Kentwood Event] 	70 [FIM District - Ann Arbor Skyline Event] 	Qualified 	--- 	0
+5 	144 	85 - B.O.B. (Built on Brains) 	76 [FIM District - Lakeview Event] 	68 [FIM District - West Michigan Event] 	Qualified 	--- 	0
+6 	141 	3604 - Goon Squad 	73 [FIM District - Southfield Event] 	68 [FIM District - Woodhaven Event] 	Qualified 	--- 	0
+7 	141 	3357 - COMETS 	70 [FIM District - Lansing Event] 	71 [FIM District - East Kentwood Event] 	Qualified 	--- 	0
+8 	139 	1023 - Bedford Express 	61 [FIM District - Waterford Event] 	78 [FIM District - Livonia Event] 	Qualified 	--- 	0
+9 	135 	27 - Team RUSH 	72 [FIM District - Livonia Event] 	63 [FIM District - Woodhaven Event] 	Qualified 	Qualified 	0
+10 	128 	3688 - Norsemen 	57 [FIM District - St. Joseph Event] 	71 [FIM District - Traverse City Event] 	Qualified 	--- 	0
+11 	128 	5505 - V2 Robotics 	57 [FIM District - Escanaba Event] 	66 [FIM District - Lake Superior State University Event] 	Qualified 	--- 	5
+12 	127 	3534 - House of Cards 	60 [FIM District - Kettering University Event #2] 	67 [FIM District - Marysville Event] 	Qualified 	--- 	0
+13 	126 	2767 - Stryke Force 	73 [FIM District - St. Joseph Event] 	53 [FIM District - East Kentwood Event] 	Qualified 	Qualified 	0
+14 	126 	1718 - The Fighting Pi 	49 [FIM District - Waterford Event] 	77 [FIM District - Troy Event] 	Qualified 	--- 	0
+15 	125 	3620 - Average Joes 	72 [FIM District - St. Joseph Event] 	53 [FIM District - East Kentwood Event] 	Qualified 	--- 	0
+16 	125 	3546 - Buc'n'Gears 	49 [FIM District - St. Joseph Event] 	76 [FIM District - West Michigan Event] 	Qualified 	--- 	0
+17 	124 	2137 - TORC 	51 [FIM District - Waterford Event] 	73 [FIM District - Marysville Event] 	Qualified 	--- 	0
+18 	122 	5926 - MooBotics 	65 [FIM District - Kettering University Event #2] 	47 [FIM District - Marysville Event] 	Qualified 	--- 	10
+19 	121 	1918 - NC GEARS 	73 [FIM District - Standish-Sterling Event] 	48 [FIM District - West Michigan Event] 	Qualified 	--- 	0
+20 	119 	5460 - Strike Zone 	57 [FIM District - Kettering University Event #1] 	57 [FIM District - Lansing Event] 	Qualified 	--- 	5
+21 	118 	3602 - RoboMos 	47 [FIM District - Standish-Sterling Event] 	71 [FIM District - Escanaba Event] 	Qualified 	--- 	0
+22 	117 	5050 - Cow Town Robotics 	55 [FIM District - Livonia Event] 	62 [FIM District - Woodhaven Event] 	Qualified 	--- 	0
+23 	116 	4384 - Benzene Bots 	69 [FIM District - Kettering University Event #1] 	47 [FIM District - Howell Event] 	Qualified 	--- 	0
+24 	112 	5114 - Titanium Tigers 	53 [FIM District - Kettering University Event #1] 	59 [FIM District - Midland Event] 	Qualified 	--- 	0
+25 	111 	5980 - East Grand Rapids Robotics 	55 [FIM District - Lakeview Event] 	46 [FIM District - West Michigan Event] 	Qualified 	--- 	10
+26 	109 	4377 - Boyne City Blaze 	76 [FIM District - Standish-Sterling Event] 	33 [FIM District - Lake Superior State University Event] 	Qualified 	--- 	0
+27 	108 	6193 - The Legend of Robotics 	40 [FIM District - Standish-Sterling Event] 	58 [FIM District - Midland Event] 	Qualified 	--- 	10
+28 	107 	70 - More Martians 	67 [FIM District - Kettering University Event #1] 	40 [FIM District - Howell Event] 	Qualified 	--- 	0
+29 	107 	494 - Martians 	63 [FIM District - Kettering University Event #2] 	44 [FIM District - Howell Event] 	Qualified 	--- 	0
+30 	107 	503 - Frog Force 	59 [FIM District - Center Line Event] 	48 [FIM District - Livonia Event] 	Qualified 	--- 	0
+31 	107 	3618 - Petoskey Paladins 	56 [FIM District - Standish-Sterling Event] 	51 [FIM District - Midland Event] 	Qualified 	--- 	0
+32 	106 	107 - Team R.O.B.O.T.I.C.S. 	36 [FIM District - Standish-Sterling Event] 	70 [FIM District - West Michigan Event] 	Qualified 	--- 	0
+33 	105 	5907 - CC Shambots 	48 [FIM District - Livonia Event] 	47 [FIM District - Woodhaven Event] 	Qualified 	--- 	10
+34 	105 	3538 - RoboJackets 	37 [FIM District - Southfield Event] 	68 [FIM District - Midland Event] 	Qualified 	--- 	0
+35 	104 	5448 - CC Automationeers 	58 [FIM District - Standish-Sterling Event] 	41 [FIM District - West Michigan Event] 	Qualified 	--- 	5
+36 	103 	2619 - The Charge 	25 [FIM District - Standish-Sterling Event] 	78 [FIM District - Midland Event] 	Qualified 	--- 	0
+37 	102 	2054 - Tech Vikes 	60 [FIM District - West Michigan Event] 	42 [FIM District - East Kentwood Event] 	Qualified 	--- 	0
+38 	102 	6098 - bIrobot 	43 [FIM District - Standish-Sterling Event] 	49 [FIM District - Marysville Event] 	Qualified 	--- 	10
+39 	101 	4391 - BraveBots 	73 [FIM District - Escanaba Event] 	28 [FIM District - Traverse City Event] 	Qualified 	--- 	0
+40 	101 	3452 - GreengineerZ 	53 [FIM District - St. Joseph Event] 	48 [FIM District - Ann Arbor Skyline Event] 	Qualified 	--- 	0
+41 	101 	3641 - The Flying Toasters 	37 [FIM District - Livonia Event] 	64 [FIM District - Ann Arbor Skyline Event] 	Qualified 	--- 	0
+42 	99 	4216 - Blue Ops Robotics 	26 [FIM District - Lansing Event] 	73 [FIM District - Ann Arbor Skyline Event] 	Qualified 	--- 	0
+43 	99 	5878 - The Great Lakers 	44 [FIM District - Escanaba Event] 	45 [FIM District - Traverse City Event] 	Qualified 	--- 	10
+44 	98 	123 - Team - Cosmos 	48 [FIM District - Southfield Event] 	50 [FIM District - Center Line Event] 	Qualified 	--- 	0
+45 	98 	217 - ThunderChickens 	60 [FIM District - Marysville Event] 	38 [FIM District - Troy Event] 	Qualified 	--- 	0
+46 	98 	2337 - EngiNERDs 	35 [FIM District - Kettering University Event #2] 	63 [FIM District - Troy Event] 	Qualified 	--- 	0
+47 	98 	548 - Robostangs 	47 [FIM District - Southfield Event] 	51 [FIM District - Livonia Event] 	Qualified 	--- 	0
+48 	96 	3656 - Dreadbots 	57 [FIM District - Kettering University Event #1] 	39 [FIM District - Lakeview Event] 	Qualified 	--- 	0
+49 	96 	6086 - Ignition 	41 [FIM District - Kettering University Event #1] 	45 [FIM District - Kettering University Event #2] 	Qualified 	--- 	10
+50 	96 	4381 - Twisted Devils 	43 [FIM District - Lakeview Event] 	53 [FIM District - Lansing Event] 	Qualified 	--- 	0
+51 	95 	5150 - Hybrid Hornets 	53 [FIM District - Kettering University Event #1] 	42 [FIM District - Marysville Event] 	Qualified 	--- 	0
+52 	94 	1481 - The Riveters 	36 [FIM District - Southfield Event] 	58 [FIM District - Center Line Event] 	Qualified 	--- 	0
+53 	93 	3548 - RoboRavens2 	66 [FIM District - Southfield Event] 	27 [FIM District - Livonia Event] 	Qualified 	--- 	0
+54 	93 	74 - Team C.H.A.O.S. 	23 [FIM District - West Michigan Event] 	70 [FIM District - Traverse City Event] 	Qualified 	--- 	0
+55 	92 	3655 - Tractor Technicians 	54 [FIM District - Waterford Event] 	38 [FIM District - Lansing Event] 	Qualified 	--- 	0
+56 	92 	3536 - Electro Eagles 	48 [FIM District - Howell Event] 	44 [FIM District - Ann Arbor Skyline Event] 	Qualified 	--- 	0
+57 	92 	6075 - Leland Zebrotics 	41 [FIM District - Escanaba Event] 	41 [FIM District - Traverse City Event] 	Qualified 	--- 	10
+58 	91 	5053 - Lakers 	25 [FIM District - Kettering University Event #1] 	66 [FIM District - Center Line Event] 	Qualified 	--- 	0
+59 	90 	573 - Mech Warriors 	46 [FIM District - Southfield Event] 	44 [FIM District - Troy Event] 	Qualified 	--- 	0
+60 	90 	4362 - Gems 	37 [FIM District - Kettering University Event #2] 	53 [FIM District - Howell Event] 	Qualified 	--- 	0
+61 	89 	5155 - Bearcats 	23 [FIM District - Kettering University Event #2] 	66 [FIM District - Marysville Event] 	Qualified 	--- 	0
+62 	89 	2474 - Excel 	36 [FIM District - St. Joseph Event] 	53 [FIM District - East Kentwood Event] 	Qualified 	--- 	0
+63 	88 	1701 - RoboCubs 	21 [FIM District - Southfield Event] 	67 [FIM District - Center Line Event] 	Qualified 	--- 	0
+64 	88 	68 - Truck Town Thunder 	34 [FIM District - Lansing Event] 	54 [FIM District - Howell Event] 	Qualified 	--- 	0
+65 	86 	3539 - Byting Bulldogs 	28 [FIM District - Kettering University Event #2] 	58 [FIM District - Troy Event] 	Qualified 	--- 	0
+66 	86 	4967 - That ONE Team 	38 [FIM District - St. Joseph Event] 	48 [FIM District - East Kentwood Event] 	Qualified 	--- 	0
+67 	85 	5222 - JackBotics 	46 [FIM District - Midland Event] 	39 [FIM District - Lansing Event] 	Qualified 	--- 	0
+68 	84 	5502 - Cobrots 	34 [FIM District - Kettering University Event #1] 	45 [FIM District - Lansing Event] 	Qualified 	--- 	5
+69 	84 	2959 - Robotarians 	22 [FIM District - St. Joseph Event] 	62 [FIM District - Lansing Event] 	Qualified 	--- 	0
+70 	84 	1250 - Gator-Bots 	25 [FIM District - Waterford Event] 	59 [FIM District - Livonia Event] 	Qualified 	--- 	0
+71 	83 	3707 - Brighton TechnoDogs 	61 [FIM District - Kettering University Event #2] 	22 [FIM District - Howell Event] 	Qualified 	--- 	0
+72 	83 	4680 - Az-Tech Eagles 	53 [FIM District - Southfield Event] 	30 [FIM District - Center Line Event] 	Qualified 	--- 	0
+73 	82 	3098 - The Captains 	21 [FIM District - Waterford Event] 	61 [FIM District - Center Line Event] 	Qualified 	--- 	0
+74 	81 	2611 - Jacktown Vectors 	27 [FIM District - Lakeview Event] 	54 [FIM District - Lansing Event] 	Qualified 	--- 	0
+75 	81 	3770 - BlitzCreek 	49 [FIM District - Standish-Sterling Event] 	32 [FIM District - Midland Event] 	Qualified 	--- 	0
+76 	81 	6097 - Botcats 	44 [FIM District - St. Joseph Event] 	27 [FIM District - Traverse City Event] 	Qualified 	--- 	10
+77 	81 	1684 - Chimeras 	38 [FIM District - Kettering University Event #2] 	43 [FIM District - Lansing Event] 	Qualified 	--- 	0
+78 	79 	4003 - TriSonics 	46 [FIM District - Waterford Event] 	33 [FIM District - West Michigan Event] 	Qualified 	--- 	0
+79 	79 	3886 - More Titans 	53 [FIM District - Escanaba Event] 	26 [FIM District - Traverse City Event] 	Qualified 	--- 	0
+80 	79 	858 - Demons 	50 [FIM District - St. Joseph Event] 	29 [FIM District - East Kentwood Event] 	Qualified 	--- 	0
+81 	78 	5166 - Fabricators 	50 [FIM District - Standish-Sterling Event] 	28 [FIM District - Midland Event] 	Qualified 	--- 	0
+82 	78 	5084 - FridgeBot Inc. 	49 [FIM District - Kettering University Event #1] 	29 [FIM District - Lansing Event] 	Qualified 	--- 	0
+83 	78 	3668 - TroBots 	41 [FIM District - Southfield Event] 	37 [FIM District - Howell Event] 	Qualified 	--- 	0
+84 	78 	2612 - The Corsairs 	41 [FIM District - Lakeview Event] 	37 [FIM District - Lansing Event] 	Qualified 	--- 	0
+85 	77 	3234 - Red Arrows 	26 [FIM District - East Kentwood Event] 	51 [FIM District - Ann Arbor Skyline Event] 	Qualified 	--- 	0
+86 	77 	5712 - Hemlock's Gray Matter 	27 [FIM District - Standish-Sterling Event] 	45 [FIM District - Midland Event] 	Qualified 	--- 	5
+87 	77 	5167 - Vi-Bots 	40 [FIM District - Southfield Event] 	37 [FIM District - Marysville Event] 	Qualified 	--- 	0
+88 	77 	6190 - Will-er Run 	39 [FIM District - Livonia Event] 	28 [FIM District - Ann Arbor Skyline Event] 	Qualified 	--- 	10
+89 	76 	5230 - The Resistance 	34 [FIM District - Escanaba Event] 	42 [FIM District - Lake Superior State University Event] 	Qualified 	--- 	0
+90 	76 	3767 - Titan Robotics 	36 [FIM District - Escanaba Event] 	40 [FIM District - Traverse City Event] 	Qualified 	--- 	0
+91 	75 	66 - Grizzly Robotics 	22 [FIM District - St. Joseph Event] 	53 [FIM District - Ann Arbor Skyline Event] 	Qualified 	--- 	0
+92 	75 	1025 - IMPIS 	37 [FIM District - Southfield Event] 	38 [FIM District - Marysville Event] 	Qualified 	--- 	0
+93 	75 	6121 - Robo Vikes 	36 [FIM District - Standish-Sterling Event] 	25 [FIM District - Traverse City Event] 	Qualified 	--- 	10
+94 	74 	5203 - Volatile Chaos Inhibitors 	46 [FIM District - Kettering University Event #2] 	28 [FIM District - Midland Event] 	Qualified 	--- 	0
+95 	74 	5048 - Spartronics 	42 [FIM District - Waterford Event] 	32 [FIM District - Marysville Event] 	Qualified 	--- 	0
+96 	74 	2586 - Copper Bots 	36 [FIM District - Lakeview Event] 	38 [FIM District - Escanaba Event] 	Qualified 	--- 	0
+97 	74 	3414 - Hackbots 	30 [FIM District - Livonia Event] 	44 [FIM District - Traverse City Event] 	Qualified 	--- 	0
+98 	73 	51 - The Wings of Fire 	31 [FIM District - Waterford Event] 	42 [FIM District - Howell Event] 	--- 	Qualified 	0
+99 	73 	5843 - Flurb 	33 [FIM District - Southfield Event] 	30 [FIM District - Marysville Event] 	--- 	--- 	10
+100 	72 	5567 - Code Red Robotics 	44 [FIM District - Center Line Event] 	23 [FIM District - Howell Event] 	--- 	--- 	5
+101 	72 	308 - The Monsters 	27 [FIM District - Waterford Event] 	45 [FIM District - Livonia Event] 	--- 	--- 	0
+102 	72 	2832 - The Livonia Warriors 	29 [FIM District - Southfield Event] 	43 [FIM District - Livonia Event] 	--- 	--- 	0
+103 	72 	3535 - Galaktech Invaders 	41 [FIM District - Kettering University Event #1] 	31 [FIM District - Marysville Event] 	--- 	--- 	0
+104 	71 	4392 - The Deceivers 	27 [FIM District - Escanaba Event] 	44 [FIM District - Lake Superior State University Event] 	--- 	--- 	0
+105 	71 	3542 - S.P.E.E.D 	24 [FIM District - Livonia Event] 	47 [FIM District - Woodhaven Event] 	--- 	--- 	0
+106 	71 	2851 - Crevolution 	26 [FIM District - Marysville Event] 	45 [FIM District - Troy Event] 	--- 	--- 	0
+107 	71 	4376 - Raydernators 	30 [FIM District - Kettering University Event #1] 	41 [FIM District - Escanaba Event] 	--- 	--- 	0
+108 	70 	1188 - RoboRavens1 	42 [FIM District - Southfield Event] 	28 [FIM District - Livonia Event] 	--- 	--- 	0
+109 	70 	6128 - The Automatics 	19 [FIM District - West Michigan Event] 	41 [FIM District - Traverse City Event] 	--- 	--- 	10
+110 	70 	5194 - Gobles Voltage 	48 [FIM District - Lakeview Event] 	22 [FIM District - Ann Arbor Skyline Event] 	--- 	--- 	0
+111 	70 	4988 - Yooper Troopers 	12 [FIM District - Midland Event] 	58 [FIM District - Traverse City Event] 	--- 	--- 	0
+112 	70 	201 - The FEDS 	36 [FIM District - Waterford Event] 	34 [FIM District - Howell Event] 	--- 	--- 	0
+113 	70 	4810 - I AM Robot 	28 [FIM District - Waterford Event] 	42 [FIM District - Troy Event] 	--- 	--- 	0
+114 	70 	1711 - Raptors 	45 [FIM District - Escanaba Event] 	25 [FIM District - Traverse City Event] 	Qualified 	--- 	0
+115 	70 	910 - The Foley Freeze 	33 [FIM District - Center Line Event] 	37 [FIM District - Troy Event] 	--- 	--- 	0
+116 	69 	6013 - Robowolves 	33 [FIM District - Troy Event] 	26 [FIM District - Woodhaven Event] 	--- 	--- 	10
+117 	69 	6085 - Devil Bots 	31 [FIM District - Kettering University Event #2] 	28 [FIM District - Marysville Event] 	--- 	--- 	10
+118 	69 	2960 - automation nation 	44 [FIM District - Southfield Event] 	25 [FIM District - Livonia Event] 	--- 	--- 	0
+119 	69 	5046 - Jacked Up Jackets 	40 [FIM District - Kettering University Event #2] 	29 [FIM District - Marysville Event] 	--- 	--- 	0
+120 	69 	6002 - ZooBOTix 	39 [FIM District - Lakeview Event] 	20 [FIM District - East Kentwood Event] 	--- 	--- 	10
+121 	68 	3658 - Robo - Beavers 	28 [FIM District - Southfield Event] 	40 [FIM District - Lakeview Event] 	--- 	--- 	0
+122 	68 	4325 - RoboRangers 	30 [FIM District - St. Joseph Event] 	38 [FIM District - East Kentwood Event] 	--- 	--- 	0
+123 	67 	469 - Las Guerrillas 	41 [FIM District - Kettering University Event #2] 	26 [FIM District - Troy Event] 	--- 	--- 	0
+124 	67 	4453 - The Red Hot Chili Bots 	46 [FIM District - Lakeview Event] 	21 [FIM District - West Michigan Event] 	--- 	--- 	0
+125 	66 	5901 - Cougars 	24 [FIM District - Southfield Event] 	32 [FIM District - Ann Arbor Skyline Event] 	--- 	--- 	10
+126 	66 	5710 - The O-Bots 	37 [FIM District - Lakeview Event] 	24 [FIM District - West Michigan Event] 	--- 	--- 	5
+127 	66 	4130 - The Blue Devils 	34 [FIM District - Kettering University Event #2] 	32 [FIM District - Marysville Event] 	--- 	--- 	0
+128 	65 	5610 - Saugatuck Robotics 	15 [FIM District - St. Joseph Event] 	45 [FIM District - West Michigan Event] 	--- 	--- 	5
+129 	65 	1596 - The Instigators 	28 [FIM District - Escanaba Event] 	37 [FIM District - Lake Superior State University Event] 	--- 	--- 	0
+130 	65 	3617 - Cold Logic 	39 [FIM District - Escanaba Event] 	26 [FIM District - Lake Superior State University Event] 	--- 	--- 	0
+131 	65 	1506 - Metal Muscle 	31 [FIM District - Kettering University Event #2] 	34 [FIM District - West Michigan Event] 	--- 	--- 	0
+132 	64 	6081 - Digital Dislocators 	44 [FIM District - Kettering University Event #1] 	10 [FIM District - Howell Event] 	--- 	--- 	10
+133 	64 	2620 - Titans 	23 [FIM District - Livonia Event] 	41 [FIM District - Woodhaven Event] 	--- 	--- 	0
+134 	64 	141 - WOBOT 	33 [FIM District - St. Joseph Event] 	31 [FIM District - West Michigan Event] 	--- 	Qualified 	0
+135 	64 	857 - Superior Roboworks 	40 [FIM District - Lakeview Event] 	24 [FIM District - Escanaba Event] 	--- 	--- 	0
+136 	64 	6090 - Wayland Wildcats 	26 [FIM District - Marysville Event] 	28 [FIM District - East Kentwood Event] 	--- 	--- 	10
+137 	64 	904 - D cubed 	25 [FIM District - St. Joseph Event] 	39 [FIM District - Escanaba Event] 	--- 	--- 	0
+138 	64 	5509 - Like a Boss. 	25 [FIM District - Kettering University Event #1] 	34 [FIM District - Midland Event] 	--- 	--- 	5
+139 	63 	6116 - Cougar Robotics 	7 [FIM District - Livonia Event] 	46 [FIM District - Woodhaven Event] 	--- 	--- 	10
+140 	63 	5462 - 2PawR (2 Paw Robotics) 	9 [FIM District - Kettering University Event #1] 	49 [FIM District - Lakeview Event] 	--- 	--- 	5
+141 	63 	5238 - Falconators 	25 [FIM District - Kettering University Event #2] 	38 [FIM District - Lansing Event] 	--- 	--- 	0
+142 	63 	5915 - Mercy Midnight Storm 	17 [FIM District - Southfield Event] 	36 [FIM District - Center Line Event] 	--- 	--- 	10
+143 	63 	5534 - Onaway Onabots 	7 [FIM District - Standish-Sterling Event] 	51 [FIM District - Kettering University Event #2] 	--- 	--- 	5
+144 	62 	3322 - Eagle Imperium 	22 [FIM District - Southfield Event] 	40 [FIM District - Ann Arbor Skyline Event] 	--- 	--- 	0
+145 	62 	1189 - The Gearheads 	17 [FIM District - Waterford Event] 	45 [FIM District - Center Line Event] 	--- 	--- 	0
+146 	62 	226 - Hammerheads 	21 [FIM District - Midland Event] 	41 [FIM District - Troy Event] 	--- 	--- 	0
+147 	62 	6067 - Underdogs 	13 [FIM District - Kettering University Event #1] 	39 [FIM District - Midland Event] 	--- 	--- 	10
+148 	61 	2405 - Techno Trojans 	29 [FIM District - St. Joseph Event] 	32 [FIM District - West Michigan Event] 	--- 	--- 	0
+149 	61 	6117 - Team Eagle 	20 [FIM District - Waterford Event] 	31 [FIM District - Troy Event] 	--- 	--- 	10
+150 	61 	703 - Team Phoenix 	22 [FIM District - Midland Event] 	39 [FIM District - Howell Event] 	--- 	--- 	0
+151 	60 	862 - Lightning Robotics 	34 [FIM District - Standish-Sterling Event] 	26 [FIM District - Troy Event] 	--- 	--- 	0
+152 	60 	5860 - Full Metal Muskrats 	20 [FIM District - Waterford Event] 	30 [FIM District - Marysville Event] 	--- 	--- 	10
+153 	60 	5675 - WiredCats 	31 [FIM District - Lakeview Event] 	24 [FIM District - West Michigan Event] 	--- 	--- 	5
+154 	60 	5661 - RoboCards 	17 [FIM District - Standish-Sterling Event] 	38 [FIM District - Midland Event] 	--- 	--- 	5
+155 	59 	4956 - Robosharks 	22 [FIM District - St. Joseph Event] 	37 [FIM District - West Michigan Event] 	--- 	--- 	0
+156 	59 	4835 - Junkyard Dawgs 	38 [FIM District - Escanaba Event] 	21 [FIM District - Traverse City Event] 	--- 	--- 	0
+157 	59 	2604 - Metal and Soul 	14 [FIM District - Kettering University Event #2] 	45 [FIM District - Marysville Event] 	Qualified 	--- 	0
+158 	58 	5162 - The Big Red Theory 	8 [FIM District - West Michigan Event] 	50 [FIM District - East Kentwood Event] 	--- 	--- 	0
+159 	58 	94 - The Technojays 	33 [FIM District - Southfield Event] 	25 [FIM District - Traverse City Event] 	--- 	--- 	0
+160 	58 	4395 - Dundee Vi-Borgs 	11 [FIM District - Lake Superior State University Event] 	47 [FIM District - Ann Arbor Skyline Event] 	--- 	--- 	0
+161 	58 	245 - Adambots 	26 [FIM District - Waterford Event] 	32 [FIM District - Center Line Event] 	--- 	Qualified 	0
+162 	57 	3667 - Mecanum Knights 	46 [FIM District - Waterford Event] 	11 [FIM District - Marysville Event] 	--- 	--- 	0
+163 	56 	302 - The Dragons 	26 [FIM District - Livonia Event] 	30 [FIM District - Howell Event] 	--- 	--- 	0
+164 	56 	1076 - Pi Hi Samurai 	34 [FIM District - Lakeview Event] 	22 [FIM District - Howell Event] 	--- 	--- 	0
+165 	56 	5662 - A Flock of Nerds 	25 [FIM District - Waterford Event] 	26 [FIM District - Troy Event] 	--- 	--- 	5
+166 	55 	4409 - Ground Zero 	9 [FIM District - St. Joseph Event] 	46 [FIM District - East Kentwood Event] 	--- 	--- 	0
+167 	55 	6057 - Team Edsel 	29 [FIM District - Troy Event] 	16 [FIM District - Woodhaven Event] 	--- 	--- 	10
+168 	55 	2075 - Enigma Robotics 	30 [FIM District - Waterford Event] 	25 [FIM District - East Kentwood Event] 	--- 	--- 	0
+169 	55 	5524 - MacroProcessors 	28 [FIM District - Kettering University Event #1] 	22 [FIM District - Ann Arbor Skyline Event] 	--- 	--- 	5
+170 	55 	4776 - S.C.O.T.S. Bots 	20 [FIM District - Lansing Event] 	35 [FIM District - Howell Event] 	Qualified 	--- 	0
+171 	55 	6114 - Do the Thing 	9 [FIM District - West Michigan Event] 	36 [FIM District - East Kentwood Event] 	--- 	--- 	10
+172 	54 	3773 - Cobalt Commanders 	24 [FIM District - Waterford Event] 	30 [FIM District - Woodhaven Event] 	--- 	--- 	0
+173 	54 	5217 - Robocats 	24 [FIM District - Livonia Event] 	30 [FIM District - Woodhaven Event] 	--- 	--- 	0
+174 	54 	4819 - Flat Mountain Mechanics 	29 [FIM District - Midland Event] 	25 [FIM District - East Kentwood Event] 	--- 	--- 	0
+175 	54 	280 - TnT 	35 [FIM District - Southfield Event] 	19 [FIM District - Center Line Event] 	--- 	--- 	0
+176 	53 	5069 - The Iron Giants 	44 [FIM District - St. Joseph Event] 	9 [FIM District - West Michigan Event] 	--- 	--- 	0
+177 	53 	6071 - Bot Central 	9 [FIM District - Standish-Sterling Event] 	34 [FIM District - Midland Event] 	--- 	--- 	10
+178 	53 	5086 - Cadillac Connectors 	10 [FIM District - Howell Event] 	43 [FIM District - Traverse City Event] 	--- 	--- 	0
+179 	53 	6150 - BlueBotics 	11 [FIM District - Livonia Event] 	32 [FIM District - Ann Arbor Skyline Event] 	--- 	--- 	10
+180 	53 	5067 - Steiner Steel Storm 	28 [FIM District - Kettering University Event #1] 	25 [FIM District - Ann Arbor Skyline Event] 	--- 	--- 	0
+181 	53 	894 - Chargers 	30 [FIM District - Kettering University Event #1] 	23 [FIM District - Howell Event] 	--- 	--- 	0
+182 	53 	5853 - FEAR The Termigators 	12 [FIM District - Livonia Event] 	31 [FIM District - Ann Arbor Skyline Event] 	--- 	--- 	10
+183 	53 	6120 - Cyberstangs 	11 [FIM District - Marysville Event] 	32 [FIM District - Troy Event] 	--- 	--- 	10
+184 	52 	5008 - (robo)LIONS 	12 [FIM District - Troy Event] 	40 [FIM District - Ann Arbor Skyline Event] 	--- 	--- 	0
+185 	52 	5547 - The Talons 	12 [FIM District - Standish-Sterling Event] 	35 [FIM District - Escanaba Event] 	--- 	--- 	5
+186 	52 	4004 - M.A.R.S. Rovers 	6 [FIM District - St. Joseph Event] 	46 [FIM District - West Michigan Event] 	--- 	--- 	0
+187 	52 	4779 - RoboSapiens 	30 [FIM District - Waterford Event] 	22 [FIM District - Marysville Event] 	--- 	--- 	0
+188 	52 	5248 - Robo-Saxons 	22 [FIM District - Lakeview Event] 	30 [FIM District - Lansing Event] 	--- 	--- 	0
+189 	52 	5623 - Robotic Rams 	18 [FIM District - Center Line Event] 	29 [FIM District - Lansing Event] 	--- 	--- 	5
+190 	52 	3572 - Wavelength 	20 [FIM District - West Michigan Event] 	32 [FIM District - East Kentwood Event] 	--- 	--- 	0
+191 	52 	6093 - Unplugged 	12 [FIM District - Marysville Event] 	30 [FIM District - Ann Arbor Skyline Event] 	--- 	--- 	10
+192 	52 	6020 - JGHS 	17 [FIM District - Midland Event] 	25 [FIM District - Marysville Event] 	--- 	--- 	10
+193 	51 	5068 - The Outsiders 	9 [FIM District - Center Line Event] 	42 [FIM District - Troy Event] 	--- 	--- 	0
+194 	51 	5234 - MarauderBots 	17 [FIM District - Kettering University Event #1] 	34 [FIM District - Lansing Event] 	--- 	--- 	0
+195 	51 	3568 - RoboEagles 	18 [FIM District - Kettering University Event #1] 	33 [FIM District - Howell Event] 	--- 	--- 	0
+196 	51 	5256 - Atomic Vikings 	26 [FIM District - St. Joseph Event] 	25 [FIM District - East Kentwood Event] 	--- 	--- 	0
+197 	51 	4970 - ICE Cubed 	29 [FIM District - Escanaba Event] 	22 [FIM District - Lake Superior State University Event] 	--- 	--- 	0
+198 	51 	5090 - Torque-Nados 	11 [FIM District - Waterford Event] 	40 [FIM District - Woodhaven Event] 	Qualified 	--- 	0
+199 	50 	2048 - The Pink Panthers 	6 [FIM District - Southfield Event] 	44 [FIM District - Center Line Event] 	--- 	--- 	0
+200 	50 	6108 - DRAGONBOTS 	8 [FIM District - Marysville Event] 	32 [FIM District - Troy Event] 	--- 	--- 	10
+201 	50 	4237 - Team Lance-A-Bot 	18 [FIM District - St. Joseph Event] 	32 [FIM District - Lansing Event] 	--- 	--- 	0
+202 	49 	5247 - Red Devil Robotics 	15 [FIM District - Standish-Sterling Event] 	34 [FIM District - Lake Superior State University Event] 	--- 	--- 	0
+203 	49 	4994 - Kingston Robo-Cards 	29 [FIM District - Kettering University Event #1] 	20 [FIM District - Marysville Event] 	--- 	--- 	0
+204 	49 	3875 - Red Storm Robotics 	32 [FIM District - St. Joseph Event] 	17 [FIM District - East Kentwood Event] 	--- 	--- 	0
+205 	49 	6066 - Rambler Robotics 	25 [FIM District - Kettering University Event #2] 	14 [FIM District - Midland Event] 	--- 	--- 	10
+206 	49 	6101 - RoboRaid 	15 [FIM District - Howell Event] 	24 [FIM District - Ann Arbor Skyline Event] 	--- 	--- 	10
+207 	48 	5470 - Broncos 	24 [FIM District - West Michigan Event] 	19 [FIM District - East Kentwood Event] 	--- 	--- 	5
+208 	48 	818 - Steel Armadillos 	14 [FIM District - Kettering University Event #2] 	34 [FIM District - Center Line Event] 	--- 	--- 	0
+209 	47 	4961 - Shock and Awe-sum 	18 [FIM District - Kettering University Event #2] 	29 [FIM District - Troy Event] 	--- 	--- 	0
+210 	47 	470 - Grizzly Robotics 	30 [FIM District - St. Joseph Event] 	17 [FIM District - Howell Event] 	--- 	--- 	0
+211 	47 	3570 - Pheonix 	23 [FIM District - Standish-Sterling Event] 	24 [FIM District - Midland Event] 	--- 	--- 	0
+212 	47 	1 - The Juggernauts 	32 [FIM District - Kettering University Event #1] 	15 [FIM District - Marysville Event] 	--- 	--- 	0
+213 	46 	5072 - Raider Robotics 	22 [FIM District - Escanaba Event] 	24 [FIM District - Traverse City Event] 	--- 	--- 	0
+214 	46 	5525 - Tool Cats 	19 [FIM District - Standish-Sterling Event] 	22 [FIM District - Traverse City Event] 	--- 	--- 	5
+215 	46 	4827 - Minerbotics 	14 [FIM District - Escanaba Event] 	32 [FIM District - Lake Superior State University Event] 	--- 	--- 	0
+216 	46 	5498 - Wired Devils 	7 [FIM District - Southfield Event] 	34 [FIM District - Woodhaven Event] 	--- 	--- 	5
+217 	46 	6089 - Annapolis Cougars 	24 [FIM District - Livonia Event] 	12 [FIM District - Woodhaven Event] 	--- 	--- 	10
+218 	45 	1896 - Concussive Engineers 	10 [FIM District - Midland Event] 	35 [FIM District - Traverse City Event] 	--- 	--- 	0
+219 	45 	5622 - Green Hornets 	17 [FIM District - St. Joseph Event] 	23 [FIM District - East Kentwood Event] 	--- 	--- 	5
+220 	45 	1502 - Technical Difficulties 	25 [FIM District - Standish-Sterling Event] 	20 [FIM District - Lansing Event] 	--- 	--- 	0
+221 	45 	5216 - E-Ville Empire 	9 [FIM District - Kettering University Event #2] 	36 [FIM District - Midland Event] 	--- 	--- 	0
+222 	45 	5559 - Gear Grinders 	10 [FIM District - Lansing Event] 	30 [FIM District - Howell Event] 	--- 	--- 	5
+223 	45 	5531 - Orange Crush 	12 [FIM District - Livonia Event] 	28 [FIM District - Woodhaven Event] 	--- 	--- 	5
+224 	45 	5447 - Team Robotica 	14 [FIM District - Standish-Sterling Event] 	26 [FIM District - Midland Event] 	--- 	--- 	5
+225 	45 	6043 - Allegan Tigers Robotics Team 	23 [FIM District - Lakeview Event] 	12 [FIM District - West Michigan Event] 	--- 	--- 	10
+226 	44 	5424 - Rogue Robots 	21 [FIM District - Midland Event] 	18 [FIM District - Howell Event] 	--- 	--- 	5
+227 	43 	4327 - Q Branch 	9 [FIM District - Southfield Event] 	34 [FIM District - East Kentwood Event] 	--- 	--- 	0
+228 	43 	5066 - Singularity 	12 [FIM District - Waterford Event] 	31 [FIM District - Livonia Event] 	--- 	--- 	0
+229 	43 	5561 - Raider Robotics 	14 [FIM District - Kettering University Event #1] 	24 [FIM District - Midland Event] 	--- 	--- 	5
+230 	43 	5473 - Team Spitfire. 	7 [FIM District - St. Joseph Event] 	31 [FIM District - Lansing Event] 	--- 	--- 	5
+231 	43 	6077 - Wiking Kujon 	21 [FIM District - Lake Superior State University Event] 	12 [FIM District - Traverse City Event] 	--- 	--- 	10
+232 	42 	5697 - Bearcats 	20 [FIM District - Kettering University Event #2] 	17 [FIM District - Ann Arbor Skyline Event] 	--- 	--- 	5
+233 	42 	5603 - Rise of the Warrior Bots 	7 [FIM District - Midland Event] 	30 [FIM District - Traverse City Event] 	--- 	--- 	5
+234 	42 	5709 - Rudyard Nerf Herders 	22 [FIM District - Escanaba Event] 	15 [FIM District - Traverse City Event] 	--- 	--- 	5
+235 	42 	830 - The RatPack 	20 [FIM District - Lakeview Event] 	22 [FIM District - Howell Event] 	--- 	--- 	0
+236 	42 	5517 - District 5517 The Engineers on... 	11 [FIM District - Kettering University Event #2] 	26 [FIM District - Howell Event] 	--- 	--- 	5
+237 	42 	5560 - Central Lake Trobotics 	24 [FIM District - Standish-Sterling Event] 	11 [FIM District - Midland Event] 	--- 	--- 	5
+238 	42 	6113 - M.A.R.C. 1 	17 [FIM District - Escanaba Event] 	15 [FIM District - Lake Superior State University Event] 	--- 	--- 	10
+239 	42 	6073 - Cav-Bots 	14 [FIM District - Kettering University Event #2] 	18 [FIM District - Midland Event] 	--- 	--- 	10
+240 	42 	6094 - Manic Mechanics 	18 [FIM District - St. Joseph Event] 	14 [FIM District - West Michigan Event] 	--- 	--- 	10
+241 	41 	5260 - Owosso Operating System 	12 [FIM District - Kettering University Event #2] 	29 [FIM District - Lansing Event] 	--- 	--- 	0
+242 	41 	3547 - VIRUS 	20 [FIM District - St. Joseph Event] 	21 [FIM District - Livonia Event] 	--- 	--- 	0
+243 	41 	3175 - Knight Vision 	17 [FIM District - Southfield Event] 	24 [FIM District - Center Line Event] 	--- 	--- 	0
+244 	41 	6088 - Stephenson Eagles 	9 [FIM District - Escanaba Event] 	22 [FIM District - Lake Superior State University Event] 	--- 	--- 	10
+245 	40 	4368 - BullBots 	12 [FIM District - Lakeview Event] 	28 [FIM District - Marysville Event] 	--- 	--- 	0
+246 	40 	5692 - ChiefBots 	23 [FIM District - Escanaba Event] 	12 [FIM District - Lake Superior State University Event] 	--- 	--- 	5
+247 	40 	3603 - Cyber Coyotes 	24 [FIM District - Standish-Sterling Event] 	16 [FIM District - West Michigan Event] 	--- 	--- 	0
+248 	40 	815 - Advanced Power 	17 [FIM District - Southfield Event] 	23 [FIM District - Center Line Event] 	--- 	--- 	0
+249 	40 	5436 - Cyber Cats 	18 [FIM District - Waterford Event] 	17 [FIM District - Marysville Event] 	--- 	--- 	5
+250 	39 	5555 - Spartans 	26 [FIM District - Center Line Event] 	8 [FIM District - Troy Event] 	--- 	--- 	5
+251 	39 	5205 - CHS FullMetal-Jackets 	8 [FIM District - Lansing Event] 	31 [FIM District - Ann Arbor Skyline Event] 	--- 	--- 	0
+252 	38 	5056 - MegaHurtz 	14 [FIM District - Kettering University Event #1] 	24 [FIM District - St. Joseph Event] 	--- 	--- 	0
+253 	38 	5224 - Panther Power 	26 [FIM District - Standish-Sterling Event] 	12 [FIM District - Midland Event] 	--- 	--- 	0
+254 	38 	5523 - RoboWarriors 	9 [FIM District - Howell Event] 	24 [FIM District - Ann Arbor Skyline Event] 	--- 	--- 	5
+255 	37 	216 - More RoboDawgs 	10 [FIM District - St. Joseph Event] 	27 [FIM District - West Michigan Event] 	--- 	--- 	0
+256 	37 	4855 - Ramageddon 	17 [FIM District - St. Joseph Event] 	20 [FIM District - Woodhaven Event] 	--- 	--- 	0
+257 	37 	5204 - Robocats 	9 [FIM District - Lakeview Event] 	28 [FIM District - Ann Arbor Skyline Event] 	--- 	--- 	0
+258 	37 	5530 - The Lawnmowers 	9 [FIM District - Livonia Event] 	23 [FIM District - Howell Event] 	--- 	--- 	5
+259 	37 	5478 - Pershing Doughbots 	8 [FIM District - Southfield Event] 	24 [FIM District - Center Line Event] 	--- 	--- 	5
+260 	37 	1322 - Genesee Robotics Area Youth Te... 	25 [FIM District - Kettering University Event #1] 	12 [FIM District - Lake Superior State University Event] 	Qualified 	--- 	0
+261 	36 	4375 - Westend Gearbusters 	6 [FIM District - Escanaba Event] 	30 [FIM District - Lake Superior State University Event] 	--- 	--- 	0
+262 	36 	5229 - Heritage Hawkbots 	30 [FIM District - Standish-Sterling Event] 	6 [FIM District - Midland Event] 	--- 	--- 	0
+263 	36 	1254 - Tech Force 	24 [FIM District - Lakeview Event] 	12 [FIM District - West Michigan Event] 	--- 	--- 	0
+264 	36 	3632 - D-Techs 	10 [FIM District - Southfield Event] 	26 [FIM District - Center Line Event] 	--- 	--- 	0
+265 	36 	1528 - MTR (Monroe Trojan Robotics) 	11 [FIM District - Troy Event] 	25 [FIM District - Woodhaven Event] 	--- 	--- 	0
+266 	36 	5963 - CA Frost High School 	19 [FIM District - Kettering University Event #2] 	7 [FIM District - East Kentwood Event] 	--- 	--- 	10
+267 	36 	5989 - Panthers 	11 [FIM District - Escanaba Event] 	15 [FIM District - Lake Superior State University Event] 	--- 	--- 	10
+268 	36 	6152 - ROBO-FALCONS 	14 [FIM District - Waterford Event] 	12 [FIM District - Livonia Event] 	--- 	--- 	10
+269 	35 	5263 - Robo-Bucs 	13 [FIM District - Waterford Event] 	22 [FIM District - Woodhaven Event] 	--- 	--- 	0
+270 	35 	453 - Rockem Sockem Robotics 	11 [FIM District - Southfield Event] 	24 [FIM District - Center Line Event] 	--- 	--- 	0
+271 	35 	6065 - Titanium Dragons 	13 [FIM District - West Michigan Event] 	12 [FIM District - East Kentwood Event] 	--- 	--- 	10
+272 	35 	5535 - Bionic Bison 	17 [FIM District - St. Joseph Event] 	13 [FIM District - Lake Superior State University Event] 	--- 	--- 	5
+273 	34 	5756 - R.E.C'in Crew 	7 [FIM District - Southfield Event] 	22 [FIM District - Center Line Event] 	--- 	--- 	5
+274 	34 	1504 - Desperate Penguins 	13 [FIM District - Lansing Event] 	21 [FIM District - Ann Arbor Skyline Event] 	--- 	--- 	0
+275 	34 	288 - The RoboDawgs 	24 [FIM District - St. Joseph Event] 	10 [FIM District - West Michigan Event] 	--- 	--- 	0
+276 	34 	1243 - Dragons 	21 [FIM District - Kettering University Event #2] 	13 [FIM District - Lansing Event] 	--- 	--- 	0
+277 	34 	5487 - Tiger Robotics 	10 [FIM District - Kettering University Event #1] 	19 [FIM District - Midland Event] 	--- 	--- 	5
+278 	34 	5152 - Alotobots 	21 [FIM District - Lakeview Event] 	13 [FIM District - Howell Event] 	--- 	--- 	0
+279 	34 	6208 - Mechstangs 	13 [FIM District - Lakeview Event] 	11 [FIM District - Ann Arbor Skyline Event] 	--- 	--- 	10
+280 	34 	6019 - Lapeer Homeschool 	9 [FIM District - Marysville Event] 	15 [FIM District - Woodhaven Event] 	--- 	--- 	10
+281 	34 	6137 - Red Theory 	7 [FIM District - Lakeview Event] 	17 [FIM District - Lansing Event] 	--- 	--- 	10
+282 	33 	5702 - Robotawatomis 	6 [FIM District - Escanaba Event] 	22 [FIM District - Lake Superior State University Event] 	--- 	--- 	5
+283 	33 	3398 - Crushing Crusaders 	14 [FIM District - Center Line Event] 	19 [FIM District - Troy Event] 	--- 	--- 	0
+284 	33 	4390 - ATA Coregears 	8 [FIM District - Livonia Event] 	25 [FIM District - Lake Superior State University Event] 	--- 	--- 	0
+285 	33 	5660 - A.R.T. Atherton Robotics Team 	19 [FIM District - Kettering University Event #1] 	9 [FIM District - Marysville Event] 	--- 	--- 	5
+286 	33 	5674 - The GEARHOUNDS 	12 [FIM District - Lakeview Event] 	16 [FIM District - Lansing Event] 	--- 	--- 	5
+287 	33 	2673 - Tenacious Technicians 	27 [FIM District - Center Line Event] 	6 [FIM District - Ann Arbor Skyline Event] 	--- 	--- 	0
+288 	33 	6112 - Stang Nation 	15 [FIM District - Escanaba Event] 	8 [FIM District - Traverse City Event] 	--- 	--- 	10
+289 	33 	6096 - UPSM Cobras 	17 [FIM District - Center Line Event] 	6 [FIM District - Ann Arbor Skyline Event] 	--- 	--- 	10
+290 	32 	4737 - Atomigators 	8 [FIM District - Waterford Event] 	24 [FIM District - Woodhaven Event] 	--- 	--- 	0
+291 	32 	5161 - Trojan Technicians 	9 [FIM District - Lakeview Event] 	23 [FIM District - West Michigan Event] 	--- 	--- 	0
+292 	32 	5144 - P.R.E.D.A.T.O.R.S 	13 [FIM District - Livonia Event] 	19 [FIM District - Woodhaven Event] 	--- 	--- 	0
+293 	32 	5612 - RoboRaptors 	15 [FIM District - Kettering University Event #1] 	12 [FIM District - Marysville Event] 	--- 	--- 	5
+294 	32 	5577 - Kinematic Wolves 	12 [FIM District - Southfield Event] 	15 [FIM District - Ann Arbor Skyline Event] 	--- 	--- 	5
+295 	31 	6092 - Q-Bots 	8 [FIM District - Lakeview Event] 	13 [FIM District - Ann Arbor Skyline Event] 	--- 	--- 	10
+296 	31 	6119 - Puma's 	11 [FIM District - Lakeview Event] 	10 [FIM District - Escanaba Event] 	--- 	--- 	10
+297 	30 	5193 - Pantheon 	6 [FIM District - Waterford Event] 	24 [FIM District - Midland Event] 	--- 	--- 	0
+298 	30 	5014 - Wildcats 	19 [FIM District - Southfield Event] 	11 [FIM District - Woodhaven Event] 	--- 	--- 	0
+299 	30 	314 - The Megatron Oracles 	13 [FIM District - Kettering University Event #2] 	17 [FIM District - Livonia Event] 	--- 	--- 	0
+300 	30 	6033 - Gaget Agents 	8 [FIM District - Midland Event] 	12 [FIM District - Traverse City Event] 	--- 	--- 	10
+301 	30 	5745 - Gearheads 	11 [FIM District - St. Joseph Event] 	14 [FIM District - East Kentwood Event] 	--- 	--- 	5
+302 	30 	6099 - Knight Riders 	10 [FIM District - Center Line Event] 	10 [FIM District - Troy Event] 	--- 	--- 	10
+303 	30 	6087 - Cybertronic Lancers 	12 [FIM District - St. Joseph Event] 	8 [FIM District - Lake Superior State University Event] 	--- 	--- 	10
+304 	29 	5246 - Tech Tribe 	23 [FIM District - West Michigan Event] 	6 [FIM District - East Kentwood Event] 	--- 	--- 	0
+305 	29 	5175 - Robo Panthers 	25 [FIM District - Standish-Sterling Event] 	4 [FIM District - Escanaba Event] 	--- 	--- 	0
+306 	29 	5486 - Robotic Turmoil 	12 [FIM District - Lakeview Event] 	12 [FIM District - Escanaba Event] 	--- 	--- 	5
+307 	29 	5562 - Laker Logistics 	12 [FIM District - Standish-Sterling Event] 	12 [FIM District - Traverse City Event] 	--- 	--- 	5
+308 	29 	5642 - Mumford Mustangs 	12 [FIM District - Center Line Event] 	12 [FIM District - Troy Event] 	--- 	--- 	5
+309 	29 	6005 - Cardinaltronics 	7 [FIM District - East Kentwood Event] 	12 [FIM District - Traverse City Event] 	--- 	--- 	10
+310 	29 	6102 - Mustangs 	11 [FIM District - Midland Event] 	8 [FIM District - East Kentwood Event] 	--- 	--- 	10
+311 	29 	6078 - RoboRams 	11 [FIM District - Lansing Event] 	8 [FIM District - Howell Event] 	--- 	--- 	10
+312 	28 	5619 - Jaguars 	6 [FIM District - Southfield Event] 	17 [FIM District - Troy Event] 	--- 	--- 	5
+313 	28 	5182 - Chieftainators 	9 [FIM District - St. Joseph Event] 	19 [FIM District - Lansing Event] 	--- 	--- 	0
+314 	28 	4983 - IronBots 	9 [FIM District - Standish-Sterling Event] 	19 [FIM District - Escanaba Event] 	--- 	--- 	0
+315 	28 	5688 - Robo Knights 	11 [FIM District - Waterford Event] 	12 [FIM District - Lansing Event] 	--- 	--- 	5
+316 	28 	5708 - Zebrotics 	9 [FIM District - Waterford Event] 	14 [FIM District - Livonia Event] 	--- 	--- 	5
+317 	28 	5927 - iCademy Globetrotters 	7 [FIM District - West Michigan Event] 	11 [FIM District - East Kentwood Event] 	--- 	--- 	10
+318 	28 	6053 - Magi Pride 	6 [FIM District - Lakeview Event] 	12 [FIM District - Ann Arbor Skyline Event] 	--- 	--- 	10
+319 	28 	6138 - Bulldogs 	9 [FIM District - Lakeview Event] 	9 [FIM District - East Kentwood Event] 	--- 	--- 	10
+320 	27 	5110 - Robo Herd 	18 [FIM District - Lake Superior State University Event] 	9 [FIM District - Traverse City Event] 	--- 	--- 	0
+321 	27 	4380 - Dynomite 	13 [FIM District - Kettering University Event #2] 	14 [FIM District - Woodhaven Event] 	--- 	--- 	0
+322 	27 	5676 - Robo-Hornets 	9 [FIM District - Lansing Event] 	13 [FIM District - Howell Event] 	--- 	--- 	5
+323 	27 	5784 - Vulcans 	11 [FIM District - Kettering University Event #1] 	11 [FIM District - Marysville Event] 	--- 	--- 	5
+324 	27 	5467 - RoboTractors 	10 [FIM District - Waterford Event] 	12 [FIM District - Woodhaven Event] 	--- 	--- 	5
+325 	26 	240 - Tempest 	8 [FIM District - Livonia Event] 	18 [FIM District - Troy Event] 	--- 	--- 	0
+326 	26 	5774 - Maximum Overload 	12 [FIM District - Kettering University Event #2] 	9 [FIM District - Woodhaven Event] 	--- 	--- 	5
+327 	26 	5711 - Battling Bathers 	7 [FIM District - Waterford Event] 	14 [FIM District - Woodhaven Event] 	--- 	--- 	5
+328 	26 	6100 - MSMohawks 	11 [FIM District - West Michigan Event] 	5 [FIM District - Traverse City Event] 	--- 	--- 	10
+329 	25 	4337 - R 13 	7 [FIM District - West Michigan Event] 	18 [FIM District - East Kentwood Event] 	--- 	--- 	0
+330 	25 	3302 - TurboTrojans 	16 [FIM District - Waterford Event] 	9 [FIM District - Woodhaven Event] 	--- 	--- 	0
+331 	25 	4811 - Majestic Eagles 	11 [FIM District - Center Line Event] 	14 [FIM District - Troy Event] 	--- 	--- 	0
+332 	25 	5251 - WAYbots 	14 [FIM District - Kettering University Event #1] 	11 [FIM District - Kettering University Event #2] 	--- 	--- 	0
+333 	25 	5695 - Heavy Duty Eagles 	14 [FIM District - Livonia Event] 	6 [FIM District - Lake Superior State University Event] 	--- 	--- 	5
+334 	25 	4482 - Intelligent Design [ID Robotic... 	16 [FIM District - Lakeview Event] 	9 [FIM District - East Kentwood Event] 	--- 	--- 	0
+335 	25 	6079 - Mech Tech 	8 [FIM District - Escanaba Event] 	7 [FIM District - Lake Superior State University Event] 	--- 	--- 	10
+336 	25 	6091 - Eagle 1 	6 [FIM District - Marysville Event] 	9 [FIM District - Howell Event] 	--- 	--- 	10
+337 	24 	313 - The Bionic Zebras 	9 [FIM District - Waterford Event] 	15 [FIM District - Livonia Event] 	--- 	--- 	0
+338 	24 	322 - Team F.I.R.E. 	7 [FIM District - Kettering University Event #1] 	17 [FIM District - Troy Event] 	--- 	--- 	0
+339 	24 	4398 - Imprimis Deo 	13 [FIM District - Standish-Sterling Event] 	11 [FIM District - Traverse City Event] 	--- 	--- 	0
+340 	24 	5703 - Eagles Crew 	10 [FIM District - Standish-Sterling Event] 	9 [FIM District - Midland Event] 	--- 	--- 	5
+341 	24 	6122 - Bear Lake 	8 [FIM District - St. Joseph Event] 	6 [FIM District - Traverse City Event] 	--- 	--- 	10
+342 	24 	6029 - The Railbots 	7 [FIM District - Troy Event] 	7 [FIM District - Woodhaven Event] 	--- 	--- 	10
+343 	24 	6074 - RoscoBots 	8 [FIM District - Standish-Sterling Event] 	6 [FIM District - Traverse City Event] 	--- 	--- 	10
+344 	24 	5982 - Circuits of Destruction 	7 [FIM District - Midland Event] 	7 [FIM District - Traverse City Event] 	--- 	--- 	10
+345 	23 	5257 - CometKaze 	4 [FIM District - Midland Event] 	19 [FIM District - Traverse City Event] 	--- 	--- 	0
+346 	23 	5156 - Laker Robots 	17 [FIM District - Standish-Sterling Event] 	6 [FIM District - Marysville Event] 	--- 	--- 	0
+347 	23 	5501 - Bobcats 	6 [FIM District - Lakeview Event] 	12 [FIM District - Lansing Event] 	--- 	--- 	5
+348 	23 	5650 - Carbonite Crusaders 	12 [FIM District - Waterford Event] 	6 [FIM District - Troy Event] 	--- 	--- 	5
+349 	23 	2246 - The Army of Sum 	10 [FIM District - Lake Superior State University Event] 	13 [FIM District - Traverse City Event] 	--- 	--- 	0
+350 	23 	5532 - The G.O.A.T.S 	8 [FIM District - Center Line Event] 	10 [FIM District - Troy Event] 	--- 	--- 	5
+351 	23 	5704 - Blended Learning Academies 	7 [FIM District - Kettering University Event #2] 	11 [FIM District - Lansing Event] 	--- 	--- 	5
+352 	23 	5575 - SHOCK 	7 [FIM District - Standish-Sterling Event] 	11 [FIM District - Escanaba Event] 	--- 	--- 	5
+353 	22 	247 - Da Bears 	16 [FIM District - Southfield Event] 	6 [FIM District - Lake Superior State University Event] 	--- 	--- 	0
+354 	22 	4851 - JungleBots 	12 [FIM District - Center Line Event] 	10 [FIM District - Ann Arbor Skyline Event] 	--- 	--- 	0
+355 	22 	4715 - Big Bay Black Bears 	12 [FIM District - Escanaba Event] 	10 [FIM District - Lake Superior State University Event] 	--- 	--- 	0
+356 	21 	5282 - Railroaders 	14 [FIM District - Waterford Event] 	7 [FIM District - Lansing Event] 	--- 	--- 	0
+357 	21 	5706 - Tahquamenon Phenomenon 	7 [FIM District - Escanaba Event] 	9 [FIM District - Lake Superior State University Event] 	--- 	--- 	5
+358 	21 	5527 - Cyber Phoenix 	8 [FIM District - Kettering University Event #2] 	8 [FIM District - Woodhaven Event] 	--- 	--- 	5
+359 	21 	6011 - Cyber Trojans 	5 [FIM District - Lakeview Event] 	6 [FIM District - Howell Event] 	--- 	--- 	10
+360 	20 	5213 - St. Ignace SHIELD 	9 [FIM District - Escanaba Event] 	11 [FIM District - Traverse City Event] 	--- 	--- 	0
+361 	20 	5226 - Syn. Surgers 	8 [FIM District - Standish-Sterling Event] 	12 [FIM District - Kettering University Event #2] 	--- 	--- 	0
+362 	20 	5201 - Bronco Bots 	13 [FIM District - Kettering University Event #2] 	7 [FIM District - Marysville Event] 	--- 	--- 	0
+363 	20 	5641 - Eagles 	8 [FIM District - Kettering University Event #1] 	7 [FIM District - Howell Event] 	--- 	--- 	5
+364 	20 	5685 - Robo Terriers 	9 [FIM District - Lakeview Event] 	6 [FIM District - Woodhaven Event] 	--- 	--- 	5
+365 	20 	2591 - RedTails 	7 [FIM District - Center Line Event] 	13 [FIM District - Troy Event] 	--- 	--- 	0
+366 	19 	4408 - The Robo Panthers 	15 [FIM District - Lakeview Event] 	4 [FIM District - Lansing Event] 	--- 	--- 	0
+367 	19 	5316 - The Architects 	9 [FIM District - Standish-Sterling Event] 	10 [FIM District - East Kentwood Event] 	--- 	--- 	0
+368 	19 	244 - RoboDawgs 3D 	9 [FIM District - St. Joseph Event] 	10 [FIM District - West Michigan Event] 	--- 	--- 	0
+369 	19 	4405 - The Atoms Family 	6 [FIM District - Livonia Event] 	13 [FIM District - Woodhaven Event] 	--- 	Qualified 	0
+370 	19 	3619 - Blackhawks 	8 [FIM District - Center Line Event] 	11 [FIM District - Woodhaven Event] 	--- 	--- 	0
+371 	19 	3537 - Delta Force 	6 [FIM District - Standish-Sterling Event] 	12 [FIM District - Kettering University Event #2] 	--- 	--- 	0
+372 	19 	5694 - Hamady Hawks 	8 [FIM District - Kettering University Event #1] 	6 [FIM District - Lansing Event] 	--- 	--- 	5
+373 	19 	5713 - Beecher Cyber Bucs 	9 [FIM District - Kettering University Event #2] 	5 [FIM District - Howell Event] 	--- 	--- 	5
+374 	19 	6136 - Ravens 	4 [FIM District - Troy Event] 	5 [FIM District - Woodhaven Event] 	--- 	--- 	10
+375 	19 	5504 - The Loose Connections 	10 [FIM District - Standish-Sterling Event] 	4 [FIM District - Traverse City Event] 	--- 	--- 	5
+376 	18 	5197 - DCP @ NW 	6 [FIM District - Center Line Event] 	12 [FIM District - Ann Arbor Skyline Event] 	--- 	--- 	0
+377 	18 	468 - Aftershock 	9 [FIM District - Kettering University Event #1] 	9 [FIM District - Howell Event] 	--- 	--- 	0
+378 	18 	4815 - ELECTROPANTHERS 	13 [FIM District - Center Line Event] 	5 [FIM District - Troy Event] 	--- 	--- 	0
+379 	18 	5714 - Ojibwe Bots 	4 [FIM District - Lake Superior State University Event] 	9 [FIM District - Traverse City Event] 	--- 	--- 	5
+380 	17 	1677 - Quantum Ninjas 	8 [FIM District - Lakeview Event] 	9 [FIM District - East Kentwood Event] 	--- 	--- 	0
+381 	17 	5235 - Gears of Fortune 	11 [FIM District - Kettering University Event #1] 	6 [FIM District - Howell Event] 	--- 	--- 	0
+382 	17 	4854 - Trobots 	10 [FIM District - Southfield Event] 	7 [FIM District - Ann Arbor Skyline Event] 	--- 	--- 	0
+383 	17 	5533 - Electric Horse Power 	5 [FIM District - Livonia Event] 	7 [FIM District - Ann Arbor Skyline Event] 	--- 	--- 	5
+384 	17 	5314 - Ice Bots 	5 [FIM District - Escanaba Event] 	12 [FIM District - Lake Superior State University Event] 	--- 	--- 	0
+385 	17 	5664 - Big Red Robotics 	6 [FIM District - West Michigan Event] 	6 [FIM District - East Kentwood Event] 	--- 	--- 	5
+386 	17 	5538 - Vikingbots 	6 [FIM District - Kettering University Event #1] 	6 [FIM District - Midland Event] 	--- 	--- 	5
+387 	16 	1940 - The Tech Tigers 	5 [FIM District - St. Joseph Event] 	11 [FIM District - East Kentwood Event] 	--- 	--- 	0
+388 	16 	4507 - TARminators 	7 [FIM District - Center Line Event] 	9 [FIM District - Ann Arbor Skyline Event] 	--- 	--- 	0
+389 	16 	5231 - Radical Jays 	5 [FIM District - Midland Event] 	11 [FIM District - Lansing Event] 	--- 	--- 	0
+390 	16 	5017 - Pirates 	12 [FIM District - Standish-Sterling Event] 	4 [FIM District - Marysville Event] 	--- 	--- 	0
+391 	15 	2145 - HAZMATs 	7 [FIM District - Marysville Event] 	8 [FIM District - Howell Event] 	--- 	--- 	0
+392 	15 	2224 - RoboPhoenix 	7 [FIM District - Livonia Event] 	8 [FIM District - Ann Arbor Skyline Event] 	--- 	--- 	0
+393 	15 	5574 - P.A.N.T.H.E.R.S. 	5 [FIM District - Kettering University Event #2] 	5 [FIM District - East Kentwood Event] 	--- 	--- 	5
+394 	14 	4568 - Robot Commander 	5 [FIM District - Lansing Event] 	9 [FIM District - Howell Event] 	--- 	--- 	0
+395 	14 	4768 - Comets 	5 [FIM District - Southfield Event] 	9 [FIM District - Livonia Event] 	--- 	--- 	0
+396 	14 	5227 - Eagle Elite 	7 [FIM District - Lakeview Event] 	7 [FIM District - Lansing Event] 	--- 	--- 	0
+397 	14 	5183 - Devil Bots 	7 [FIM District - Kettering University Event #1] 	7 [FIM District - Escanaba Event] 	--- 	--- 	0
+398 	14 	4998 - TESLA 	9 [FIM District - Kettering University Event #1] 	5 [FIM District - Marysville Event] 	--- 	--- 	0
+399 	13 	5239 - Harper Woods Pioneers 	4 [FIM District - Center Line Event] 	9 [FIM District - Troy Event] 	--- 	--- 	0
+400 	13 	3096 - The Village Bulldogs 	6 [FIM District - Center Line Event] 	7 [FIM District - Troy Event] 	--- 	--- 	0
+401 	13 	3458 - Code Blue 	5 [FIM District - West Michigan Event] 	8 [FIM District - East Kentwood Event] 	--- 	--- 	0
+402 	13 	5173 - Robohawks 	7 [FIM District - St. Joseph Event] 	6 [FIM District - West Michigan Event] 	--- 	--- 	0
+403 	13 	5214 - The Mighty CavBots 	5 [FIM District - Center Line Event] 	8 [FIM District - Marysville Event] 	--- 	--- 	0
+404 	13 	2676 - Ecorse Robo Raiders 	4 [FIM District - Waterford Event] 	9 [FIM District - Woodhaven Event] 	--- 	--- 	0
+405 	13 	835 - The Sting 	13 [FIM District - Southfield Event] 	Not Played 	--- 	--- 	0
+406 	12 	5225 - The Shambotz 	4 [FIM District - Livonia Event] 	8 [FIM District - Ann Arbor Skyline Event] 	--- 	--- 	0
+407 	12 	4758 - RoboBlazers 	4 [FIM District - Southfield Event] 	8 [FIM District - Kettering University Event #2] 	--- 	--- 	0
+408 	10 	5065 - Knights 	6 [FIM District - Troy Event] 	4 [FIM District - Ann Arbor Skyline Event] 	--- 	--- 	0
+409 	10 	5215 - Steagles 	5 [FIM District - Kettering University Event #1] 	5 [FIM District - Ann Arbor Skyline Event] 	--- 	--- 	0
+410 	8 	5255 - Robotic Tigers 	4 [FIM District - St. Joseph Event] 	4 [FIM District - West Michigan Event] 	--- 	--- 	0
+411 	7 	4840 - The Panthers 	7 [FIM District - Woodhaven Event] 	Not Played 	--- 	--- 	0
