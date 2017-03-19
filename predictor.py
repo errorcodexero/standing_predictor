@@ -16,6 +16,9 @@ def flatten(a):
 def parse_line(s):
 	sp=s.split('\t')
 	def parse_event(index):
+		w2=sp[index].split()[1]
+		if w2=='(IP)': return None
+
 		x=sp[index].split()[0]
 		try:
 			d=int(x)
@@ -191,18 +194,23 @@ if __name__=='__main__':
 	p.add_option('--data',default='march11.txt')
 
 	dcmp_sizes={
+		#Updated for 2017
 		#Chesapeake District Championship
 		'CHS':58,
 		#Indiana State Championship
 		'IN':32,
+		#Israel
+		'ISR':45,
 		#Michigan State Championship
-		'FiM':102,
+		'FiM':160,
 		#Mid-Atlantic Robotics District Championship
-		'MAR':55,
+		'MAR':60,
 		#North Carolina FIRST Robotics State Championship
 		'NC':32,
 		#New England District Championship
 		'NE':64,
+		#Ontario Provincial Championship
+		'ONT':60,
 		#Pacific Northwest District Championship
 		'PNW':64,
 		#Peachtree District State Championship
