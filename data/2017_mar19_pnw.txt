@@ -1,0 +1,155 @@
+1 	154 	1595 - The Dragons 	76 [PNW District - West Valley Event] 	78 [PNW District - Central Washington University Event] 	Qualified 	0
+2 	148 	5803 - Apex Robotics 	70 [PNW District - Auburn Mountainview Event] 	73 [PNW District - Mount Vernon Event] 	--- 	5
+3 	142 	3238 - Cyborg Ferrets 	65 [PNW District - West Valley Event] 	77 [PNW District - Mount Vernon Event] 	--- 	0
+4 	109 	2046 - Bear Metal 	38 [PNW District - Auburn Mountainview Event] 	71 [PNW District - Central Washington University Event] 	--- 	0
+5 	106 	5920 - VIKotics 	70 [PNW District - West Valley Event] 	31 [PNW District - Central Washington University Event] 	--- 	5
+6 	99 	4061 - SciBorgs 	43 [PNW District - West Valley Event] 	56 [PNW District - Central Washington University Event] 	--- 	0
+7 	93 	2907 - Lion Robotics 	35 [PNW District - Auburn Mountainview Event] 	58 [PNW District - Mount Vernon Event] 	--- 	0
+8 	89 	4513 - Circuit Breakers 	63 [PNW District - West Valley Event] 	26 [PNW District - Central Washington University Event] 	--- 	0
+9 	86 	4125 - Confidential 	23 [PNW District - West Valley Event] 	63 [PNW District - Central Washington University Event] 	Qualified 	0
+10 	80 	4450 - Olympia Robotics Federation 	42 [PNW District - Auburn Mountainview Event] 	38 [PNW District - Central Washington University Event] 	--- 	0
+11 	79 	3711 - Iron Mustang 	40 [PNW District - Wilsonville Event] 	39 [PNW District - Central Washington University Event] 	--- 	0
+12 	76 	4915 - Spartronics 	76 [PNW District - Auburn Mountainview Event] 	Not Played 	--- 	0
+13 	72 	2990 - Hotwire 	72 [PNW District - Wilsonville Event] 	Not Played 	--- 	0
+14 	71 	4911 - CyberKnights 	23 [PNW District - West Valley Event] 	48 [PNW District - Mount Vernon Event] 	--- 	0
+15 	69 	4495 - Kittitas County Robotics/ Team... 	38 [PNW District - West Valley Event] 	31 [PNW District - Central Washington University Event] 	--- 	0
+16 	68 	2550 - Skynet 	68 [PNW District - Wilsonville Event] 	Not Played 	--- 	0
+17 	67 	2147 - CHUCK 	33 [PNW District - West Valley Event] 	34 [PNW District - Central Washington University Event] 	--- 	0
+18 	63 	3223 - Robotics Of Central Kitsap 	41 [PNW District - Auburn Mountainview Event] 	22 [PNW District - Central Washington University Event] 	--- 	0
+19 	61 	2148 - Mechaknights 	26 [PNW District - West Valley Event] 	35 [PNW District - Central Washington University Event] 	--- 	0
+20 	61 	3693 - GearHead Pirates 	25 [PNW District - West Valley Event] 	36 [PNW District - Central Washington University Event] 	--- 	0
+21 	58 	3588 - the Talon 	25 [PNW District - Auburn Mountainview Event] 	33 [PNW District - Central Washington University Event] 	--- 	0
+22 	57 	6076 - Mustangs 	41 [PNW District - West Valley Event] 	11 [PNW District - Central Washington University Event] 	--- 	5
+23 	54 	3663 - CPR - Cedar Park Robotics 	54 [PNW District - Mount Vernon Event] 	Not Played 	--- 	0
+24 	54 	955 - CV Robotics 	54 [PNW District - Wilsonville Event] 	Not Played 	--- 	0
+25 	54 	360 - The Revolution 	29 [PNW District - Auburn Mountainview Event] 	25 [PNW District - Mount Vernon Event] 	--- 	0
+26 	54 	6129 - Shadle Park 	35 [PNW District - West Valley Event] 	14 [PNW District - Central Washington University Event] 	--- 	5
+27 	52 	1983 - Skunk Works Robotics 	17 [PNW District - Auburn Mountainview Event] 	35 [PNW District - Central Washington University Event] 	--- 	0
+28 	52 	5942 - Warriors 	24 [PNW District - West Valley Event] 	23 [PNW District - Central Washington University Event] 	--- 	5
+29 	52 	4980 - Canine Crusaders 	33 [PNW District - West Valley Event] 	19 [PNW District - Central Washington University Event] 	--- 	0
+30 	52 	6350 - The Enumclaw Hornets 	42 [PNW District - Auburn Mountainview Event] 	Not Played 	--- 	10
+31 	49 	3674 - 4-H Clover Bots 	49 [PNW District - Wilsonville Event] 	Not Played 	--- 	0
+32 	49 	5588 - Holy Names Academy 	49 [PNW District - Auburn Mountainview Event] 	Not Played 	--- 	0
+33 	48 	4173 - Bulldogs 	48 [PNW District - Mount Vernon Event] 	Not Played 	--- 	0
+34 	48 	1540 - Flaming Chickens 	48 [PNW District - Wilsonville Event] 	Not Played 	Qualified 	0
+35 	47 	3219 - TREAD 	47 [PNW District - Central Washington University Event] 	Not Played 	--- 	0
+36 	47 	4309 - 4-H Botsmiths 	47 [PNW District - West Valley Event] 	Not Played 	--- 	0
+37 	47 	2471 - Team Mean Machine 	47 [PNW District - Wilsonville Event] 	Not Played 	--- 	0
+38 	47 	1294 - Top Gun 	47 [PNW District - Auburn Mountainview Event] 	Not Played 	--- 	0
+39 	46 	4469 - R.A.I.D. (Raider Artificial In... 	46 [PNW District - Auburn Mountainview Event] 	Not Played 	--- 	0
+40 	46 	5468 - Chaos Theory 	46 [PNW District - West Valley Event] 	Not Played 	--- 	0
+41 	46 	5827 - Code Purple 	41 [PNW District - Auburn Mountainview Event] 	Not Played 	--- 	5
+42 	45 	4104 - Blackhawks 	33 [PNW District - West Valley Event] 	12 [PNW District - Central Washington University Event] 	--- 	0
+43 	45 	2923 - Aggies 	25 [PNW District - West Valley Event] 	20 [PNW District - Central Washington University Event] 	--- 	0
+44 	44 	2928 - Viking Robotics 	44 [PNW District - Mount Vernon Event] 	Not Played 	--- 	0
+45 	43 	6445 - CTEC Robotics 	33 [PNW District - Wilsonville Event] 	Not Played 	--- 	10
+46 	42 	3220 - Mechanics of Mayhem 	18 [PNW District - West Valley Event] 	24 [PNW District - Central Washington University Event] 	--- 	0
+47 	41 	2930 - Sonic Squirrels 	41 [PNW District - Auburn Mountainview Event] 	Not Played 	--- 	0
+48 	40 	4681 - Murphy's law 	40 [PNW District - Auburn Mountainview Event] 	Not Played 	--- 	0
+49 	40 	2910 - Jack in the Bot 	40 [PNW District - Mount Vernon Event] 	Not Played 	--- 	0
+50 	40 	6343 - Steel Ridge Robotics 	30 [PNW District - Wilsonville Event] 	Not Played 	--- 	10
+51 	39 	5198 - Knight Tech 	39 [PNW District - Wilsonville Event] 	Not Played 	--- 	0
+52 	39 	753 - High Desert Droids 	39 [PNW District - Wilsonville Event] 	Not Played 	--- 	0
+53 	39 	1778 - Chill Out 	39 [PNW District - Mount Vernon Event] 	Not Played 	--- 	0
+54 	37 	4089 - Stealth Robotics 	37 [PNW District - Auburn Mountainview Event] 	Not Played 	--- 	0
+55 	37 	5085 - LakerBots 	37 [PNW District - Wilsonville Event] 	Not Played 	--- 	0
+56 	36 	2557 - SOTAbots 	36 [PNW District - Auburn Mountainview Event] 	Not Played 	--- 	0
+57 	36 	957 - SWARM 	36 [PNW District - Wilsonville Event] 	Not Played 	--- 	0
+58 	36 	5450 - St. Helens Robotics and Engine... 	36 [PNW District - Central Washington University Event] 	Not Played 	--- 	0
+59 	36 	4488 - Shockwave 	36 [PNW District - Wilsonville Event] 	Not Played 	--- 	0
+60 	36 	5975 - Beta Blues 	31 [PNW District - Central Washington University Event] 	Not Played 	--- 	5
+61 	35 	1899 - Saints Robotics 	35 [PNW District - Auburn Mountainview Event] 	Not Played 	--- 	0
+62 	34 	1425 - Error Code Xero 	34 [PNW District - Wilsonville Event] 	Not Played 	--- 	0
+63 	34 	4608 - Duct Tape Warriors 	21 [PNW District - West Valley Event] 	13 [PNW District - Central Washington University Event] 	--- 	0
+64 	33 	3575 - Okanogan FFA 	22 [PNW District - West Valley Event] 	11 [PNW District - Central Washington University Event] 	--- 	0
+65 	33 	1318 - Issaquah Robotics Society 	33 [PNW District - Auburn Mountainview Event] 	Not Played 	Qualified 	0
+66 	33 	2944 - Titanium Tigers 	10 [PNW District - West Valley Event] 	23 [PNW District - Central Washington University Event] 	--- 	0
+67 	32 	2605 - Sehome Seamonsters 	32 [PNW District - Mount Vernon Event] 	Not Played 	--- 	0
+68 	32 	2149 - CV Bearbots 	17 [PNW District - West Valley Event] 	15 [PNW District - Central Washington University Event] 	--- 	0
+69 	31 	948 - NRG (Newport Robotics Group) 	31 [PNW District - Mount Vernon Event] 	Not Played 	--- 	0
+70 	30 	488 - Team XBot 	30 [PNW District - Mount Vernon Event] 	Not Played 	--- 	0
+71 	30 	4918 - The Roboctopi 	30 [PNW District - Mount Vernon Event] 	Not Played 	--- 	0
+72 	30 	4060 - S.W.A.G. 	30 [PNW District - Wilsonville Event] 	Not Played 	--- 	0
+73 	28 	997 - Spartan Robotics 	28 [PNW District - Wilsonville Event] 	Not Played 	--- 	0
+74 	28 	3826 - Sequim Robotics Federation "SR... 	28 [PNW District - Mount Vernon Event] 	Not Played 	--- 	0
+75 	28 	2811 - StormBots 	28 [PNW District - Wilsonville Event] 	Not Played 	--- 	0
+76 	26 	2903 - NeoBots 	26 [PNW District - Mount Vernon Event] 	Not Played 	--- 	0
+77 	26 	3024 - My Favorite Team 	26 [PNW District - Wilsonville Event] 	Not Played 	--- 	0
+78 	26 	5295 - Aldernating Current 	26 [PNW District - Mount Vernon Event] 	Not Played 	--- 	0
+79 	26 	1432 - Metal Beavers 	26 [PNW District - Wilsonville Event] 	Not Played 	--- 	0
+80 	26 	6442 - Modern Americans 	16 [PNW District - Central Washington University Event] 	Not Played 	--- 	10
+81 	25 	5495 - Aluminati 	25 [PNW District - Auburn Mountainview Event] 	Not Played 	--- 	0
+82 	25 	2980 - The Whidbey Island Wild Cats 	25 [PNW District - Mount Vernon Event] 	Not Played 	Qualified 	0
+83 	25 	6443 - Falcons 	15 [PNW District - Wilsonville Event] 	Not Played 	--- 	10
+84 	24 	4077 - M*A*S*H 	24 [PNW District - Mount Vernon Event] 	Not Played 	--- 	0
+85 	23 	3070 - Team Pronto 	23 [PNW District - Mount Vernon Event] 	Not Played 	--- 	0
+86 	23 	5941 - SPQL 	18 [PNW District - Mount Vernon Event] 	Not Played 	--- 	5
+87 	23 	3789 - On Track Robotics 	13 [PNW District - West Valley Event] 	10 [PNW District - Central Washington University Event] 	--- 	0
+88 	23 	568 - Nerds of the North 	5 [PNW District - Auburn Mountainview Event] 	18 [PNW District - Wilsonville Event] 	--- 	0
+89 	22 	4043 - NerdHerd 	22 [PNW District - Wilsonville Event] 	Not Played 	--- 	0
+90 	22 	6437 - The Pacific Quakers 	12 [PNW District - Wilsonville Event] 	Not Played 	--- 	10
+91 	21 	2926 - Robo Sparks 	8 [PNW District - West Valley Event] 	13 [PNW District - Central Washington University Event] 	--- 	0
+92 	21 	6503 - Iron Dragon 	11 [PNW District - Auburn Mountainview Event] 	Not Played 	--- 	10
+93 	20 	1258 - SeaBot 	20 [PNW District - Auburn Mountainview Event] 	Not Played 	--- 	0
+94 	20 	2915 - Pandamonium 	20 [PNW District - Wilsonville Event] 	Not Played 	--- 	0
+95 	20 	6456 - Oregon Trail Academy Wi-Fires 	10 [PNW District - Wilsonville Event] 	Not Played 	--- 	10
+96 	19 	5977 - Rosemary Anderson H S/POIC 	14 [PNW District - Wilsonville Event] 	Not Played 	--- 	5
+97 	18 	4512 - BEARbots 	18 [PNW District - Mount Vernon Event] 	Not Played 	--- 	0
+98 	17 	4682 - BraveBots 	17 [PNW District - Mount Vernon Event] 	Not Played 	--- 	0
+99 	17 	2521 - SERT 	17 [PNW District - Wilsonville Event] 	Not Played 	--- 	0
+100 	17 	5937 - MI-Robotics 	12 [PNW District - Auburn Mountainview Event] 	Not Played 	--- 	5
+101 	16 	2522 - Royal Robotics 	16 [PNW District - Mount Vernon Event] 	Not Played 	--- 	0
+102 	16 	5111 - SaxonBots 	8 [PNW District - West Valley Event] 	8 [PNW District - Central Washington University Event] 	--- 	0
+103 	16 	3786 - Chargers 	16 [PNW District - Auburn Mountainview Event] 	Not Played 	--- 	0
+104 	16 	4726 - Robo Dynasty 	7 [PNW District - West Valley Event] 	9 [PNW District - Central Washington University Event] 	--- 	0
+105 	16 	6465 - Decipher 	6 [PNW District - Wilsonville Event] 	Not Played 	--- 	10
+106 	15 	3574 - HIGH TEKERZ 	15 [PNW District - Wilsonville Event] 	Not Played 	--- 	0
+107 	14 	4120 - Jagwires 	6 [PNW District - West Valley Event] 	8 [PNW District - Central Washington University Event] 	--- 	0
+108 	13 	3393 - Horns of Havoc 	13 [PNW District - Auburn Mountainview Event] 	Not Played 	--- 	0
+109 	13 	2635 - Lake Monsters 	13 [PNW District - Wilsonville Event] 	Not Played 	--- 	0
+110 	13 	5683 - RAVE 	13 [PNW District - Auburn Mountainview Event] 	Not Played 	--- 	0
+111 	12 	3049 - BremerTron 	12 [PNW District - Auburn Mountainview Event] 	Not Played 	--- 	0
+112 	12 	2976 - Spartabots 	12 [PNW District - Auburn Mountainview Event] 	Not Played 	--- 	0
+113 	12 	1359 - Scalawags 	12 [PNW District - Wilsonville Event] 	Not Played 	--- 	0
+114 	11 	3218 - Panther Robotics 	11 [PNW District - Auburn Mountainview Event] 	Not Played 	--- 	0
+115 	11 	4051 - Sabin-Sharks 	11 [PNW District - Wilsonville Event] 	Not Played 	--- 	0
+116 	10 	3636 - Generals 	10 [PNW District - Wilsonville Event] 	Not Played 	--- 	0
+117 	10 	2906 - Sentinel Prime Robotics 	10 [PNW District - Auburn Mountainview Event] 	Not Played 	--- 	0
+118 	10 	6696 - Cardinal Dynamics 	Not Played 	Not Played 	--- 	10
+119 	9 	4205 - ROBOCUBS 	9 [PNW District - Mount Vernon Event] 	Not Played 	--- 	0
+120 	9 	4180 - Iron Riders 	9 [PNW District - Mount Vernon Event] 	Not Played 	--- 	0
+121 	9 	3712 - RoboCats 	4 [PNW District - West Valley Event] 	5 [PNW District - Central Washington University Event] 	--- 	0
+122 	9 	4057 - STEAMPUNK 	9 [PNW District - Wilsonville Event] 	Not Played 	--- 	0
+123 	9 	2733 - Pigmice 	9 [PNW District - Wilsonville Event] 	Not Played 	--- 	0
+124 	9 	2929 - JAGBOTS 	9 [PNW District - Auburn Mountainview Event] 	Not Played 	--- 	0
+125 	9 	3781 - Cardinal Robotics 	9 [PNW District - Auburn Mountainview Event] 	Not Played 	--- 	0
+126 	9 	3876 - Mabton LugNutz 	9 [PNW District - Central Washington University Event] 	Not Played 	--- 	0
+127 	8 	847 - PHRED 	8 [PNW District - Wilsonville Event] 	Not Played 	--- 	0
+128 	8 	4461 - Ramen 	8 [PNW District - Auburn Mountainview Event] 	Not Played 	--- 	0
+129 	8 	4579 - RoboEagles 	8 [PNW District - Auburn Mountainview Event] 	Not Played 	--- 	0
+130 	7 	4131 - Iron Patriots 	7 [PNW District - Auburn Mountainview Event] 	Not Played 	--- 	0
+131 	7 	2942 - Panda ER 	7 [PNW District - Auburn Mountainview Event] 	Not Played 	--- 	0
+132 	7 	949 - Wolverine Robotics 	7 [PNW District - Auburn Mountainview Event] 	Not Played 	--- 	0
+133 	6 	3812 - Bits & Bots 	6 [PNW District - Central Washington University Event] 	Not Played 	--- 	0
+134 	6 	4683 - Full-metal Robotics 	6 [PNW District - Mount Vernon Event] 	Not Played 	--- 	0
+135 	6 	4110 - DEEP SPACE NINERS 	6 [PNW District - Wilsonville Event] 	Not Played 	--- 	0
+136 	6 	3684 - Electric Eagles 	6 [PNW District - Auburn Mountainview Event] 	Not Played 	--- 	0
+137 	5 	2411 - Rebel @lliance 	5 [PNW District - Wilsonville Event] 	Not Played 	--- 	0
+138 	5 	5956 - Falcons 	Not Played 	Not Played 	--- 	5
+139 	5 	5970 - BeaverTronics 	Not Played 	Not Played 	--- 	5
+140 	4 	3673 - C.Y.B.O.R.G. Seagulls 	4 [PNW District - Wilsonville Event] 	Not Played 	--- 	0
+141 	4 	3268 - Vahallabots 	4 [PNW District - Mount Vernon Event] 	Not Played 	--- 	0
+142 	0 	492 - Titan Robotics Club 	Not Played 	Not Played 	--- 	0
+143 	0 	1510 - Wildcats 	Not Played 	Not Played 	--- 	0
+144 	0 	1571 - CALibrate Robotics 	Not Played 	Not Played 	--- 	0
+145 	0 	2002 - Tualatin Robotics 	Not Played 	Not Played 	--- 	0
+146 	0 	2374 - Crusader Bots 	Not Played 	Not Played 	--- 	0
+147 	0 	2412 - Robototes 	Not Played 	Not Played 	--- 	0
+148 	0 	2555 - RoboRams 	Not Played 	Not Played 	--- 	0
+149 	0 	2898 - Flying Hedgehogs 	Not Played 	Not Played 	--- 	0
+150 	0 	3131 - Gladiators 	Not Played 	Not Played 	--- 	0
+151 	0 	4127 - LoggerBots 	Not Played 	Not Played 	--- 	0
+152 	0 	4132 - Scotbots 	Not Played 	Not Played 	--- 	0
+153 	0 	4662 - Byte Sized Robotics 	Not Played 	Not Played 	--- 	0
+154 	0 	4692 - Metal Mallards 	Not Played 	Not Played 	--- 	0
+155 	0 	5748 - Octo π Rates 	Not Played 	Not Played 	--- 	0

@@ -1,0 +1,159 @@
+Best-case points to make it to district cmp: 33
+Worst-case points to make it to district cmp: 108
+Best estimate: 52
+{'bubble': 62, 'out': 8, '~in': 34, '~out': 47, 'in': 4}
+0	in	1595 - The Dragons 
+1	in	5803 - Apex Robotics 
+2	in	3238 - Cyborg Ferrets 
+3	in	2046 - Bear Metal 
+4	~in	5920 - VIKotics 
+5	~in	4061 - SciBorgs 
+6	~in	2907 - Lion Robotics 
+7	~in	4513 - Circuit Breakers 
+8	~in	4125 - Confidential 
+9	~in	4450 - Olympia Robotics Federation 
+10	~in	3711 - Iron Mustang 
+11	~in	4915 - Spartronics 
+12	~in	2990 - Hotwire 
+13	~in	4911 - CyberKnights 
+14	~in	4495 - Kittitas County Robotics/ Team... 
+15	~in	2550 - Skynet 
+16	~in	2147 - CHUCK 
+17	~in	3223 - Robotics Of Central Kitsap 
+18	~in	2148 - Mechaknights 
+19	~in	3693 - GearHead Pirates 
+20	~in	3588 - the Talon 
+21	~in	6076 - Mustangs 
+22	~in	3663 - CPR - Cedar Park Robotics 
+23	~in	955 - CV Robotics 
+24	~in	360 - The Revolution 
+25	~in	6129 - Shadle Park 
+26	bubble	1983 - Skunk Works Robotics 
+27	bubble	5942 - Warriors 
+28	bubble	4980 - Canine Crusaders 
+29	~in	6350 - The Enumclaw Hornets 
+30	~in	3674 - 4-H Clover Bots 
+31	~in	5588 - Holy Names Academy 
+32	~in	4173 - Bulldogs 
+33	~in	1540 - Flaming Chickens 
+34	~in	3219 - TREAD 
+35	~in	4309 - 4-H Botsmiths 
+36	~in	2471 - Team Mean Machine 
+37	~in	1294 - Top Gun 
+38	~in	4469 - R.A.I.D. (Raider Artificial In... 
+39	~in	5468 - Chaos Theory 
+40	bubble	5827 - Code Purple 
+41	~out	4104 - Blackhawks 
+42	~out	2923 - Aggies 
+43	~in	2928 - Viking Robotics 
+44	bubble	6445 - CTEC Robotics 
+45	~out	3220 - Mechanics of Mayhem 
+46	bubble	2930 - Sonic Squirrels 
+47	bubble	4681 - Murphy's law 
+48	bubble	2910 - Jack in the Bot 
+49	bubble	6343 - Steel Ridge Robotics 
+50	bubble	5198 - Knight Tech 
+51	bubble	753 - High Desert Droids 
+52	bubble	1778 - Chill Out 
+53	bubble	4089 - Stealth Robotics 
+54	bubble	5085 - LakerBots 
+55	bubble	2557 - SOTAbots 
+56	bubble	957 - SWARM 
+57	bubble	5450 - St. Helens Robotics and Engine... 
+58	bubble	4488 - Shockwave 
+59	bubble	5975 - Beta Blues 
+60	bubble	1899 - Saints Robotics 
+61	bubble	1425 - Error Code Xero 
+62	~out	4608 - Duct Tape Warriors 
+63	~out	3575 - Okanogan FFA 
+64	bubble	1318 - Issaquah Robotics Society 
+65	~out	2944 - Titanium Tigers 
+66	bubble	2605 - Sehome Seamonsters 
+67	out	2149 - CV Bearbots 
+68	bubble	948 - NRG (Newport Robotics Group) 
+69	bubble	488 - Team XBot 
+70	bubble	4918 - The Roboctopi 
+71	bubble	4060 - S.W.A.G. 
+72	bubble	997 - Spartan Robotics 
+73	bubble	3826 - Sequim Robotics Federation "SR... 
+74	bubble	2811 - StormBots 
+75	bubble	2903 - NeoBots 
+76	bubble	3024 - My Favorite Team 
+77	bubble	5295 - Aldernating Current 
+78	bubble	1432 - Metal Beavers 
+79	bubble	6442 - Modern Americans 
+80	bubble	5495 - Aluminati 
+81	bubble	2980 - The Whidbey Island Wild Cats 
+82	bubble	6443 - Falcons 
+83	bubble	4077 - M*A*S*H 
+84	bubble	3070 - Team Pronto 
+85	bubble	5941 - SPQL 
+86	out	3789 - On Track Robotics 
+87	out	568 - Nerds of the North 
+88	bubble	4043 - NerdHerd 
+89	bubble	6437 - The Pacific Quakers 
+90	out	2926 - Robo Sparks 
+91	bubble	6503 - Iron Dragon 
+92	bubble	1258 - SeaBot 
+93	bubble	2915 - Pandamonium 
+94	~out	6456 - Oregon Trail Academy Wi-Fires 
+95	bubble	5977 - Rosemary Anderson H S/POIC 
+96	bubble	4512 - BEARbots 
+97	bubble	4682 - BraveBots 
+98	bubble	2521 - SERT 
+99	bubble	5937 - MI-Robotics 
+100	bubble	2522 - Royal Robotics 
+101	out	5111 - SaxonBots 
+102	bubble	3786 - Chargers 
+103	out	4726 - Robo Dynasty 
+104	~out	6465 - Decipher 
+105	bubble	3574 - HIGH TEKERZ 
+106	out	4120 - Jagwires 
+107	bubble	3393 - Horns of Havoc 
+108	bubble	2635 - Lake Monsters 
+109	bubble	5683 - RAVE 
+110	bubble	3049 - BremerTron 
+111	bubble	2976 - Spartabots 
+112	bubble	1359 - Scalawags 
+113	bubble	3218 - Panther Robotics 
+114	bubble	4051 - Sabin-Sharks 
+115	~out	3636 - Generals 
+116	~out	2906 - Sentinel Prime Robotics 
+117	~out	6696 - Cardinal Dynamics 
+118	~out	4205 - ROBOCUBS 
+119	~out	4180 - Iron Riders 
+120	out	3712 - RoboCats 
+121	~out	4057 - STEAMPUNK 
+122	~out	2733 - Pigmice 
+123	~out	2929 - JAGBOTS 
+124	~out	3781 - Cardinal Robotics 
+125	~out	3876 - Mabton LugNutz 
+126	~out	847 - PHRED 
+127	~out	4461 - Ramen 
+128	~out	4579 - RoboEagles 
+129	~out	4131 - Iron Patriots 
+130	~out	2942 - Panda ER 
+131	~out	949 - Wolverine Robotics 
+132	~out	3812 - Bits & Bots 
+133	~out	4683 - Full-metal Robotics 
+134	~out	4110 - DEEP SPACE NINERS 
+135	~out	3684 - Electric Eagles 
+136	~out	2411 - Rebel @lliance 
+137	~out	5956 - Falcons 
+138	~out	5970 - BeaverTronics 
+139	~out	3673 - C.Y.B.O.R.G. Seagulls 
+140	~out	3268 - Vahallabots 
+141	~out	492 - Titan Robotics Club 
+142	~out	1510 - Wildcats 
+143	~out	1571 - CALibrate Robotics 
+144	~out	2002 - Tualatin Robotics 
+145	~out	2374 - Crusader Bots 
+146	~out	2412 - Robototes 
+147	~out	2555 - RoboRams 
+148	~out	2898 - Flying Hedgehogs 
+149	~out	3131 - Gladiators 
+150	~out	4127 - LoggerBots 
+151	~out	4132 - Scotbots 
+152	~out	4662 - Byte Sized Robotics 
+153	~out	4692 - Metal Mallards 
+154	~out	5748 - Octo π Rates 
