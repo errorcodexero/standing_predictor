@@ -1,0 +1,198 @@
+Best-case points to make it to district cmp: 40
+Worst-case points to make it to district cmp: 106
+Best estimate: 60
+{'bubble': 31, 'out': 13, '~in': 45, '~out': 101, 'in': 4}
+0	in	5687 - The Outliers 
+1	in	95 - Grasshoppers 
+2	in	6763 - FUSION 
+3	in	4761 - The Robockets 
+4	~in	2084 - Robots by the C 
+5	~in	1071 - Team Max 
+6	~in	2648 - Infinite Loop 
+7	~in	1058 - PVC Pirates 
+8	~in	4169 - Warrior Robotics 
+9	~in	2067 - Apple Pi 
+10	~in	3958 - Schrodinger's Cat 
+11	~in	6201 - The Highlanders 
+12	~in	78 - AIR STRIKE 
+13	~in	4908 - Duxbury Dragons 
+14	~in	3623 - Terror Bots 
+15	~in	230 - Gaelhawks 
+16	~in	5563 - Phalanx 
+17	~in	125 - NUTRONs 
+18	~in	5735 - Control Freaks 
+19	~in	236 - Techno-Ticks 
+20	~in	3654 - TechTigers 
+21	~in	2168 - Aluminum Falcons 
+22	~in	1519 - Mechanical Mayhem 
+23	bubble	319 - Big Bad Bob 
+24	~in	4151 - SCRAP 
+25	~in	2370 - IBOTs 
+26	~in	3464 - Sim-City 
+27	~in	88 - TJ(Squared) 
+28	~out	4055 - NRG4055 
+29	~out	1831 - Screaming Eagles 
+30	~in	177 - Bobcat Robotics 
+31	~in	1721 - Tidal Force 
+32	~out	3205 - Patriots 
+33	~in	1991 - Dragons 
+34	~out	1517 - The Lumberjacks 
+35	~in	6328 - Mechanical Advantage 
+36	~in	4909 - Bionics 
+37	~out	1289 - Gearheadz 
+38	out	6324 - The Blue Devils 
+39	~in	190 - Gompei and the H.E.R.D. 
+40	~in	5556 - Carriagetown Robotics 
+41	~out	178 - The 2nd Law Enforcers 
+42	~out	5752 - Beverly Panthers 
+43	~out	246 - Overclocked 
+44	out	6367 - The ElectroLights 
+45	~in	4176 - Iron Tigers 
+46	out	6529 - Beantown Blitz 
+47	~in	195 - CyberKnights 
+48	~in	2342 - Team Phoenix 
+49	~in	467 - The Colonials 
+50	~in	716 - Who'sCTEKS 
+51	~out	97 - Bionic Beef 
+52	~out	237 - Black Magic Robotics 
+53	~in	181 - Birds Of Prey 
+54	~out	1761 - STEAMpunk Tigers 
+55	~in	213 - The Dirty Birds 
+56	~in	4564 - Orange Chaos 
+57	~in	348 - Norwell Robotics 
+58	~in	4905 - Andromeda One 
+59	~out	1307 - Robosaints 
+60	~in	58 - The Riot Crew 
+61	bubble	6690 - MV roboPride 
+62	~in	138 - Entropy 
+63	~in	3719 - STEM Whalers 
+64	~out	5459 - Ipswich TIGERS (Technologicall... 
+65	~out	155 - The Technonuts 
+66	~in	4041 - Iron Tigers 
+67	out	1027 - Project Jabberwocky 
+68	~in	1757 - Wolverines 
+69	bubble	1740 - Ledyard Cyber Colonels 
+70	bubble	131 - C.H.A.O.S. 
+71	bubble	121 - Rhode Warriors 
+72	bubble	4906 - The Collective 
+73	bubble	558 - Elm City Robo Squad 
+74	bubble	157 - AZTECHS 
+75	bubble	6691 - PiRho Tech 
+76	bubble	501 - The PowerKnights 
+77	bubble	5813 - Morpheus 
+78	out	3566 - Gone Fishin' 
+79	out	1965 - Firebirds 
+80	out	4572 - BArlow RobAutics 
+81	bubble	2523 - Tech Storm 
+82	bubble	133 - B.E.R.T. 
+83	bubble	3236 - TRIFORCE 
+84	bubble	1153 - Robo-Rebels 
+85	bubble	1768 - RoboChiefs 
+86	bubble	4048 - Redshift 
+87	bubble	228 - GUS Robotics 
+88	bubble	176 - Aces High 
+89	bubble	4557 - FullMetal Falcons 
+90	out	2876 - Devilbotz 
+91	~out	6731 - Belmont Robotics 
+92	bubble	5000 - Hammerheads 
+93	bubble	5129 - Digital Devils 
+94	bubble	2064 - The Panther Project 
+95	~out	5856 - Bullbots 
+96	~out	6675 - Ingenious Innovators 
+97	bubble	1073 - The Force Team 
+98	bubble	1922 - Oz-Ram 
+99	~out	5846 - Southcoast Corsairs 
+100	~out	6346 - Norwalk High School Robotics 
+101	~out	6333 - Scavenger Robotics 
+102	bubble	4097 - Devilbots 
+103	bubble	1350 - The Rambots 
+104	bubble	1099 - DiscoTechs 
+105	bubble	2262 - Robo-Panthers 
+106	bubble	69 - HYPER 
+107	~out	6329 - The Bucks' Wrath 
+108	bubble	5422 - Stormgears FRC 
+109	~out	1786 - The Robotics Team 
+110	out	2423 - The KwarQs 
+111	~out	1735 - Green Reapers 
+112	out	6301 - Nerointellect-sim Engineering ... 
+113	~out	2170 - Titanium Tomahawks 
+114	~out	6723 - Mt Greylock Robotics Team 
+115	~out	885 - THE GREEN TEAM 
+116	~out	1124 - UberBots 
+117	~out	5112 - The Gongoliers 
+118	out	5844 - Phoenix Tech 
+119	~out	3461 - Operation PEACCE Robotics 
+120	~out	6337 - Maine Central Institute Roboti... 
+121	~out	6762 - Hillcats 
+122	~out	175 - Buzz Robotics 
+123	~out	571 - Team Paragon 
+124	~out	6617 - NASA BHS Black Hawks Robotics ... 
+125	~out	238 - Crusaders 
+126	~out	839 - Rosie Robotics 
+127	~out	3930 - SMART Spruce Mountain Area Ro... 
+128	~out	3467 - Windham Windup 
+129	~out	1100 - The T-Hawks 
+130	~out	173 - RAGE Robotics 
+131	~out	6224 - The Saints 
+132	~out	2713 - iRaiders 
+133	out	5969 - English Skunkworks 
+134	~out	5902 - The Wire Clippers 
+135	~out	3466 - Vikings Robotics 
+136	~out	3525 - The Nuts & Bolts of Fury 
+137	~out	172 - Northern Force 
+138	~out	509 - Red Storm 
+139	~out	3146 - GRANBY GRUNTS 
+140	~out	6335 - Terminal Velocity 
+141	~out	663 - Robonauts 
+142	~out	5122 - robOTies 
+143	~out	6153 - Blue Crew 
+144	~out	2877 - LigerBots 
+145	~out	6620 - The Northmen 
+146	~out	4473 - Delta Prime 
+147	~out	2836 - Team Beta 
+148	~out	5962 - perSEVERE 
+149	out	4929 - Maroon Monsoon 
+150	~out	3609 - Duct Tape Dragons 
+151	~out	6161 - Equilibrium 
+152	~out	1729 - Team Inconceivable! 
+153	~out	5347 - Gryphons 
+154	~out	4987 - MegaRams 
+155	~out	5142 - Robo Dominators 
+156	~out	3634 - Spark City 
+157	~out	811 - Cardinals 
+158	~out	4034 - Pelham πthons Team 4034 
+159	~out	2079 - 4H ALARM Robotics 
+160	~out	5491 - Cognitive Hazard 
+161	~out	4042 - Murphy's Lawyers 
+162	~out	4796 - Cyber Dragons 
+163	~out	999 - MechaRAMS 
+164	~out	6172 - The Mad Dogs 
+165	~out	1699 - Robocats 
+166	~out	1474 - Master Link Militia 
+167	~out	1277 - The Robotomies 
+168	~out	1247 - Robotics of Kearsarge (ROK) 
+169	~out	2785 - Prometheus 
+170	~out	3182 - Athena's Warriors 
+171	~out	151 - Tough Techs 
+172	~out	4555 - Sprocketology 
+173	~out	126 - Gael Force 
+174	~out	166 - Chop Shop 
+175	~out	5506 - Viking Landers 
+176	~out	1512 - The Big Red 
+177	~out	5265 - Radical Impact 
+178	~out	3555 - Aluminati 
+179	~out	3323 - Potential Energy 
+180	~out	3780 - Robot Unicorns 
+181	~out	5471 - W.Hi.R.R. 
+182	~out	4628 - Sintian Robotics 
+183	~out	5686 - Wirecats 
+184	~out	4311 - Swampscott Currents 
+185	~out	3104 - The Cyber Rams 
+186	~out	3451 - The ANOMALY 
+187	~out	5746 - Human Error 
+188	~out	1973 - Brighton Burning Tiger 
+189	~out	3597 - Robo-Rangers 
+190	~out	4546 - ShockWave 
+191	~out	4925 - The Resistance 
+192	~out	4958 - Robocats 
+193	~out	5633 - Hyde Phoenix 
