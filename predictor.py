@@ -188,40 +188,59 @@ def main(input_filename,dcmp_event_size):
 	for i,team in enumerate(m):
 		print '%s\t'%i,'%s\t'%status(team),team['team']
 
+def get_dcmp_sizes(year):
+	if year==2017:
+		return {
+			#Updated for 2017
+			#Chesapeake District Championship
+			'CHS':58,
+			#Indiana State Championship
+			'IN':32,
+			#Israel
+			'ISR':45,
+			#Michigan State Championship
+			'FiM':160,
+			#Mid-Atlantic Robotics District Championship
+			'MAR':60,
+			#North Carolina FIRST Robotics State Championship
+			'NC':32,
+			#New England District Championship
+			'NE':64,
+			#Ontario Provincial Championship
+			'ONT':60,
+			#Pacific Northwest District Championship
+			'PNW':64,
+			#Peachtree District State Championship
+			'PCH':45
+		}
+	if year==2015:
+		return {
+			'FiM':102,
+			'IN':32,
+			'MAR':55,
+			'NE':60,
+			'PNW':64
+			}
+	if year==2018:
+		return {
+			'CHS':60,
+			'ISR':45,
+			'MAR':60,
+			'NC':32,
+			'ONT':80,
+			'IN':32,
+			'FiM':160,
+			'NE':64,
+			'PNW':64,
+			'PCH':45
+			}
+	raise Exception('Unsupported year')
+
 if __name__=='__main__':
 	from optparse import OptionParser
 	p=OptionParser()
 	p.add_option('--data',default='march11.txt')
-
-	dcmp_sizes={
-		#Updated for 2017
-		#Chesapeake District Championship
-		'CHS':58,
-		#Indiana State Championship
-		'IN':32,
-		#Israel
-		'ISR':45,
-		#Michigan State Championship
-		'FiM':160,
-		#Mid-Atlantic Robotics District Championship
-		'MAR':60,
-		#North Carolina FIRST Robotics State Championship
-		'NC':32,
-		#New England District Championship
-		'NE':64,
-		#Ontario Provincial Championship
-		'ONT':60,
-		#Pacific Northwest District Championship
-		'PNW':64,
-		#Peachtree District State Championship
-		'PCH':45
-	#2015 district championship event sizes:
-#		'FiM':102,
-#		'IN':32,
-#		'MAR':55,
-#		'NE':60,
-#		'PNW':64
-		}
+	dcmp_sizes=get_dcmp_sizes(2018)
 	p.add_option('--event_size',type='int')
 	p.add_option('--district',help='Options:'+' '.join(dcmp_sizes))
 	options,args=p.parse_args()
