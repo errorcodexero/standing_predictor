@@ -1,0 +1,158 @@
+1 	320 	1983 - Skunk Works Robotics 	73 [PNW District - Auburn Mountainview Event] 	76 [PNW District - Central Washington University Event] 	171 [Pacific Northwest District Championship sponsored by Autodesk] 	Qualified 	0
+2 	307 	1425 - Error Code Xero 	78 [PNW District - Wilsonville Event] 	70 [PNW District - Auburn Event] 	159 [Pacific Northwest District Championship sponsored by Autodesk] 	Qualified 	0
+3 	299 	3238 - Cyborg Ferrets 	76 [PNW District - Auburn Mountainview Event] 	58 [PNW District - Mount Vernon Event] 	165 [Pacific Northwest District Championship sponsored by Autodesk] 	Qualified 	0
+4 	289 	4469 - R.A.I.D. (Raider Artificial In... 	36 [PNW District - Auburn Mountainview Event] 	73 [PNW District - Auburn Event] 	180 [Pacific Northwest District Championship sponsored by Autodesk] 	Qualified 	0
+5 	288 	1540 - Flaming Chickens 	50 [PNW District - Wilsonville Event] 	73 [PNW District - Clackamas Academy of Industrial Science Event] 	165 [Pacific Northwest District Championship sponsored by Autodesk] 	Qualified 	0
+6 	257 	4911 - CyberKnights 	65 [PNW District - Glacier Peak Event] 	60 [PNW District - Mount Vernon Event] 	132 [Pacific Northwest District Championship sponsored by Autodesk] 	Qualified 	0
+7 	245 	360 - The Revolution 	24 [PNW District - Auburn Mountainview Event] 	35 [PNW District - Auburn Event] 	186 [Pacific Northwest District Championship sponsored by Autodesk] 	Qualified 	0
+8 	239 	2046 - Bear Metal 	61 [PNW District - Auburn Mountainview Event] 	64 [PNW District - Philomath Event] 	114 [Pacific Northwest District Championship sponsored by Autodesk] 	Qualified 	0
+9 	229 	2522 - Royal Robotics 	55 [PNW District - Auburn Mountainview Event] 	81 [PNW District - Glacier Peak Event] 	93 [Pacific Northwest District Championship sponsored by Autodesk] 	Qualified 	0
+10 	222 	4488 - Shockwave 	72 [PNW District - Wilsonville Event] 	51 [PNW District - Philomath Event] 	99 [Pacific Northwest District Championship sponsored by Autodesk] 	Qualified 	0
+11 	215 	2471 - Team Mean Machine 	60 [PNW District - Wilsonville Event] 	77 [PNW District - Clackamas Academy of Industrial Science Event] 	78 [Pacific Northwest District Championship sponsored by Autodesk] 	Qualified 	0
+12 	202 	4061 - SciBorgs 	70 [PNW District - West Valley Event] 	63 [PNW District - Central Washington University Event] 	69 [Pacific Northwest District Championship sponsored by Autodesk] 	Qualified 	0
+13 	201 	3574 - HIGH TEKERZ 	33 [PNW District - Mount Vernon Event] 	36 [PNW District - Philomath Event] 	132 [Pacific Northwest District Championship sponsored by Autodesk] 	Qualified 	0
+14 	197 	1318 - Issaquah Robotics Society 	22 [PNW District - Auburn Mountainview Event] 	55 [PNW District - Central Washington University Event] 	120 [Pacific Northwest District Championship sponsored by Autodesk] 	Qualified 	0
+15 	191 	4450 - Olympia Robotics Federation 	38 [PNW District - Auburn Mountainview Event] 	39 [PNW District - Central Washington University Event] 	114 [Pacific Northwest District Championship sponsored by Autodesk] 	Qualified 	0
+16 	179 	2557 - SOTAbots 	48 [PNW District - Auburn Mountainview Event] 	44 [PNW District - Central Washington University Event] 	87 [Pacific Northwest District Championship sponsored by Autodesk] 	Qualified 	0
+17 	177 	5803 - Apex Robotics 	24 [PNW District - Auburn Mountainview Event] 	29 [PNW District - Central Washington University Event] 	114 [Pacific Northwest District Championship sponsored by Autodesk] 	Qualified 	10
+18 	176 	4131 - Iron Patriots 	41 [PNW District - Auburn Mountainview Event] 	57 [PNW District - Auburn Event] 	78 [Pacific Northwest District Championship sponsored by Autodesk] 	Qualified 	0
+19 	174 	2907 - Lion Robotics 	36 [PNW District - Auburn Mountainview Event] 	33 [PNW District - Mount Vernon Event] 	105 [Pacific Northwest District Championship sponsored by Autodesk] 	Qualified 	0
+20 	168 	955 - CV Robotics 	56 [PNW District - Wilsonville Event] 	22 [PNW District - Philomath Event] 	90 [Pacific Northwest District Championship sponsored by Autodesk] 	Qualified 	0
+21 	164 	2990 - Hotwire 	36 [PNW District - Wilsonville Event] 	44 [PNW District - Philomath Event] 	84 [Pacific Northwest District Championship sponsored by Autodesk] 	Qualified 	0
+22 	151 	1258 - SeaBot 	25 [PNW District - Glacier Peak Event] 	42 [PNW District - Central Washington University Event] 	84 [Pacific Northwest District Championship sponsored by Autodesk] 	Qualified 	0
+23 	148 	5920 - VIKotics 	66 [PNW District - West Valley Event] 	36 [PNW District - Central Washington University Event] 	36 [Pacific Northwest District Championship sponsored by Autodesk] 	Qualified 	10
+24 	144 	5450 - St. Helens Robotics and Engine... 	69 [PNW District - West Valley Event] 	25 [PNW District - Clackamas Academy of Industrial Science Event] 	45 [Pacific Northwest District Championship sponsored by Autodesk] 	Qualified 	5
+25 	141 	2147 - CHUCK 	70 [PNW District - West Valley Event] 	35 [PNW District - Central Washington University Event] 	36 [Pacific Northwest District Championship sponsored by Autodesk] 	Qualified 	0
+26 	133 	3663 - CPR - Cedar Park Robotics 	39 [PNW District - Auburn Mountainview Event] 	70 [PNW District - Glacier Peak Event] 	24 [Pacific Northwest District Championship sponsored by Autodesk] 	Qualified 	0
+27 	132 	3786 - Chargers 	47 [PNW District - Auburn Mountainview Event] 	49 [PNW District - Auburn Event] 	36 [Pacific Northwest District Championship sponsored by Autodesk] 	Qualified 	0
+28 	130 	2374 - Crusader Bots 	30 [PNW District - Wilsonville Event] 	58 [PNW District - Clackamas Academy of Industrial Science Event] 	42 [Pacific Northwest District Championship sponsored by Autodesk] 	--- 	0
+29 	129 	1595 - The Dragons 	45 [PNW District - West Valley Event] 	30 [PNW District - Central Washington University Event] 	54 [Pacific Northwest District Championship sponsored by Autodesk] 	--- 	0
+30 	127 	2928 - Viking Robotics 	33 [PNW District - Glacier Peak Event] 	64 [PNW District - Mount Vernon Event] 	30 [Pacific Northwest District Championship sponsored by Autodesk] 	--- 	0
+31 	127 	1778 - Chill Out 	20 [PNW District - Glacier Peak Event] 	56 [PNW District - Mount Vernon Event] 	51 [Pacific Northwest District Championship sponsored by Autodesk] 	--- 	0
+32 	127 	4125 - Confidential 	31 [PNW District - West Valley Event] 	36 [PNW District - Central Washington University Event] 	60 [Pacific Northwest District Championship sponsored by Autodesk] 	Qualified 	0
+33 	126 	3711 - Iron Mustang 	39 [PNW District - Wilsonville Event] 	63 [PNW District - Central Washington University Event] 	24 [Pacific Northwest District Championship sponsored by Autodesk] 	--- 	0
+34 	125 	3393 - Horns of Havoc 	37 [PNW District - Auburn Mountainview Event] 	37 [PNW District - Auburn Event] 	51 [Pacific Northwest District Championship sponsored by Autodesk] 	--- 	0
+35 	124 	3826 - Sequim Robotics Federation "SR... 	56 [PNW District - Glacier Peak Event] 	35 [PNW District - Mount Vernon Event] 	33 [Pacific Northwest District Championship sponsored by Autodesk] 	--- 	0
+36 	123 	2910 - Jack in the Bot 	42 [PNW District - Glacier Peak Event] 	21 [PNW District - Auburn Event] 	60 [Pacific Northwest District Championship sponsored by Autodesk] 	--- 	0
+37 	122 	3024 - My Favorite Team 	37 [PNW District - Philomath Event] 	46 [PNW District - Clackamas Academy of Industrial Science Event] 	39 [Pacific Northwest District Championship sponsored by Autodesk] 	--- 	0
+38 	122 	2980 - The Whidbey Island Wild Cats 	11 [PNW District - Mount Vernon Event] 	33 [PNW District - Auburn Event] 	78 [Pacific Northwest District Championship sponsored by Autodesk] 	Qualified 	0
+39 	120 	4205 - ROBOCUBS 	37 [PNW District - Glacier Peak Event] 	62 [PNW District - Mount Vernon Event] 	21 [Pacific Northwest District Championship sponsored by Autodesk] 	--- 	0
+40 	120 	753 - High Desert Droids 	31 [PNW District - Wilsonville Event] 	44 [PNW District - Philomath Event] 	45 [Pacific Northwest District Championship sponsored by Autodesk] 	--- 	0
+41 	118 	2930 - Sonic Squirrels 	46 [PNW District - Glacier Peak Event] 	36 [PNW District - Central Washington University Event] 	36 [Pacific Northwest District Championship sponsored by Autodesk] 	--- 	0
+42 	115 	4089 - Stealth Robotics 	25 [PNW District - Glacier Peak Event] 	39 [PNW District - Mount Vernon Event] 	51 [Pacific Northwest District Championship sponsored by Autodesk] 	--- 	0
+43 	113 	4915 - Spartronics 	39 [PNW District - Glacier Peak Event] 	35 [PNW District - Mount Vernon Event] 	39 [Pacific Northwest District Championship sponsored by Autodesk] 	--- 	0
+44 	112 	5827 - Code Purple 	15 [PNW District - Auburn Mountainview Event] 	39 [PNW District - Glacier Peak Event] 	48 [Pacific Northwest District Championship sponsored by Autodesk] 	Qualified 	10
+45 	111 	4980 - Canine Crusaders 	45 [PNW District - West Valley Event] 	36 [PNW District - Central Washington University Event] 	30 [Pacific Northwest District Championship sponsored by Autodesk] 	--- 	0
+46 	109 	3223 - Retrobotics 	25 [PNW District - Auburn Mountainview Event] 	48 [PNW District - Glacier Peak Event] 	36 [Pacific Northwest District Championship sponsored by Autodesk] 	--- 	0
+47 	107 	3219 - TREAD 	12 [PNW District - Auburn Mountainview Event] 	56 [PNW District - Auburn Event] 	39 [Pacific Northwest District Championship sponsored by Autodesk] 	--- 	0
+48 	105 	5495 - Aluminati 	22 [PNW District - Glacier Peak Event] 	33 [PNW District - Mount Vernon Event] 	45 [Pacific Northwest District Championship sponsored by Autodesk] 	--- 	5
+49 	104 	5085 - LakerBots 	43 [PNW District - Wilsonville Event] 	31 [PNW District - Philomath Event] 	30 [Pacific Northwest District Championship sponsored by Autodesk] 	--- 	0
+50 	103 	5942 - Warriors 	26 [PNW District - West Valley Event] 	31 [PNW District - Central Washington University Event] 	36 [Pacific Northwest District Championship sponsored by Autodesk] 	--- 	10
+51 	102 	5468 - Retro-bots 	39 [PNW District - Wilsonville Event] 	43 [PNW District - Clackamas Academy of Industrial Science Event] 	15 [Pacific Northwest District Championship sponsored by Autodesk] 	--- 	5
+52 	99 	4057 - STEAMPUNK 	28 [PNW District - Philomath Event] 	38 [PNW District - Clackamas Academy of Industrial Science Event] 	33 [Pacific Northwest District Championship sponsored by Autodesk] 	--- 	0
+53 	96 	4132 - Scotbots 	21 [PNW District - West Valley Event] 	51 [PNW District - Clackamas Academy of Industrial Science Event] 	24 [Pacific Northwest District Championship sponsored by Autodesk] 	--- 	0
+54 	95 	3674 - 4-H Clover Bots 	29 [PNW District - Wilsonville Event] 	36 [PNW District - Clackamas Academy of Industrial Science Event] 	30 [Pacific Northwest District Championship sponsored by Autodesk] 	--- 	0
+55 	93 	2149 - CV Bearbots 	21 [PNW District - West Valley Event] 	45 [PNW District - Central Washington University Event] 	27 [Pacific Northwest District Championship sponsored by Autodesk] 	--- 	0
+56 	92 	2944 - Titanium Tigers 	46 [PNW District - West Valley Event] 	16 [PNW District - Central Washington University Event] 	30 [Pacific Northwest District Championship sponsored by Autodesk] 	--- 	0
+57 	91 	5588 - Holy Names Academy 	22 [PNW District - Auburn Mountainview Event] 	31 [PNW District - Glacier Peak Event] 	33 [Pacific Northwest District Championship sponsored by Autodesk] 	--- 	5
+58 	91 	5970 - BeaverTronics 	17 [PNW District - Wilsonville Event] 	37 [PNW District - Clackamas Academy of Industrial Science Event] 	27 [Pacific Northwest District Championship sponsored by Autodesk] 	--- 	10
+59 	89 	4077 - M*A*S*H 	25 [PNW District - Glacier Peak Event] 	46 [PNW District - Mount Vernon Event] 	18 [Pacific Northwest District Championship sponsored by Autodesk] 	--- 	0
+60 	88 	3787 - Wild Robotocats 	23 [PNW District - Auburn Mountainview Event] 	38 [PNW District - Auburn Event] 	27 [Pacific Northwest District Championship sponsored by Autodesk] 	--- 	0
+61 	84 	2811 - StormBots 	16 [PNW District - Wilsonville Event] 	56 [PNW District - Philomath Event] 	12 [Pacific Northwest District Championship sponsored by Autodesk] 	--- 	0
+62 	81 	4726 - Robo Dynasty 	42 [PNW District - West Valley Event] 	39 [PNW District - Central Washington University Event] 	--- 	--- 	0
+63 	80 	997 - Spartan Robotics 	41 [PNW District - Wilsonville Event] 	21 [PNW District - Philomath Event] 	18 [Pacific Northwest District Championship sponsored by Autodesk] 	--- 	0
+64 	76 	2635 - Lake Monsters 	19 [PNW District - Wilsonville Event] 	42 [PNW District - Clackamas Academy of Industrial Science Event] 	15 [Pacific Northwest District Championship sponsored by Autodesk] 	--- 	0
+65 	71 	1510 - Wildcats 	34 [PNW District - Wilsonville Event] 	28 [PNW District - Philomath Event] 	9 [Pacific Northwest District Championship sponsored by Autodesk] 	Qualified 	0
+66 	58 	5937 - MI-Robotics 	33 [PNW District - Auburn Mountainview Event] 	15 [PNW District - Auburn Event] 	--- 	--- 	10
+67 	58 	948 - NRG (Newport Robotics Group) 	22 [PNW District - Mount Vernon Event] 	36 [PNW District - Auburn Event] 	--- 	--- 	0
+68 	56 	2550 - Skynet 	18 [PNW District - Philomath Event] 	38 [PNW District - Clackamas Academy of Industrial Science Event] 	--- 	--- 	0
+69 	55 	949 - Wolverine Robotics 	26 [PNW District - Auburn Mountainview Event] 	29 [PNW District - Glacier Peak Event] 	--- 	--- 	0
+70 	54 	2926 - Robo Sparks 	20 [PNW District - West Valley Event] 	34 [PNW District - Central Washington University Event] 	--- 	--- 	0
+71 	54 	2412 - Robototes 	29 [PNW District - Glacier Peak Event] 	25 [PNW District - Auburn Event] 	--- 	--- 	0
+72 	54 	4692 - Metal Mallards 	30 [PNW District - West Valley Event] 	24 [PNW District - Clackamas Academy of Industrial Science Event] 	--- 	--- 	0
+73 	53 	4513 - Circuit Breakers 	34 [PNW District - West Valley Event] 	19 [PNW District - Central Washington University Event] 	--- 	--- 	0
+74 	52 	3673 - C.Y.B.O.R.G. Seagulls 	30 [PNW District - Wilsonville Event] 	22 [PNW District - Clackamas Academy of Industrial Science Event] 	--- 	--- 	0
+75 	52 	2733 - Pigmice 	28 [PNW District - Wilsonville Event] 	24 [PNW District - Clackamas Academy of Industrial Science Event] 	--- 	Qualified 	0
+76 	51 	4495 - Tigers 	42 [PNW District - West Valley Event] 	9 [PNW District - Central Washington University Event] 	--- 	--- 	0
+77 	51 	4060 - S.W.A.G. 	11 [PNW District - Mount Vernon Event] 	40 [PNW District - Auburn Event] 	--- 	--- 	0
+78 	51 	1294 - Top Gun 	26 [PNW District - Auburn Mountainview Event] 	25 [PNW District - Mount Vernon Event] 	--- 	--- 	0
+79 	50 	3588 - the Talon 	21 [PNW District - Central Washington University Event] 	29 [PNW District - Auburn Event] 	--- 	--- 	0
+80 	50 	5975 - Beta Blues 	34 [PNW District - Wilsonville Event] 	6 [PNW District - Clackamas Academy of Industrial Science Event] 	--- 	--- 	10
+81 	49 	1432 - Metal Beavers 	22 [PNW District - Philomath Event] 	27 [PNW District - Clackamas Academy of Industrial Science Event] 	--- 	--- 	0
+82 	49 	4682 - BraveBots 	10 [PNW District - Glacier Peak Event] 	39 [PNW District - Mount Vernon Event] 	--- 	--- 	0
+83 	47 	4309 - 4-H Botsmiths 	26 [PNW District - Glacier Peak Event] 	21 [PNW District - Clackamas Academy of Industrial Science Event] 	--- 	--- 	0
+84 	46 	3684 - Electric Eagles 	19 [PNW District - Glacier Peak Event] 	27 [PNW District - Auburn Event] 	--- 	--- 	0
+85 	46 	1359 - Scalawags 	21 [PNW District - Philomath Event] 	25 [PNW District - Clackamas Academy of Industrial Science Event] 	--- 	--- 	0
+86 	46 	6129 - Shadle Park 	27 [PNW District - West Valley Event] 	9 [PNW District - Central Washington University Event] 	--- 	--- 	10
+87 	45 	2923 - Aggies 	18 [PNW District - West Valley Event] 	27 [PNW District - Central Washington University Event] 	--- 	--- 	0
+88 	42 	4110 - DEEP SPACE NINERS 	20 [PNW District - Wilsonville Event] 	22 [PNW District - Clackamas Academy of Industrial Science Event] 	--- 	--- 	0
+89 	42 	4173 - Bulldogs 	33 [PNW District - Auburn Mountainview Event] 	9 [PNW District - Mount Vernon Event] 	--- 	--- 	0
+90 	42 	4180 - Iron Riders 	18 [PNW District - Glacier Peak Event] 	24 [PNW District - Mount Vernon Event] 	--- 	Qualified 	0
+91 	40 	3586 - Pride in the Tribe-Caveman Rob... 	11 [PNW District - West Valley Event] 	29 [PNW District - Central Washington University Event] 	--- 	--- 	0
+92 	40 	2521 - SERT 	15 [PNW District - Wilsonville Event] 	25 [PNW District - Philomath Event] 	--- 	--- 	0
+93 	40 	847 - PHRED 	9 [PNW District - Wilsonville Event] 	31 [PNW District - Philomath Event] 	--- 	--- 	0
+94 	39 	2411 - Rebel @lliance 	29 [PNW District - Philomath Event] 	10 [PNW District - Clackamas Academy of Industrial Science Event] 	--- 	--- 	0
+95 	39 	4461 - Ramen 	10 [PNW District - Auburn Mountainview Event] 	29 [PNW District - Auburn Event] 	--- 	--- 	0
+96 	39 	4043 - NerdHerd 	25 [PNW District - Wilsonville Event] 	14 [PNW District - Clackamas Academy of Industrial Science Event] 	--- 	--- 	0
+97 	39 	2002 - Tualatin Robotics 	19 [PNW District - Wilsonville Event] 	20 [PNW District - Clackamas Academy of Industrial Science Event] 	--- 	--- 	0
+98 	39 	2903 - NeoBots 	8 [PNW District - Glacier Peak Event] 	31 [PNW District - Mount Vernon Event] 	--- 	--- 	0
+99 	38 	3712 - RoboCats 	28 [PNW District - West Valley Event] 	10 [PNW District - Central Washington University Event] 	--- 	--- 	0
+100 	38 	4681 - Murphy's law 	17 [PNW District - Glacier Peak Event] 	21 [PNW District - Auburn Event] 	--- 	--- 	0
+101 	38 	2906 - Sentinel Prime Robotics 	21 [PNW District - Auburn Mountainview Event] 	17 [PNW District - Auburn Event] 	--- 	--- 	0
+102 	38 	4608 - Duct Tape Warriors 	27 [PNW District - West Valley Event] 	11 [PNW District - Central Washington University Event] 	--- 	--- 	0
+103 	37 	4051 - Sabin-Sharks 	25 [PNW District - Wilsonville Event] 	12 [PNW District - Clackamas Academy of Industrial Science Event] 	--- 	--- 	0
+104 	37 	4683 - Full-metal Robotics 	13 [PNW District - Glacier Peak Event] 	24 [PNW District - Mount Vernon Event] 	--- 	--- 	0
+105 	37 	5941 - SPQL 	14 [PNW District - Glacier Peak Event] 	13 [PNW District - Auburn Event] 	--- 	--- 	10
+106 	36 	3070 - Team Pronto 	7 [PNW District - Glacier Peak Event] 	29 [PNW District - Mount Vernon Event] 	--- 	--- 	0
+107 	36 	3221 - KM Royals 	28 [PNW District - West Valley Event] 	8 [PNW District - Auburn Event] 	--- 	--- 	0
+108 	35 	4120 - Jagwires 	29 [PNW District - West Valley Event] 	6 [PNW District - Central Washington University Event] 	--- 	--- 	0
+109 	35 	3220 - Mechanics of Mayhem 	26 [PNW District - West Valley Event] 	9 [PNW District - Central Washington University Event] 	--- 	--- 	0
+110 	35 	4512 - BEARbots 	24 [PNW District - Glacier Peak Event] 	11 [PNW District - Mount Vernon Event] 	--- 	--- 	0
+111 	34 	4662 - Byte Sized Robotics 	24 [PNW District - Wilsonville Event] 	10 [PNW District - Clackamas Academy of Industrial Science Event] 	--- 	--- 	0
+112 	34 	3812 - Bits & Bots 	11 [PNW District - Wilsonville Event] 	23 [PNW District - Philomath Event] 	--- 	--- 	0
+113 	34 	5939 - Lakes Lancers 	4 [PNW District - Auburn Mountainview Event] 	20 [PNW District - Auburn Event] 	--- 	--- 	10
+114 	33 	2148 - Mechaknights 	23 [PNW District - West Valley Event] 	10 [PNW District - Central Washington University Event] 	--- 	--- 	0
+115 	32 	568 - Nerds of the North 	14 [PNW District - Glacier Peak Event] 	18 [PNW District - Mount Vernon Event] 	--- 	--- 	0
+116 	32 	488 - Team XBot 	15 [PNW District - Auburn Mountainview Event] 	17 [PNW District - Central Washington University Event] 	--- 	--- 	0
+117 	32 	4030 - NullPointerException 	19 [PNW District - Glacier Peak Event] 	13 [PNW District - Mount Vernon Event] 	--- 	--- 	0
+118 	31 	5956 - Falcons 	13 [PNW District - Wilsonville Event] 	8 [PNW District - Clackamas Academy of Industrial Science Event] 	--- 	--- 	10
+119 	30 	492 - Titan Robotics Club 	10 [PNW District - Glacier Peak Event] 	20 [PNW District - Mount Vernon Event] 	--- 	--- 	0
+120 	30 	2942 - Panda ER 	6 [PNW District - Glacier Peak Event] 	24 [PNW District - Auburn Event] 	--- 	--- 	0
+121 	30 	3218 - Panther Robotics 	9 [PNW District - Auburn Mountainview Event] 	21 [PNW District - Auburn Event] 	--- 	--- 	0
+122 	29 	2976 - Spartabots 	19 [PNW District - Glacier Peak Event] 	10 [PNW District - Mount Vernon Event] 	--- 	--- 	0
+123 	28 	6076 - Mustangs 	10 [PNW District - West Valley Event] 	8 [PNW District - Central Washington University Event] 	--- 	--- 	10
+124 	27 	5198 - Knight Tech 	4 [PNW District - Wilsonville Event] 	23 [PNW District - Philomath Event] 	--- 	--- 	0
+125 	26 	2605 - Sehome Seamonsters 	16 [PNW District - Auburn Mountainview Event] 	10 [PNW District - Mount Vernon Event] 	--- 	--- 	0
+126 	25 	4082 - Ranching Robots 	15 [PNW District - West Valley Event] 	10 [PNW District - Central Washington University Event] 	--- 	--- 	0
+127 	25 	3781 - Cardinal 4-H Robotics 	14 [PNW District - Auburn Mountainview Event] 	11 [PNW District - Auburn Event] 	--- 	--- 	0
+128 	24 	5683 - RAVE 	12 [PNW District - Auburn Mountainview Event] 	7 [PNW District - Auburn Event] 	--- 	--- 	5
+129 	22 	2927 - Pi Rho Techs 	13 [PNW District - Auburn Mountainview Event] 	9 [PNW District - Auburn Event] 	--- 	--- 	0
+130 	22 	3693 - GearHead Pirates 	9 [PNW District - West Valley Event] 	13 [PNW District - Central Washington University Event] 	--- 	--- 	0
+131 	21 	3268 - Vahallabots 	8 [PNW District - Glacier Peak Event] 	13 [PNW District - Mount Vernon Event] 	--- 	--- 	0
+132 	20 	3131 - Gladiators 	4 [PNW District - Philomath Event] 	16 [PNW District - Clackamas Academy of Industrial Science Event] 	--- 	--- 	0
+133 	20 	3789 - On Track Robotics 	7 [PNW District - West Valley Event] 	13 [PNW District - Central Washington University Event] 	--- 	--- 	0
+134 	19 	2929 - JAGBOTS 	9 [PNW District - Auburn Mountainview Event] 	10 [PNW District - Auburn Event] 	--- 	--- 	0
+135 	18 	3681 - Robo-Raiders 	5 [PNW District - Glacier Peak Event] 	13 [PNW District - Mount Vernon Event] 	--- 	--- 	0
+136 	18 	1899 - Saints Robotics 	5 [PNW District - Auburn Mountainview Event] 	13 [PNW District - Glacier Peak Event] 	--- 	--- 	0
+137 	18 	3049 - BremerTron 	9 [PNW District - Philomath Event] 	9 [PNW District - Auburn Event] 	--- 	Qualified 	0
+138 	18 	2555 - RoboRams 	6 [PNW District - Auburn Mountainview Event] 	12 [PNW District - Auburn Event] 	--- 	--- 	0
+139 	17 	3636 - Generals 	8 [PNW District - Philomath Event] 	9 [PNW District - Clackamas Academy of Industrial Science Event] 	--- 	--- 	0
+140 	17 	1571 - CALibrate Robotics 	7 [PNW District - Wilsonville Event] 	10 [PNW District - Clackamas Academy of Industrial Science Event] 	--- 	--- 	0
+141 	16 	3192 - Tiger Bytes 	10 [PNW District - Wilsonville Event] 	6 [PNW District - Philomath Event] 	--- 	--- 	0
+142 	16 	3237 - Bionic Braves 	10 [PNW District - Auburn Mountainview Event] 	6 [PNW District - Auburn Event] 	--- 	--- 	0
+143 	15 	4918 - The Roboctopi 	6 [PNW District - Auburn Mountainview Event] 	9 [PNW District - Mount Vernon Event] 	--- 	--- 	0
+144 	15 	4104 - Blackhawks 	8 [PNW District - West Valley Event] 	7 [PNW District - Central Washington University Event] 	--- 	--- 	0
+145 	15 	5748 - Octo π Rates 	5 [PNW District - Mount Vernon Event] 	5 [PNW District - Auburn Event] 	--- 	--- 	5
+146 	15 	5977 - Rosemary Anderson H S/POIC 	5 [PNW District - Wilsonville Event] 	Not Played 	--- 	--- 	10
+147 	14 	4127 - LoggerBots 	9 [PNW District - Wilsonville Event] 	5 [PNW District - Philomath Event] 	--- 	--- 	0
+148 	14 	2915 - Riverdale Robotics/Pandamonium 	7 [PNW District - Wilsonville Event] 	7 [PNW District - Clackamas Academy of Industrial Science Event] 	--- 	--- 	0
+149 	14 	3575 - OK Aggies 	7 [PNW District - West Valley Event] 	7 [PNW District - Central Washington University Event] 	--- 	--- 	0
+150 	13 	4654 - Mountaineers 	13 [PNW District - Mount Vernon Event] 	Not Played 	--- 	--- 	0
+151 	13 	957 - SWARM 	6 [PNW District - Wilsonville Event] 	7 [PNW District - Philomath Event] 	--- 	--- 	0
+152 	11 	4579 - RoboEagles 	4 [PNW District - West Valley Event] 	7 [PNW District - Auburn Event] 	--- 	--- 	0
+153 	11 	5295 - Aldernating Current 	7 [PNW District - Auburn Mountainview Event] 	4 [PNW District - Auburn Event] 	--- 	--- 	0
+154 	10 	3876 - Mabton LugNutz 	5 [PNW District - West Valley Event] 	5 [PNW District - Central Washington University Event] 	--- 	--- 	0
+155 	10 	5111 - SaxonBots 	6 [PNW District - West Valley Event] 	4 [PNW District - Central Washington University Event] 	--- 	--- 	0
+156 	8 	2660 - Pengbots 	4 [PNW District - Glacier Peak Event] 	4 [PNW District - Mount Vernon Event] 	--- 	--- 	0
+157 	0 	3576 - Clover Park High School Warrio... 	Not Played 	Not Played 	--- 	--- 	0
+158 	0 	3831 - Da Bears 	Not Played 	Not Played 	--- 	--- 	0
