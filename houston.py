@@ -11,7 +11,7 @@ def rp_parse_line(s):
 
 def rp_parse_file():
 	#returns [(int,int)]
-	return map(rp_parse_line,open('pts_64.txt','r').read().splitlines())
+	return map(rp_parse_line,open('data/pts_64.txt','r').read().splitlines())
 
 
 def rank_to_get_points(points):
