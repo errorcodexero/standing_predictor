@@ -1,0 +1,209 @@
+1 	141 	5687 - The Outliers 	72 [NE District Granite State Event] 	69 [NE District Southern CT Event] 	--- 	--- 	0
+2 	140 	88 - TJ(Squared) 	69 [NE District Worcester Polytechnic Institute Event] 	71 [NE District SE Mass Event] 	--- 	--- 	0
+3 	134 	230 - Gaelhawks 	73 [NE District Waterbury Event] 	61 [NE District Southern CT Event] 	--- 	--- 	0
+4 	134 	238 - Crusaders 	73 [NE District Granite State Event] 	61 [NE District North Shore Event] 	--- 	--- 	0
+5 	119 	78 - AIR STRIKE 	58 [NE District Worcester Polytechnic Institute Event] 	61 [NE District SE Mass Event] 	--- 	--- 	0
+6 	110 	95 - Grasshoppers 	47 [NE District Granite State Event] 	63 [NE District Southern CT Event] 	--- 	--- 	0
+7 	105 	1058 - PVC Pirates 	59 [NE District Granite State Event] 	46 [NE District North Shore Event] 	--- 	--- 	0
+8 	90 	133 - B.E.R.T. 	68 [NE District North Shore Event] 	22 [NE District Pine Tree Event] 	--- 	--- 	0
+9 	88 	4564 - Orange Chaos 	68 [NE District Worcester Polytechnic Institute Event] 	20 [NE District Pine Tree Event] 	--- 	--- 	0
+10 	87 	4557 - FullMetal Falcons 	37 [NE District Waterbury Event] 	50 [NE District Southern CT Event] 	Qualified 	--- 	0
+11 	83 	4905 - Andromeda One 	35 [NE District Worcester Polytechnic Institute Event] 	48 [NE District North Shore Event] 	--- 	--- 	0
+12 	82 	58 - The Riot Crew 	63 [NE District SE Mass Event] 	19 [NE District Pine Tree Event] 	--- 	--- 	0
+13 	82 	2067 - Apple Pi 	32 [NE District Waterbury Event] 	50 [NE District Southern CT Event] 	--- 	--- 	0
+14 	80 	811 - Cardinals 	45 [NE District Granite State Event] 	35 [NE District North Shore Event] 	--- 	--- 	0
+15 	73 	319 - Big Bad Bob 	73 [NE District North Shore Event] 	Not Played 	--- 	--- 	0
+16 	73 	6933 - Archytas, sponsored by NASA 	63 [NE District Granite State Event] 	Not Played 	--- 	--- 	10
+17 	71 	195 - CyberKnights 	71 [NE District Southern CT Event] 	Not Played 	--- 	--- 	0
+18 	71 	5856 - Bullbots 	52 [NE District Waterbury Event] 	19 [NE District Southern CT Event] 	--- 	--- 	0
+19 	68 	176 - Aces High 	68 [NE District Waterbury Event] 	Not Played 	--- 	--- 	0
+20 	68 	6329 - The Bucks' Wrath 	45 [NE District Worcester Polytechnic Institute Event] 	18 [NE District Pine Tree Event] 	--- 	--- 	5
+21 	65 	125 - NUTRONs 	65 [NE District North Shore Event] 	Not Played 	Qualified 	--- 	0
+22 	64 	1289 - Gearheadz 	21 [NE District Granite State Event] 	43 [NE District North Shore Event] 	--- 	--- 	0
+23 	64 	5735 - Control Freaks 	24 [NE District Worcester Polytechnic Institute Event] 	40 [NE District North Shore Event] 	--- 	--- 	0
+24 	63 	2168 - Aluminum Falcons 	63 [NE District SE Mass Event] 	Not Played 	--- 	--- 	0
+25 	63 	7153 - Aetos Dios 	53 [NE District Southern CT Event] 	Not Played 	--- 	--- 	10
+26 	63 	1519 - Mechanical Mayhem 	63 [NE District Worcester Polytechnic Institute Event] 	Not Played 	--- 	--- 	0
+27 	63 	3555 - Aluminati 	29 [NE District Worcester Polytechnic Institute Event] 	34 [NE District Southern CT Event] 	--- 	--- 	0
+28 	61 	467 - The Colonials 	31 [NE District Worcester Polytechnic Institute Event] 	30 [NE District Southern CT Event] 	Qualified 	--- 	0
+29 	60 	178 - The 2nd Law Enforcers 	24 [NE District SE Mass Event] 	36 [NE District Southern CT Event] 	--- 	--- 	0
+30 	60 	4041 - Iron Tigers 	48 [NE District SE Mass Event] 	12 [NE District Pine Tree Event] 	--- 	--- 	0
+31 	59 	177 - Bobcat Robotics 	59 [NE District Waterbury Event] 	Not Played 	--- 	--- 	0
+32 	59 	23 - PNTA Pilgrim Nuclear Technolog... 	19 [NE District Worcester Polytechnic Institute Event] 	40 [NE District SE Mass Event] 	--- 	Qualified 	0
+33 	58 	663 - Robonauts 	42 [NE District Worcester Polytechnic Institute Event] 	16 [NE District Pine Tree Event] 	--- 	--- 	0
+34 	58 	2876 - Devilbotz 	32 [NE District Granite State Event] 	26 [NE District North Shore Event] 	--- 	--- 	0
+35 	58 	2370 - IBOTS 	41 [NE District Worcester Polytechnic Institute Event] 	17 [NE District Pine Tree Event] 	--- 	--- 	0
+36 	57 	228 - GUS Robotics 	26 [NE District Waterbury Event] 	31 [NE District Southern CT Event] 	--- 	--- 	0
+37 	54 	155 - The Technonuts 	24 [NE District Granite State Event] 	30 [NE District Southern CT Event] 	--- 	--- 	0
+38 	51 	6224 - The Saint Dominators 	41 [NE District SE Mass Event] 	10 [NE District Pine Tree Event] 	--- 	--- 	0
+39 	50 	7127 - LongMetal Robotics 	40 [NE District Southern CT Event] 	Not Played 	--- 	--- 	10
+40 	49 	3958 - Schrodinger's Cat 	29 [NE District Granite State Event] 	20 [NE District Southern CT Event] 	--- 	--- 	0
+41 	49 	6335 - Terminal Velocity 	25 [NE District Granite State Event] 	19 [NE District North Shore Event] 	--- 	--- 	5
+42 	48 	5813 - Morpheus 	48 [NE District SE Mass Event] 	Not Played 	--- 	--- 	0
+43 	47 	6731 - Record Robotics 	6 [NE District SE Mass Event] 	36 [NE District North Shore Event] 	--- 	--- 	5
+44 	47 	558 - Elm City Robo Squad 	47 [NE District Waterbury Event] 	Not Played 	Qualified 	--- 	0
+45 	47 	6763 - FUSION 	42 [NE District North Shore Event] 	Not Played 	--- 	--- 	5
+46 	46 	3623 - Terror Bots 	46 [NE District Worcester Polytechnic Institute Event] 	Not Played 	--- 	--- 	0
+47 	46 	1099 - DiscoTechs 	19 [NE District Waterbury Event] 	27 [NE District Southern CT Event] 	--- 	--- 	0
+48 	45 	348 - Norwell Robotics 	27 [NE District SE Mass Event] 	18 [NE District Pine Tree Event] 	--- 	--- 	0
+49 	45 	237 - Black Magic Robotics 	29 [NE District Waterbury Event] 	16 [NE District Pine Tree Event] 	--- 	--- 	0
+50 	44 	121 - Rhode Warriors 	44 [NE District SE Mass Event] 	Not Played 	--- 	--- 	0
+51 	44 	3930 - SMART Spruce Mountain Area Ro... 	37 [NE District Granite State Event] 	7 [NE District Pine Tree Event] 	Qualified 	--- 	0
+52 	44 	6324 - The Blue Devils 	25 [NE District Granite State Event] 	14 [NE District North Shore Event] 	--- 	--- 	5
+53 	43 	1517 - The Lumberjacks 	43 [NE District Granite State Event] 	Not Played 	--- 	--- 	0
+54 	42 	131 - C.H.A.O.S. 	42 [NE District Granite State Event] 	Not Played 	--- 	--- 	0
+55 	42 	3461 - Operation PEACCE Robotics 	42 [NE District Waterbury Event] 	Not Played 	--- 	--- 	0
+56 	42 	1768 - RoboChiefs 	28 [NE District Worcester Polytechnic Institute Event] 	14 [NE District Pine Tree Event] 	--- 	--- 	0
+57 	40 	236 - Techno-Ticks 	40 [NE District Waterbury Event] 	Not Played 	--- 	Qualified 	0
+58 	40 	2836 - Team Beta 	40 [NE District Southern CT Event] 	Not Played 	--- 	--- 	0
+59 	39 	138 - Entropy 	39 [NE District Granite State Event] 	Not Played 	--- 	--- 	0
+60 	39 	3236 - TRIFORCE 	39 [NE District Worcester Polytechnic Institute Event] 	Not Played 	--- 	--- 	0
+61 	39 	4169 - Warrior Robotics 	9 [NE District SE Mass Event] 	30 [NE District North Shore Event] 	--- 	--- 	0
+62 	39 	2342 - Team Phoenix 	39 [NE District Granite State Event] 	Not Played 	--- 	--- 	0
+63 	39 	4761 - The Robockets 	12 [NE District SE Mass Event] 	27 [NE District North Shore Event] 	--- 	--- 	0
+64 	38 	4055 - NRG 	20 [NE District Waterbury Event] 	18 [NE District Southern CT Event] 	--- 	--- 	0
+65 	38 	5265 - Radical Impact 	23 [NE District Granite State Event] 	15 [NE District Pine Tree Event] 	--- 	--- 	0
+66 	38 	6328 - Mechanical Advantage 	33 [NE District SE Mass Event] 	Not Played 	Qualified 	--- 	5
+67 	37 	6620 - The Northmengineers 	32 [NE District SE Mass Event] 	Not Played 	--- 	--- 	5
+68 	36 	1100 - The T-Hawks 	36 [NE District Worcester Polytechnic Institute Event] 	Not Played 	--- 	--- 	0
+69 	36 	3467 - Windham Windup 	36 [NE District North Shore Event] 	Not Played 	--- 	--- 	0
+70 	36 	2648 - Infinite Loop 	24 [NE District SE Mass Event] 	12 [NE District Pine Tree Event] 	--- 	--- 	0
+71 	35 	5129 - Digital Devils 	35 [NE District Waterbury Event] 	Not Played 	--- 	--- 	0
+72 	34 	6691 - Torque 	29 [NE District Granite State Event] 	Not Played 	--- 	--- 	5
+73 	33 	5142 - Robo Dominators 	33 [NE District Waterbury Event] 	Not Played 	--- 	--- 	0
+74 	33 	3466 - VIKINGS ROBOTICS 	33 [NE District Worcester Polytechnic Institute Event] 	Not Played 	--- 	--- 	0
+75 	33 	3205 - Patriots 	17 [NE District Granite State Event] 	16 [NE District North Shore Event] 	--- 	--- 	0
+76 	33 	1729 - Team Inconceivable! 	33 [NE District Worcester Polytechnic Institute Event] 	Not Played 	--- 	--- 	0
+77 	33 	4909 - Bionics 	33 [NE District North Shore Event] 	Not Played 	--- 	--- 	0
+78 	33 	4906 - The Collective 	22 [NE District North Shore Event] 	11 [NE District Pine Tree Event] 	--- 	--- 	0
+79 	33 	6172 - The Mad Dogs 	20 [NE District SE Mass Event] 	13 [NE District Pine Tree Event] 	--- 	--- 	0
+80 	32 	5556 - Carriagetown Robotics 	26 [NE District Granite State Event] 	6 [NE District North Shore Event] 	--- 	--- 	0
+81 	32 	1073 - The Force Team 	32 [NE District Granite State Event] 	Not Played 	--- 	--- 	0
+82 	32 	2877 - LigerBots 	32 [NE District North Shore Event] 	Not Played 	--- 	--- 	0
+83 	32 	4572 - BArlow RobAutics 	8 [NE District Waterbury Event] 	24 [NE District Southern CT Event] 	--- 	--- 	0
+84 	31 	716 - Who'sCTEKS 	18 [NE District Worcester Polytechnic Institute Event] 	13 [NE District Pine Tree Event] 	--- 	--- 	0
+85 	30 	61 - The Intimidators 	30 [NE District Worcester Polytechnic Institute Event] 	Not Played 	--- 	--- 	0
+86 	30 	1474 - Tewksbury Titans 	11 [NE District Granite State Event] 	19 [NE District North Shore Event] 	--- 	--- 	0
+87 	29 	3719 - STEM Whalers 	29 [NE District Worcester Polytechnic Institute Event] 	Not Played 	--- 	--- 	0
+88 	29 	5000 - Hammerheads 	29 [NE District SE Mass Event] 	Not Played 	--- 	--- 	0
+89 	29 	181 - Birds Of Prey 	29 [NE District Waterbury Event] 	Not Played 	--- 	--- 	0
+90 	29 	6153 - Blue Crew 	14 [NE District SE Mass Event] 	15 [NE District Pine Tree Event] 	--- 	--- 	0
+91 	28 	5746 - Human Error 	28 [NE District Southern CT Event] 	Not Played 	--- 	--- 	0
+92 	28 	157 - AZTECHS 	28 [NE District SE Mass Event] 	Not Played 	--- 	--- 	0
+93 	28 	1153 - The Walpole Revolution 	28 [NE District Worcester Polytechnic Institute Event] 	Not Played 	--- 	--- 	0
+94 	27 	1699 - Robocats 	27 [NE District Waterbury Event] 	Not Played 	--- 	--- 	0
+95 	27 	571 - Team Paragon 	27 [NE District Waterbury Event] 	Not Played 	--- 	--- 	0
+96 	27 	4473 - Delta Prime 	11 [NE District North Shore Event] 	16 [NE District Pine Tree Event] 	--- 	--- 	0
+97 	26 	4908 - Duxbury Dragons 	26 [NE District SE Mass Event] 	Not Played 	--- 	--- 	0
+98 	26 	172 - Northern Force 	12 [NE District Worcester Polytechnic Institute Event] 	14 [NE District Pine Tree Event] 	--- 	--- 	0
+99 	26 	6337 - Terror Bytes 	15 [NE District SE Mass Event] 	6 [NE District Pine Tree Event] 	--- 	--- 	5
+100 	25 	2079 - 4H ALARM Robotics 	25 [NE District SE Mass Event] 	Not Played 	--- 	--- 	0
+101 	25 	246 - Overclocked 	25 [NE District North Shore Event] 	Not Played 	--- 	--- 	0
+102 	25 	6367 - The ElectroLights 	20 [NE District Southern CT Event] 	Not Played 	--- 	--- 	5
+103 	24 	5112 - The Gongoliers 	24 [NE District SE Mass Event] 	Not Played 	--- 	--- 	0
+104 	24 	2170 - Titanium Tomahawks 	24 [NE District Waterbury Event] 	Not Played 	--- 	--- 	0
+105 	24 	7240 - Nitro Knights 	14 [NE District North Shore Event] 	Not Played 	--- 	--- 	10
+106 	23 	4097 - Devilbots 	23 [NE District Waterbury Event] 	Not Played 	--- 	--- 	0
+107 	23 	213 - The Dirty Birds 	23 [NE District Worcester Polytechnic Institute Event] 	Not Played 	--- 	--- 	0
+108 	23 	509 - Red Storm 	23 [NE District North Shore Event] 	Not Played 	--- 	--- 	0
+109 	23 	7266 - NBHS Steampunks 	13 [NE District Waterbury Event] 	Not Played 	--- 	--- 	10
+110 	22 	2084 - Robots by the C 	22 [NE District North Shore Event] 	Not Played 	--- 	--- 	0
+111 	22 	2064 - The Panther Project 	22 [NE District Southern CT Event] 	Not Played 	--- 	--- 	0
+112 	22 	885 - THE GREEN TEAM 	22 [NE District Granite State Event] 	Not Played 	--- 	--- 	0
+113 	22 	6201 - The Highlanders 	22 [NE District SE Mass Event] 	Not Played 	--- 	--- 	0
+114 	22 	5563 - Phalanx 	22 [NE District SE Mass Event] 	Not Played 	--- 	--- 	0
+115 	22 	839 - Rosie Robotics 	22 [NE District SE Mass Event] 	Not Played 	--- 	--- 	0
+116 	22 	1831 - Screaming Eagles 	9 [NE District Worcester Polytechnic Institute Event] 	13 [NE District Pine Tree Event] 	--- 	--- 	0
+117 	22 	7259 - Mechanical Mustangs 	12 [NE District Worcester Polytechnic Institute Event] 	Not Played 	--- 	--- 	10
+118 	21 	3654 - TechTigers 	21 [NE District Southern CT Event] 	Not Played 	--- 	--- 	0
+119 	21 	5459 - Ipswich TIGERS 	10 [NE District Granite State Event] 	11 [NE District North Shore Event] 	--- 	--- 	0
+120 	21 	6723 - Team redbot 	5 [NE District Worcester Polytechnic Institute Event] 	11 [NE District Waterbury Event] 	--- 	--- 	5
+121 	20 	3566 - Gone Fishin' 	9 [NE District Worcester Polytechnic Institute Event] 	11 [NE District SE Mass Event] 	--- 	--- 	0
+122 	20 	4042 - Murphy's Lawyers 	11 [NE District Worcester Polytechnic Institute Event] 	9 [NE District Pine Tree Event] 	--- 	--- 	0
+123 	20 	5422 - Stormgears FRC 	20 [NE District SE Mass Event] 	Not Played 	--- 	--- 	0
+124 	20 	7164 - RHODE HAZARD 	10 [NE District Worcester Polytechnic Institute Event] 	Not Played 	--- 	--- 	10
+125 	20 	7133 - STEAM Makers 	10 [NE District Granite State Event] 	Not Played 	--- 	--- 	10
+126 	19 	5846 - Southcoast Corsairs 	19 [NE District SE Mass Event] 	Not Played 	--- 	--- 	0
+127 	19 	6811 - Gunnery Gears 	9 [NE District Southern CT Event] 	Not Played 	--- 	--- 	10
+128 	18 	999 - MechaRAMS 	18 [NE District Waterbury Event] 	Not Played 	--- 	--- 	0
+129 	18 	3525 - The Nuts & Bolts of Fury 	10 [NE District Waterbury Event] 	8 [NE District Pine Tree Event] 	--- 	--- 	0
+130 	18 	5471 - W.Hi.R.R. 	9 [NE District Granite State Event] 	9 [NE District Pine Tree Event] 	--- 	--- 	0
+131 	18 	5494 - Bizarbots Robotics 	18 [NE District Worcester Polytechnic Institute Event] 	Not Played 	--- 	--- 	0
+132 	17 	4151 - SCRAP 4151 	17 [NE District SE Mass Event] 	Not Played 	--- 	--- 	0
+133 	16 	3464 - Sim-City 	16 [NE District Waterbury Event] 	Not Played 	--- 	--- 	0
+134 	16 	5686 - Wirecats 	16 [NE District Granite State Event] 	Not Played 	--- 	--- 	0
+135 	16 	1735 - Green Reapers 	4 [NE District SE Mass Event] 	12 [NE District Pine Tree Event] 	--- 	--- 	0
+136 	15 	1071 - Team Max 	15 [NE District Southern CT Event] 	Not Played 	--- 	--- 	0
+137 	15 	2262 - Robo-Panthers 	15 [NE District Worcester Polytechnic Institute Event] 	Not Played 	--- 	--- 	0
+138 	14 	3182 - Athena's Warriors 	14 [NE District Waterbury Event] 	Not Played 	--- 	--- 	0
+139 	14 	3451 - The ANOMALY 	14 [NE District Pine Tree Event] 	Not Played 	--- 	--- 	0
+140 	14 	6301 - Nerointellect-sim Engineering ... 	9 [NE District SE Mass Event] 	Not Played 	--- 	--- 	5
+141 	14 	7314 - Tornados 	4 [NE District Granite State Event] 	Not Played 	--- 	--- 	10
+142 	13 	5122 - robOTies 	7 [NE District North Shore Event] 	6 [NE District Pine Tree Event] 	--- 	--- 	0
+143 	13 	1247 - Blood, Sweat, and Gears 	13 [NE District Granite State Event] 	Not Played 	--- 	--- 	0
+144 	13 	1965 - Firebirds 	13 [NE District North Shore Event] 	Not Played 	--- 	--- 	0
+145 	13 	6346 - Norwalk High School Robotics 	8 [NE District Southern CT Event] 	Not Played 	--- 	--- 	5
+146 	13 	4048 - Redshift 	13 [NE District Worcester Polytechnic Institute Event] 	Not Played 	--- 	--- 	0
+147 	12 	4958 - Robocats 	12 [NE District Pine Tree Event] 	Not Played 	--- 	--- 	0
+148 	12 	1085 - Aquatic Robotics 	12 [NE District Waterbury Event] 	Not Played 	--- 	--- 	0
+149 	12 	97 - Bionic Beef 	12 [NE District SE Mass Event] 	Not Played 	--- 	--- 	0
+150 	11 	5633 - Hyde Cyber Wolves 	11 [NE District Pine Tree Event] 	Not Played 	--- 	--- 	0
+151 	11 	4796 - Cyber Dragons 	11 [NE District SE Mass Event] 	Not Played 	--- 	--- 	0
+152 	11 	2713 - iRaiders 	11 [NE District North Shore Event] 	Not Played 	--- 	--- 	0
+153 	11 	1991 - Dragons 	11 [NE District Worcester Polytechnic Institute Event] 	Not Played 	--- 	--- 	0
+154 	11 	126 - Gael Force 	11 [NE District Worcester Polytechnic Institute Event] 	Not Played 	--- 	Qualified 	0
+155 	11 	2523 - Tech Storm 	11 [NE District Pine Tree Event] 	Not Played 	--- 	--- 	0
+156 	11 	6762 - Oscats 	6 [NE District North Shore Event] 	Not Played 	--- 	--- 	5
+157 	11 	166 - Chop Shop 	11 [NE District SE Mass Event] 	Not Played 	--- 	--- 	0
+158 	10 	5347 - Gryphons 	10 [NE District North Shore Event] 	Not Played 	--- 	--- 	0
+159 	10 	1512 - The Big Red 	10 [NE District Granite State Event] 	Not Played 	--- 	--- 	0
+160 	10 	3104 - The Cyber Rams 	10 [NE District Southern CT Event] 	Not Played 	--- 	--- 	0
+161 	10 	1307 - Robosaints 	10 [NE District Granite State Event] 	Not Played 	--- 	--- 	0
+162 	10 	6161 - Equilibrium 	10 [NE District Pine Tree Event] 	Not Played 	--- 	--- 	0
+163 	10 	1350 - The Rambots 	10 [NE District Worcester Polytechnic Institute Event] 	Not Played 	--- 	--- 	0
+164 	10 	2423 - The KwarQs 	10 [NE District North Shore Event] 	Not Played 	--- 	--- 	0
+165 	10 	6529 - Beantown Blitz 	5 [NE District SE Mass Event] 	Not Played 	--- 	--- 	5
+166 	10 	6812 - Andover Snowflakes 	Not Played 	Not Played 	--- 	--- 	10
+167 	10 	6895 - Mechanical Madness 4-H 	Not Played 	Not Played 	--- 	--- 	10
+168 	10 	7126 - RoboMules 	Not Played 	Not Played 	--- 	--- 	10
+169 	10 	7212 - LCS Warriors 	Not Played 	Not Played 	--- 	--- 	10
+170 	10 	7269 - ISB VoltBots 	Not Played 	Not Played 	--- 	--- 	10
+171 	10 	7306 - Epping High School 	Not Played 	Not Played 	--- 	--- 	10
+172 	9 	5962 - perSEVERE 	9 [NE District North Shore Event] 	Not Played 	--- 	--- 	0
+173 	9 	4546 - ShockWave 	9 [NE District Pine Tree Event] 	Not Played 	--- 	--- 	0
+174 	9 	4987 - MegaRams 	9 [NE District Worcester Polytechnic Institute Event] 	Not Played 	--- 	--- 	0
+175 	9 	5902 - The Wire Clippers 	9 [NE District Granite State Event] 	Not Played 	--- 	--- 	0
+176 	8 	1757 - Wolverines 	8 [NE District SE Mass Event] 	Not Played 	--- 	--- 	0
+177 	8 	4925 - The Resistance 	8 [NE District Pine Tree Event] 	Not Played 	--- 	--- 	0
+178 	8 	4176 - Iron Tigers 	8 [NE District SE Mass Event] 	Not Played 	--- 	--- 	0
+179 	8 	69 - HYPER 	8 [NE District Southern CT Event] 	Not Played 	--- 	--- 	0
+180 	8 	4034 - Pelham πthons Team 4034 	8 [NE District North Shore Event] 	Not Played 	--- 	--- 	0
+181 	8 	5491 - Cognitive Hazard 	8 [NE District Worcester Polytechnic Institute Event] 	Not Played 	--- 	--- 	0
+182 	7 	3323 - Potential Energy 	7 [NE District Granite State Event] 	Not Played 	--- 	--- 	0
+183 	7 	5752 - Bevbotics 	7 [NE District North Shore Event] 	Not Played 	--- 	--- 	0
+184 	7 	3609 - Duct Tape Dragons 	7 [NE District Pine Tree Event] 	Not Played 	--- 	--- 	0
+185 	6 	1124 - UberBots 	6 [NE District Waterbury Event] 	Not Played 	--- 	--- 	0
+186 	6 	1277 - The Robotomies 	6 [NE District Worcester Polytechnic Institute Event] 	Not Played 	--- 	--- 	0
+187 	6 	151 - Tough Techs 	6 [NE District Granite State Event] 	Not Played 	--- 	Qualified 	0
+188 	6 	1786 - The Robotics Team 	6 [NE District Worcester Polytechnic Institute Event] 	Not Played 	--- 	--- 	0
+189 	5 	1027 - Project Jabberwocky 	5 [NE District Southern CT Event] 	Not Played 	--- 	--- 	0
+190 	5 	501 - The PowerKnights 	5 [NE District Waterbury Event] 	Not Played 	--- 	--- 	0
+191 	5 	4311 - Swampscott Currents 	5 [NE District North Shore Event] 	Not Played 	--- 	--- 	0
+192 	5 	5506 - Midcoast MAINEiacs 	5 [NE District Pine Tree Event] 	Not Played 	--- 	--- 	0
+193 	5 	6333 - Scavenger Robotics 	Not Played 	Not Played 	--- 	--- 	5
+194 	5 	6690 - MV roboPride 	Not Played 	Not Played 	--- 	--- 	5
+195 	4 	1761 - STEAMpunk Tigers 	4 [NE District North Shore Event] 	Not Played 	--- 	--- 	0
+196 	4 	3634 - Spark City 	4 [NE District Southern CT Event] 	Not Played 	--- 	--- 	0
+197 	4 	4555 - Sprocketology 	4 [NE District Pine Tree Event] 	Not Played 	--- 	--- 	0
+198 	4 	2785 - Prometheus 	4 [NE District Worcester Polytechnic Institute Event] 	Not Played 	--- 	--- 	0
+199 	0 	173 - RAGE Robotics 	Not Played 	Not Played 	--- 	--- 	0
+200 	0 	175 - Buzz Robotics 	Not Played 	Not Played 	--- 	Qualified 	0
+201 	0 	190 - Gompei and the H.E.R.D. 	Not Played 	Not Played 	--- 	Qualified 	0
+202 	0 	1721 - Tidal Force 	Not Played 	Not Played 	--- 	--- 	0
+203 	0 	1740 - Ledyard Cyber Colonels 	Not Played 	Not Played 	--- 	--- 	0
+204 	0 	1922 - Oz-Ram 	Not Played 	Not Played 	--- 	--- 	0
+205 	0 	1973 - Burning Tiger #1973 	Not Played 	Not Played 	--- 	--- 	0
+206 	0 	3146 - GRANBY GRUNTS 	Not Played 	Not Played 	--- 	--- 	0
+207 	0 	3499 - River's Edge Robotics 	Not Played 	Not Played 	--- 	--- 	0
+208 	0 	3597 - Robo-Rangers 	Not Played 	Not Played 	--- 	--- 	0
+209 	0 	4929 - Maroon Monsoon 	Not Played 	Not Played 	--- 	--- 	0

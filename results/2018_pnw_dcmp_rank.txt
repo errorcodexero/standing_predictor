@@ -1,0 +1,64 @@
+64	1425 - Error Code Xero
+64	2811 - StormBots
+64	4513 - Circuit Breakers
+64	2471 - Team Mean Machine
+64	2910 - Jack in the Bot
+64	1983 - Skunk Works Robotics
+64	2046 - Bear Metal
+64	5803 - Apex Robotics
+64	957 - SWARM
+64	2990 - Hotwire
+64	1318 - Issaquah Robotics Society
+63	2557 - SOTAbots
+62	4061 - SciBorgs
+60	2147 - CHUCK
+55	6831 - A-05 Annex
+51	3711 - Iron Mustang
+51	3218 - Panther Robotics
+51	488 - Team XBot
+47	4980 - Canine Crusaders
+47	1778 - Chill Out
+42	3674 - 4-H / CAM Academy CloverBots
+42	4488 - Shockwave
+42	4911 - CyberKnights
+38	2605 - Seamonsters
+32	4125 - Confidential
+32	4450 - Olympia Robotics Federation
+27	1540 - Flaming Chickens
+23	2635 - Lake Monsters
+23	4915 - Spartronics
+23	2521 - SERT
+18	2374 - Crusader Bots
+18	3024 - My Favorite Team
+18	948 - NRG (Newport Robotics Group)
+14	1510 - Wildcats
+14	847 - PHRED
+14	997 - Spartan Robotics
+10	4469 - R.A.I.D. (Raider Artificial In...
+10	5920 - VIKotics
+10	5450 - St. Helens Robotics and Engine...
+10	2733 - Pigmice
+10	4512 - BEAR bots
+10	5468 - Chaos Theory
+10	3238 - Cyborg Ferrets
+10	360 - The Revolution
+10	7034 - 2B Determined
+8	2930 - Sonic Squirrels
+8	2522 - Royal Robotics
+8	1595 - The Dragons
+8	1359 - Scalawags
+8	492 - Titan Robotics Club
+8	3663 - CPR - Cedar Park Robotics
+8	4662 - Byte Sized Robotics
+8	2906 - Sentinel Prime Robotics
+8	3223 - Robotics Of Central Kitsap
+8	6465 - Mystic Biscuit
+8	2976 - Spartabots
+8	4495 - Kittitas County Robotics/ Team...
+8	6076 - Mustangs
+8	2928 - Viking Robotics
+8	6445 - CTEC Robotics
+8	6845 - River Bots
+8	6443 - AEMBOT
+8	4131 - Iron Patriots
+8	2944 - Titanium Tigers
