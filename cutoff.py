@@ -7,6 +7,7 @@ from argparse import ArgumentParser
 from glob import glob
 from predictor import flatten
 from meta import print_lines
+from sys import exit
 
 def firsts(a):
 	#any(a) => [[a]]->[a]
@@ -33,8 +34,8 @@ def parse_line(s):
 
 	def get_d(i):
 		s=get(i)
-		if s=='---': return False
-		return True
+		if s=='---': return None
+		return int(i)
 
 	return {
 		'rank':get_int(0),
@@ -127,12 +128,24 @@ def lines_demo():
 			total_px+=px*cutoff_px
 		print total_px
 
+def worlds(data):
+	#print_lines(data)
+	#return 0
+	for line in data:
+		#print line
+		total_points=none_to_0(line['event1'])+none_to_0(line['event2'])+none_to_0(line['district_championship'])+line['team_age_points']
+		print '%s\t%s\t%s'%(total_points,line['frc_championship'],line['team'])
+
 if __name__=='__main__':
 	p=ArgumentParser()
 	p.add_argument('--file',default='data/2017_pnw_post.txt')
 	p.add_argument('--mean',action='store_true')
+        p.add_argument('--worlds',action='store_true')
 	args=p.parse_args()
 	data=parse_file(args.file)
+
+	if args.worlds:
+		exit(worlds(data))
 
 	if args.mean:
 		for a in data:
