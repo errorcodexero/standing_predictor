@@ -31,7 +31,7 @@ def rank_to_get_points(points):
 
 
 if __name__=='__main__':
-	cutoff=122
+	cutoff=134
 	p=filter(lambda x: x['district_championship'],parse_file('data/2018_mar31_pnw.txt'))
 	for a in p:
 		total_points=none_to_0(a['event1'])+none_to_0(a['event2'])+a['team_age_points']
