@@ -4,6 +4,9 @@
 #open data file of who got in
 #could how many went in what category
 
+from predictor import parse_file
+from sys import exit
+
 #any(a) => [a] -> void
 def print_lines(a):
 	for elem in a: print elem
@@ -18,7 +21,6 @@ def keys(m): return sorted(m)
 
 #returns map from int(team number) to bool(in)
 def actual_results(filename):
-	from predictor import parse_file
 	official=parse_file(filename)
 	team_results={}
 	for entry in official:
@@ -37,6 +39,48 @@ def predictions(filename):
 	for prediction,team in m:
 		r[team]=prediction
 	return r
+
+def pnw_attendees():
+	def parse_line(s):
+		sp=s.split('\t')
+		return {
+			'team_number':int(sp[0]),
+			'team_name':sp[1],
+			'city':sp[2],
+			'state':sp[3],
+			'qualification_reason':sp[4]
+			}
+	return map(parse_line,open('data/2018_pnw_attendees.txt').read().splitlines())
+
+def pnw_load_in():
+	def parse_line(s):
+		sp=s.split('\t')
+		return {
+			'team_number':int(sp[0]),
+			'vehicle':sp[1],
+			'time':sp[2]
+			}
+	return map(parse_line,open('data/2018_pnw_load_in.txt').read().splitlines())
+
+def demo():
+	#print_lines(pnw_attendees())
+	#print_lines(pnw_load_in())
+	a=set(map(lambda x: x['team_number'],pnw_attendees()))
+	b=set(map(lambda x: x['team_number'],pnw_load_in()))
+	assert a==b
+
+	p1=pnw_attendees()
+
+	p=parse_file('data/2018_pnw_rank.txt')
+	#print_lines(p)
+	for a in p:
+		team_number=int(a['team'].split()[0])
+		f=filter(lambda x: x['team_number']==team_number,p1)
+		if len(f):
+			q=f[0]['qualification_reason'][:7]
+		else:
+			q=None
+		print '\t'.join(map(str,[a['rank'],a['total_points'],q,a['team']]))
 
 def run(actual_file,prediction_file):
 	actual=actual_results(actual_file)
@@ -67,6 +111,9 @@ if __name__=='__main__':
 	p=OptionParser()
 	p.add_option('--actual',default='data/2016_apr4_pnw.txt')
 	p.add_option('--predicted',default='results/2016_mar19_pnw.txt')
+	p.add_option('--demo',action='store_true')
 	options,args=p.parse_args()
 	assert len(args)==0
+	if options.demo:
+		exit(demo())
 	run(options.actual,options.predicted)
