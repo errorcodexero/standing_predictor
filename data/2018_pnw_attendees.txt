@@ -1,0 +1,64 @@
+360	The Revolution	Tacoma	WA	Ranking Points
+488	Team Xbot	Seattle	WA	Ranking Points
+492	Titan Robotics Club	Bellevue	WA	Ranking Points
+847	PHRED	Philomath	OR	Ranking Points
+948	NRG (Newport Robotics Group)	Bellevue	WA	Ranking Points
+957	SWARM	Albany	OR	Ranking Points
+997	Spartan Robotics	Corvallis	OR	Ranking Points
+1318	Issaquah Robotics Society	Issaquah	WA	Chairman's
+1359	Scalawags	Lebanon	OR	Ranking Points
+1425	Error Code Xero	Wilsonville	OR	Ranking Points
+1510	Wildcats	Beaverton	OR	Ranking Points
+1540	Flaming Chickens	Portland	OR	Ranking Points
+1595	The Dragons	Spokane	WA	Chairman's
+1778	Chill Out	Mountlake Terrace	WA	Ranking Points
+1983	Skunk Works Robotics	Seattle	WA	Ranking Points
+2046	Bear Metal	Maple Valley	WA	Chairman's
+2147	CHUCK	Spokane	WA	Ranking Points
+2374	Crusader Bots	Portland	OR	Ranking Points
+2471	Team Mean Machine	Camas	WA	Ranking Points
+2521	SERT	Eugene	OR	Chairman's
+2522	Royal Robotics	Lynnwood	WA	Ranking Points
+2557	SOTAbots	Tacoma	WA	Chairman's
+2605	Seamonsters	Bellingham	WA	Ranking Points
+2635	Lake Monsters	Lake Oswego	OR	Ranking Points
+2733	Pigmice	Portland	OR	Ranking Points
+2811	StormBots	Vancouver	WA	Ranking Points
+2906	Sentinel Prime Robotics	Spanaway	WA	Ranking Points
+2910	Jack in the Bot	Mill Creek	WA	Ranking Points
+2928	Viking Robotics	Seattle	WA	Ranking Points
+2930	Sonic Squirrels	Snohomish	WA	Ranking Points
+2944	Titanium Tigers	Spokane	WA	Chairman's
+2976	Spartabots	Sammamish	WA	Ranking Points
+2990	Hotwire	Turner	OR	Ranking Points
+3024	My Favorite Team	Ashland	OR	Chairman's
+3218	Panther Robotics	Bonney Lake	WA	Ranking Points
+3223	Robotics of Central Kitsap	Silverdale	WA	Ranking Points
+3238	Cyborg Ferrets	Anacortes	WA	Ranking Points
+3663	CPR - Cedar Park Robotics	Bothell	WA	Ranking Points
+3674	4-H/CAM Academy Clover Bots	Battle Ground	WA	Ranking Points
+3711	Iron Mustangs	Trout Lake	WA	Ranking Points
+3826	Sequim Robotics Federation "SRF"	Sequim	WA	Ranking Points
+4061	SciBorgs	Pullman	WA	Ranking Points
+4125	Confidential	Umatilla	OR	Chairman's
+4131	Iron Patriots	Renton	WA	Ranking Points
+4450	Olympia Robotics Federation	Olympia	WA	Ranking Points
+4469	R.A.I.D (Raider Artificial Intelligence DIvision)	Federal Way	WA	Ranking Points
+4488	Shockwave	Hillsboro	OR	Ranking Points
+4512	BEAR bots	Everett	WA	Ranking Points
+4513	Circuit Breakers	Medical Lake	WA	Ranking Points
+4662	Byte Sized Robotics	Scappoose	OR	Ranking Points
+4911	CyberKnights	Seattle	WA	Chairman's
+4915	Spartronics	Bainbridge Island	WA	Ranking Points
+4980	Canine Crusaders	Kettle Falls	WA	Ranking Points
+5450	St. Helens Robotics and Engineering Club (SHREC)	Saint Helens	OR	Ranking Points
+5468	Chaos Theory	Bend	OR	Ranking Points
+5803	Apex Robotics	Seattle	WA	Ranking Points
+5920	VIKotics	Palouse	WA	Ranking Points
+6076	Mustangs	Northport	WA	Ranking Points
+6443	AEMBOT	Hillsboro	OR	Ranking Points
+6445	CTEC Robotics	Salem	OR	Ranking Points
+6465	Mystic Biscuit	Bend	OR	Ranking Points
+6831	A-05 Annex	Hood River	OR	Ranking Points
+6845	River Bots	Astoria	OR	Ranking Points
+7034	2B Determined	West Linn	OR	Ranking Points

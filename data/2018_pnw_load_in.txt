@@ -1,0 +1,64 @@
+360	Long vehicle (Box truck or vehicle with trailer)	2:00 pm
+1425	Long vehicle (Box truck or vehicle with trailer)	2:00 pm
+1983	Long vehicle (Box truck or vehicle with trailer)	2:00 pm
+2557	Long vehicle (Box truck or vehicle with trailer)	2:00 pm
+2990	Long vehicle (Box truck or vehicle with trailer)	2:00 pm
+3218	Long vehicle (Box truck or vehicle with trailer)	2:00 pm
+3238	Long vehicle (Box truck or vehicle with trailer)	2:00 pm
+4512	Long vehicle (Box truck or vehicle with trailer)	2:00 pm
+4911	Long vehicle (Box truck or vehicle with trailer)	2:00 pm
+488	Long vehicle (Box truck or vehicle with trailer)	2:30 pm
+948	Long vehicle (Box truck or vehicle with trailer)	2:30 pm
+2046	Long vehicle (Box truck or vehicle with trailer)	2:30 pm
+2928	Long vehicle (Box truck or vehicle with trailer)	2:30 pm
+4061	Long vehicle (Box truck or vehicle with trailer)	2:30 pm
+4125	Long vehicle (Box truck or vehicle with trailer)	2:30 pm
+5803	Long vehicle (Box truck or vehicle with trailer)	2:30 pm
+6076	Long vehicle (Box truck or vehicle with trailer)	2:30 pm
+6443	Long vehicle (Box truck or vehicle with trailer)	2:30 pm
+492	Standard size vehicle	3:00 pm
+1540	Standard size vehicle	3:00 pm
+1778	Long vehicle (Box truck or vehicle with trailer)	3:00 pm
+2521	Long vehicle (Box truck or vehicle with trailer)	3:00 pm
+2522	Long vehicle (Box truck or vehicle with trailer)	with 1778
+3223	Long vehicle (Box truck or vehicle with trailer)	3:00 pm
+3674	Long vehicle (Box truck or vehicle with trailer)	3:00 pm
+3826	Standard size vehicle	3:00 pm
+5468	Long vehicle (Box truck or vehicle with trailer)	3:00 pm
+6845	Long vehicle (Box truck or vehicle with trailer)	3:00 pm
+2635	Long vehicle (Box truck or vehicle with trailer)	3:30 pm
+2906	Standard size vehicle	3:30 pm
+2910	Long vehicle (Box truck or vehicle with trailer)	3:30 pm
+2930	Long vehicle (Box truck or vehicle with trailer)	3:30 pm
+3711	Long vehicle (Box truck or vehicle with trailer)	3:30 pm
+4488	Long vehicle (Box truck or vehicle with trailer)	3:30 pm
+4513	Long vehicle (Box truck or vehicle with trailer)	3:30 pm
+4915	Long vehicle (Box truck or vehicle with trailer)	3:30 pm
+6831	Standard size vehicle	3:30 pm
+957	Long vehicle (Box truck or vehicle with trailer)	4:00 pm
+1510	Long vehicle (Box truck or vehicle with trailer)	4:00 pm
+2374	Standard size vehicle	4:00 pm
+2471	Long vehicle (Box truck or vehicle with trailer)	4:00 pm
+2605	Standard size vehicle	4:00 pm
+2811	Long vehicle (Box truck or vehicle with trailer)	4:00 pm
+4131	Long vehicle (Box truck or vehicle with trailer)	4:00 pm
+4662	Long vehicle (Box truck or vehicle with trailer)	4:00 pm
+7034	Standard size vehicle	4:00 pm
+997	Long vehicle (Box truck or vehicle with trailer)	4:30 pm
+1595	Long vehicle (Box truck or vehicle with trailer)	4:30 pm
+2733	Long vehicle (Box truck or vehicle with trailer)	4:30 pm
+2976	Standard size vehicle	4:30 pm
+3024	Long vehicle (Box truck or vehicle with trailer)	4:30 pm
+3663	Long vehicle (Box truck or vehicle with trailer)	4:30 pm
+4450	Long vehicle (Box truck or vehicle with trailer)	4:30 pm
+4469	Long vehicle (Box truck or vehicle with trailer)	4:30 pm
+5920	Long vehicle (Box truck or vehicle with trailer)	4:30 pm
+847	Long vehicle (Box truck or vehicle with trailer)	5:00 pm or later
+1318	Long vehicle (Box truck or vehicle with trailer)	5:00 pm or later
+1359	Long vehicle (Box truck or vehicle with trailer)	5:00 pm or later
+2147	Long vehicle (Box truck or vehicle with trailer)	5:00 pm or later
+2944	Long vehicle (Box truck or vehicle with trailer)	5:00 pm or later
+4980	Long vehicle (Box truck or vehicle with trailer)	5:00 pm or later
+5450	Long vehicle (Box truck or vehicle with trailer)	5:00 pm or later
+6445	Long vehicle (Box truck or vehicle with trailer)	5:00 pm or later
+6465	Long vehicle (Box truck or vehicle with trailer)	5:00 pm or later
