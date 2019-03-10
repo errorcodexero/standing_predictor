@@ -82,13 +82,33 @@ def demo():
 			q=None
 		print '\t'.join(map(str,[a['rank'],a['total_points'],q,a['team']]))
 
+def actual_2018():
+	p=parse_file('data/2018_pnw_rank.txt')
+	p1=pnw_attendees()
+	out={}
+	for a in p:
+		team=a['team']
+		team_number=int(team.split()[0])
+		f=filter(lambda x: x['team_number']==team_number,p1)
+		if len(f):
+			v='in'
+		else:
+			v='out'
+		out[team_number]=v
+	#print out
+	return out
+
 def run(actual_file,prediction_file):
-	actual=actual_results(actual_file)
+	#actual=actual_results(actual_file)
+	actual=actual_2018()
 	pred=predictions(prediction_file)
 
 	#Sanity check that both lists have the same teams
 	t1=keys(actual)
 	t2=keys(pred)
+	if t1!=t2:
+		print set(t1)-set(t2)
+		print set(t2)-set(t1)
 	assert t1==t2
 
 	result={}
