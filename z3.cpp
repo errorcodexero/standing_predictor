@@ -114,11 +114,17 @@ void add_event(string event_code,vector<Team> teams,context &c,solver &s){
 		teams
 	);
 	auto declare_not_equal=[&](auto a){
-		for(auto i:range(a.size())){
+		/*for(auto i:range(a.size())){
 			for(auto j:range(i)){
 				s.add(a[i]!=a[j]);
 			}
+		}*/
+		//distinct(a);
+		expr_vector t(c);
+		for(auto &elem:a){
+			t.push_back(elem);
 		}
+		s.add(distinct(t));
 	};
 	declare_not_equal(seconds(team_ranks));
 
@@ -146,6 +152,19 @@ void add_event(string event_code,vector<Team> teams,context &c,solver &s){
 		return x;
 	};
 
+	auto decl_maybe_team_number=[&](string name){
+		auto x=c.int_const(name.c_str());
+		auto v=(x==teams[0]);
+		for(auto a:tail(teams)){
+			//v|=(x==a);
+			v= v || (x==a);
+		}
+		//v= v||(x==0); //if the number is 0 then there was not a team there.
+		v= v||0; //if the number is 0 then there was not a team there.
+		s.add(v);
+		return x;
+	};
+
 	//alliance selection
 	vector<z3::expr> places;
 	for(auto i:range(1,9)){
@@ -154,13 +173,46 @@ void add_event(string event_code,vector<Team> teams,context &c,solver &s){
 		places|=decl_team_number(prefix+"a"+as_string(i)+"_p2");
 	}
 	declare_not_equal(places);
-	
+
+	vector<z3::expr> backup_slots;
+	for(auto i:range(1,9)){	
+		backup_slots|=decl_maybe_team_number(prefix+"a"+as_string(i)+"_backup");
+	}
+	for(auto i:range(backup_slots.size())){
+		for(auto j:range(i+1,backup_slots.size())){
+			s.add(backup_slots[i]==0 || backup_slots[i]!=backup_slots[j]);
+		}
+	}
+	for(auto& elem:places){
+		for(auto &x:backup_slots){
+			s.add(elem!=x);
+		}
+	}
+
 	//next, put in all the logic to make who can be captain correct
+	//0r could just skip this and say that lots of captains could decide to take themselves out of the 
+	//tournament.
+	//captains need to be ranked lower than the captains above them.
+	//and all captains need to be ranked higher than all non-included teams
 
 	//all the places exist
 	//teams are all different
 
 	//elims
+	/*
+	tournament structure:
+	1v8
+	2v7
+	3v6
+	4v5
+
+	1/8 v 4/5
+	2/7 v 3/6
+	
+	1/4/5/8 v 2/3/6/7
+	*/
+	//q1 in r2/r3/b2/b3 (how many matches to win)
+
 	//awards
 	//total points
 }
