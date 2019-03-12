@@ -14,6 +14,7 @@ later version could assume that teams have some sort of skill quantified by eith
 #include<sstream>
 #include<set>
 #include<random>
+#include<iomanip>
 #include "tba/db.h"
 #include "tba/data.h"
 #include "tba/tba.h"
@@ -52,6 +53,12 @@ std::multiset<T>& operator|=(std::multiset<T>& a,std::multiset<T> b){
 	for(auto elem:b){
 		a|=elem;
 	}
+	return a;
+}
+
+template<typename T>
+std::set<T>& operator|=(std::set<T>& a,T t){
+	a.insert(t);
 	return a;
 }
 
@@ -138,6 +145,239 @@ std::vector<T> reversed(std::vector<T> a){
 	return a;
 }
 
+using namespace tba;
+
+std::vector<std::string> split(std::string s){
+	std::vector<std::string> r;
+	std::stringstream ss;
+	for(auto c:s){
+		if(isblank(c)){
+			if(ss.str().size()){
+				r|=ss.str();
+				ss.str("");
+			}
+		}else{
+			ss<<c;
+		}
+	}
+	if(ss.str().size()){
+		r|=ss.str();
+	}
+	return r;
+}
+
+template<typename T>
+std::string tag(std::string name,T body){
+	std::stringstream ss;
+	ss<<"<"<<name<<">"<<body<<"</"<<split(name).at(0)<<">";
+	return ss.str();
+}
+
+template<typename A,typename B,typename C,typename D,typename E>
+std::ostream& operator<<(std::ostream& o,std::tuple<A,B,C,D,E> const& t){
+	o<<"(";
+	o<<std::get<0>(t)<<" ";
+	o<<std::get<1>(t)<<" ";
+	o<<std::get<2>(t)<<" ";
+	o<<std::get<3>(t)<<" ";
+	o<<std::get<4>(t);
+	return o<<")";
+}
+
+template<typename T>
+std::string as_string(T t){
+	std::stringstream ss;
+	ss<<t;
+	return ss.str();
+}
+
+template<typename T>
+std::string join(std::vector<T> const& a){
+	std::stringstream ss;
+	for(auto elem:a){
+		ss<<elem;
+	}
+	return ss.str();
+}
+
+template<typename A,typename B,typename C,typename D,typename E>
+std::string join(std::tuple<A,B,C,D,E> const& t){
+	std::stringstream ss;
+	#define X(N) ss<<std::get<N>(t);
+	X(0) X(1) X(2) X(3) X(4)
+	#undef X
+	return ss.str();
+}
+
+template<typename A,typename B,typename C,typename D,typename E,typename F>
+std::string join(std::tuple<A,B,C,D,E,F> const& t){
+	std::stringstream ss;
+	#define X(N) ss<<std::get<N>(t);
+	X(0) X(1) X(2) X(3) X(4) X(5)
+	#undef X
+	return ss.str();
+}
+
+template<typename T>
+auto tr(T t){ return tag("tr",t); }
+
+template<typename T>
+auto td(T t){ return tag("td",t); }
+
+template<typename Func,typename A,typename B,typename C,typename D>
+auto mapf(Func f,std::tuple<A,B,C,D> t)
+	#define G(N) decltype(f(std::get<N>(t)))
+	-> std::tuple<G(0),G(1),G(2),G(3)>
+	#undef G
+{
+	return make_tuple(
+		#define X(N) f(std::get<N>(t))
+		X(0),X(1),X(2),X(3)
+		#undef X
+	);
+}
+
+template<typename Func,typename A,typename B,typename C,typename D,typename E>
+auto mapf(Func f,std::tuple<A,B,C,D,E> t)
+	#define G(N) decltype(f(std::get<N>(t)))
+	-> std::tuple<G(0),G(1),G(2),G(3),G(4)>
+	#undef G
+{
+	return make_tuple(
+		#define X(N) f(std::get<N>(t))
+		X(0),X(1),X(2),X(3),X(4)
+		#undef X
+	);
+}
+
+template<typename Func,typename A,typename B,typename C,typename D,typename E,typename F>
+auto mapf(Func f,std::tuple<A,B,C,D,E,F> t)
+	#define G(N) decltype(f(std::get<N>(t)))
+	-> std::tuple<G(0),G(1),G(2),G(3),G(4),G(5)>
+	#undef G
+{
+	return make_tuple(
+		#define X(N) f(std::get<N>(t))
+		X(0),X(1),X(2),X(3),X(4),X(5)
+		#undef X
+	);
+}
+
+#define MAP(F,X) mapf([&](auto a){ return (F)(a); },(X))
+
+template<typename Func,typename T>
+T filter_unique(Func f,std::vector<T> a){
+	std::vector<T> found;
+	for(auto elem:a){
+		if(f(elem)){
+			found|=elem;
+		}
+	}
+	assert(found.size()==1);
+	return found[0];
+}
+
+template<typename Func,typename A,typename B>
+auto mapf(Func f,std::pair<A,B> p){
+	return make_pair(
+		f(p.first),
+		f(p.second)
+	);
+}
+
+template<typename A,typename B>
+std::string join(std::pair<A,B> p){
+	std::stringstream ss;
+	ss<<p.first;
+	ss<<p.second;
+	return ss.str();
+}
+
+template<typename T>
+std::string table(T body){ return tag("table",body); }
+
+template<typename T>
+auto h2(T t){ return tag("h2",t); }
+
+template<typename T>
+auto th(T t){ return tag("th",t); }
+auto th1(std::string s){ return th(s); }
+
+template<typename A,typename B,typename C,typename D,typename E>
+std::tuple<B,C,D,E> tail(std::tuple<A,B,C,D,E> const& t){
+	return make_tuple(std::get<1>(t),std::get<2>(t),std::get<3>(t),std::get<4>(t));
+}
+
+template<typename T>
+std::vector<T> operator+(std::vector<T> a,std::vector<T> b){
+	for(auto elem:b){
+		a|=elem;
+	}
+	return a;
+}
+
+template<typename T>
+std::vector<T> operator+(std::vector<T> a,std::tuple<T,T,T,T> t){
+	a|=std::get<0>(t);
+	a|=std::get<1>(t);
+	a|=std::get<2>(t);
+	a|=std::get<3>(t);
+	return a;
+}
+
+template<typename A,typename B,typename C,typename D,typename E>
+std::tuple<A,B,C,D,E> operator|(std::tuple<A> a,std::tuple<B,C,D,E> b){
+	return make_tuple(
+		std::get<0>(a),
+		std::get<0>(b),
+		std::get<1>(b),
+		std::get<2>(b),
+		std::get<3>(b)
+	);
+}
+
+template<typename A1,typename A,typename B,typename C,typename D,typename E>
+std::tuple<A1,A,B,C,D,E> operator|(std::tuple<A1,A> a,std::tuple<B,C,D,E> b){
+	return make_tuple(
+		std::get<0>(a),
+		std::get<1>(a),
+		std::get<0>(b),
+		std::get<1>(b),
+		std::get<2>(b),
+		std::get<3>(b)
+	);
+}
+
+std::string link(std::string url,std::string body){
+	return tag("a href=\""+url+"\"",body);
+}
+
+template<typename T>
+std::vector<std::pair<size_t,T>> enumerate_from(size_t start,std::vector<T> v){
+	std::vector<std::pair<size_t,T>> r;
+	for(auto elem:v){
+		r|=make_pair(start++,elem);
+	}
+	return r;
+}
+
+std::string td1(std::string s){ return td(s); }
+
+template<typename T>
+std::vector<T> operator+(std::vector<T> a,T b){
+	a|=b;
+	return a;
+}
+
+template<typename A,typename B,typename C,typename D,typename E>
+std::vector<B> seconds(std::vector<std::tuple<A,B,C,D,E>> v){
+	std::vector<B> r;
+	for(auto t:v){
+		r|=std::get<1>(t);
+	}
+	return r;
+}
+
 //start program-specific stuff.
 
 using namespace std;
@@ -175,30 +415,12 @@ map<Point,Pr> convolve(map<Point,Pr> a,map<Point,Pr> b){
 	return r;
 }
 
-template<typename Func,typename T>
-T filter_unique(Func f,vector<T> a){
-	vector<T> found;
-	for(auto elem:a){
-		if(f(elem)){
-			found|=elem;
-		}
-	}
-	assert(found.size()==1);
-	return found[0];
-}
-
 map<Point,Pr> operator+(map<Point,Pr> a,int i){
 	map<Point,Pr> r;
 	for(auto [k,v]:a){
 		r[k+i]=v;
 	}
 	return r;
-}
-
-template<typename T>
-set<T>& operator|=(set<T>& a,T t){
-	a.insert(t);
-	return a;
 }
 
 set<Team_key> chairmans_winners(Cached_fetcher& f,District_key district){
@@ -214,6 +436,131 @@ set<Team_key> chairmans_winners(Cached_fetcher& f,District_key district){
 		r|=*team;
 	}
 	return r;
+}
+
+string make_link(Team_key team){
+	auto s=team.str();
+	assert(s.substr(0,3)=="frc");
+	auto t=s.substr(3,500);
+	return link("https://www.thebluealliance.com/team/"+t,t);
+}
+
+	auto digit=[](auto i)->char{
+		if(i<10) return '0'+i;
+		return 'a'+(i-10);
+	};
+
+string color(double d){
+	//input range 0-1
+	//red->white->green
+
+	auto f=[](double v){
+		auto x=min(255,int(255*v));
+		return string()+digit(x>>4)+digit(x&0xf);
+	};
+
+	auto rgb=[=](double r,double g,double b){
+		return "#"+f(r)+f(g)+f(b);
+	};
+
+	if(d<.5){
+		return rgb(1,d*2,d*2);
+	}
+	auto a=2*(1-d);
+	return rgb(a,1,a);
+}
+
+string colorize(double d){
+	return tag("td bgcolor=\""+color(d)+"\"",
+		[&](){
+			stringstream ss;
+			ss<<setprecision(3)<<fixed;
+			ss<<d;
+			return ss.str();
+		}()
+	);
+}
+
+double entropy(Pr p){
+	//units are bits.
+	if(p<0) p=0;
+	if(p>1) p=1;
+	if(p==0 || p==1) return 0;
+	assert(p>0 && p<1);
+	return -(log(p)*p+log(1-p)*(1-p))/log(2);
+}
+
+string gen_html(vector<tuple<Team_key,Pr,Point,Point,Point>> result,vector<Team> team_info,map<Point,Pr> cutoff_pr){
+	auto title="PNW District Championship Predictions 2019"; //TODO: Put in date & make district configurable
+		//cout<<"Team #\tP(DCMP)\tPts 5%\tPts 50%\tPts 95%\tNickname\n";
+
+	auto nickname=[&](auto k){
+		auto f=filter_unique([=](auto a){ return a.key==k; },team_info);
+		auto v=f.nickname;
+		assert(v);
+		return *v;
+	};
+
+	auto cutoff_table=[=](){
+		return h2("Cutoff value")+tag("table border",
+			tr(th("Points")+th("Probability"))+
+			join(mapf(
+				[](auto a){
+					return tr(join(MAP(td,a)));
+				},
+				cutoff_pr
+			))
+		);
+	}();
+
+	double total_entropy=sum(mapf(entropy,seconds(result)));
+	PRINT(total_entropy);
+
+	return tag("html",
+		tag("head",
+			tag("title",title)
+		)+
+		tag("body",
+			tag("h1",title)+
+			cutoff_table+
+			h2("Team Probabilities")+
+			tag("table border",
+				tr(join(mapf(
+					th1,
+					std::vector<string>{
+						"Probability rank",
+						"Probability of making district championship",
+						"Team number",
+						"Nickname",
+						"Extra points needed to have 5% chance of making district championship",
+						"Extra points needed to have 50% chance of making district championship",
+						"Extra points needed to have 95% chance of making district championship"
+					}
+				)))+
+				join(
+					mapf(
+						[=](auto p){
+							auto [i,a]=p;
+							return tr(join(
+								vector<string>{}+td(i)+
+								colorize(get<1>(a))+
+							mapf(
+								td1,
+								std::vector<std::string>{
+									make_link(get<0>(a)),
+									nickname(get<0>(a)),
+									as_string(get<2>(a)),
+									as_string(get<3>(a)),
+									as_string(get<4>(a))
+								}
+							)));
+						},
+						enumerate_from(1,reversed(sorted(result,[](auto x){ return make_pair(get<1>(x),x); })))
+					)
+				)
+			)
+		)
+	);
 }
 
 int main(int argc,char **argv){
@@ -372,7 +719,7 @@ int main(int argc,char **argv){
 	};
 
 	multiset<Point> cutoffs;
-	const auto iterations=2000;
+	const auto iterations=2000; //usually want this to be like 2k
 	for(auto iteration:range(iterations)){
 		//PRINT(iteration);
 		map<Point,unsigned> final_points;
@@ -463,6 +810,12 @@ int main(int argc,char **argv){
 
 	auto x=mapf([](auto x){ return get<1>(x); },result);
 	PRINT(sum(x));
+
+	{
+		auto g=gen_html(result,team_info,cutoff_pr);
+		ofstream f("out.html");
+		f<<g;
+	}
 
 	bool show_table=1;
 	if(show_table){
