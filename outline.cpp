@@ -490,8 +490,15 @@ double entropy(Pr p){
 	return -(log(p)*p+log(1-p)*(1-p))/log(2);
 }
 
-string gen_html(vector<tuple<Team_key,Pr,Point,Point,Point>> result,vector<Team> team_info,map<Point,Pr> cutoff_pr){
-	auto title="PNW District Championship Predictions 2019"; //TODO: Put in date & make district configurable
+string gen_html(
+	vector<tuple<Team_key,Pr,Point,Point,Point>> result,
+	vector<Team> team_info,
+	map<Point,Pr> cutoff_pr,
+	string title,
+	string district_short,
+	Year year
+){
+	//auto title="PNW District Championship Predictions 2019"; //TODO: Put in date & make district configurable
 		//cout<<"Team #\tP(DCMP)\tPts 5%\tPts 50%\tPts 95%\tNickname\n";
 
 	auto nickname=[&](auto k){
@@ -515,13 +522,16 @@ string gen_html(vector<tuple<Team_key,Pr,Point,Point,Point>> result,vector<Team>
 
 	double total_entropy=sum(mapf(entropy,seconds(result)));
 	PRINT(total_entropy);
-
+	
 	return tag("html",
 		tag("head",
 			tag("title",title)
 		)+
 		tag("body",
 			tag("h1",title)+
+			link("https://frc-events.firstinspires.org/2019/district/"+district_short,"FRC Events")+"<br>"+
+			link("https://www.thebluealliance.com/events/"+district_short+"/"+as_string(year)+"#rankings","The Blue Alliance")+"<br>"+
+			link("http://frclocks.com/index.php?d="+district_short,"FRC Locks")+"(slow)<br>"+
 			cutoff_table+
 			h2("Team Probabilities")+
 			tag("table border",
@@ -555,7 +565,10 @@ string gen_html(vector<tuple<Team_key,Pr,Point,Point,Point>> result,vector<Team>
 								}
 							)));
 						},
-						enumerate_from(1,reversed(sorted(result,[](auto x){ return make_pair(get<1>(x),x); })))
+						enumerate_from(1,reversed(sorted(
+							result,
+							[](auto x){ return make_pair(get<1>(x),x); }
+						)))
 					)
 				)
 			)
@@ -563,14 +576,15 @@ string gen_html(vector<tuple<Team_key,Pr,Point,Point,Point>> result,vector<Team>
 	);
 }
 
-int main(int argc,char **argv){
-	//first, look up teams in the district
-	//for each team
-		//look up their schedule
-		//look up points earned already
-	auto tba_key=slurp("../tba/auth_key");
-	Cached_fetcher f{Fetcher{Nonempty_string{tba_key}},Cache{}};
-	District_key district{"2019pnw"};
+void run(Cached_fetcher &f,District_key district,Year year,int dcmp_size,string title,string district_short){
+	vector<District_key> old_keys{
+		//excluding 2014 since point system for quals was different.
+		District_key{"2015pnw"},
+		District_key{"2016pnw"},
+		District_key{"2017pnw"},
+		District_key{"2018pnw"},
+		District_key{"2019pnw"}
+	};
 
 	auto team_info=district_teams(f,district);
 
@@ -580,14 +594,6 @@ int main(int argc,char **argv){
 	auto d1=*d;
 	//print_lines(d1);
 	multiset<Point> old_results;
-	vector<District_key> old_keys{
-		//excluding 2014 since point system for quals was different.
-		District_key{"2015pnw"},
-		District_key{"2016pnw"},
-		District_key{"2017pnw"},
-		District_key{"2018pnw"},
-		District_key{"2019pnw"}
-	};
 	for(auto key:old_keys){
 		old_results|=point_results(f,district);
 	}
@@ -610,19 +616,33 @@ int main(int argc,char **argv){
 		if(chairmans.count(team.team_key)){
 			continue;
 		}
-		auto events_left=2-team.event_points.size();
+		//auto events_left=2-team.event_points.size();
+		auto max_counters=2-team.event_points.size();
+		auto events_scheduled=team_events_year_keys(f,team.team_key,year);
+		auto events_left=min(max_counters,events_scheduled.size()-team.event_points.size());
 		assert(events_left>=0);
 		by_team[team.team_key]=[&]()->map<Point,Pr>{
+			auto first_event_points=[=]()->double{
+				if(team.event_points.size()){
+					return team.event_points[0].total;
+				}
+				return 0;
+			}();
 			if(events_left==0){
 				return map<Point,Pr>{{
-					team.event_points[0].total+team.event_points[1].total,
+					first_event_points+[=]()->double{
+						if(team.event_points.size()>1){
+							return team.event_points[1].total;
+						}
+						return 0;
+					}(),
 					1
 				}};
 			}
 			if(events_left==1){
 				return to_map(mapf(
 					[&](auto p){
-						return make_pair(int(p.first+team.event_points[0].total),p.second);
+						return make_pair(int(p.first+first_event_points),p.second);
 					},
 					pr
 				));
@@ -635,7 +655,7 @@ int main(int argc,char **argv){
 		}()+team.rookie_bonus;
 	}
 
-	//print_lines(by_team);
+	print_lines(by_team);
 	bool by_team_csv=0;
 	if(by_team_csv){
 		cout<<"team,";
@@ -692,7 +712,7 @@ int main(int argc,char **argv){
 		}
 	}
 
-	auto teams_advancing=64-chairmans.size();
+	auto teams_advancing=dcmp_size-chairmans.size();
 	auto teams_competing=sum(values(by_points));
 	auto teams_left_out=teams_competing-teams_advancing;
 
@@ -812,8 +832,8 @@ int main(int argc,char **argv){
 	PRINT(sum(x));
 
 	{
-		auto g=gen_html(result,team_info,cutoff_pr);
-		ofstream f("out.html");
+		auto g=gen_html(result,team_info,cutoff_pr,title,district_short,year);
+		ofstream f(district.get()+".html");
 		f<<g;
 	}
 
@@ -834,6 +854,39 @@ int main(int argc,char **argv){
 			cout<<f.nickname<<"\n";
 		}
 	}
+}
 
+int main(int argc,char **argv){
+	//first, look up teams in the district
+	//for each team
+		//look up their schedule
+		//look up points earned already
+	auto tba_key=slurp("../tba/auth_key");
+	Cached_fetcher f{Fetcher{Nonempty_string{tba_key}},Cache{}};
+	Year year{2019};
+	//PRINT(districts(f,year));
+	for(auto year_info:districts(f,year)){
+		//District_key district{"2019pnw"};
+		auto district=year_info.key;
+		PRINT(district);
+		auto dcmp_size=[=](){
+			if(district=="2019chs") return 60;
+			if(district=="2019isr") return 45;
+			if(district=="2019fma") return 60;
+			if(district=="2019fnc") return 32;
+			if(district=="2019ont") return 80;
+			if(district=="2019tx") return 64;
+			if(district=="2019in") return 32;
+			if(district=="2019fim") return 160;
+			if(district=="2019ne") return 64;
+			if(district=="2019pnw") return 64;
+			if(district=="2019pch") return 45;
+			nyi
+		}();
+		auto title=year_info.display_name+" District Championship Predictions "+as_string(year);
+		run(f,district,year,dcmp_size,title,year_info.abbreviation);
+	}
 	return 0;
 }
+
+

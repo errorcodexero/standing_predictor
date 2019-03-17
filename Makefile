@@ -1,4 +1,4 @@
-CXXFLAGS=-std=c++1z -I.. 
+CXXFLAGS=-std=c++1z -I.. -Ofast
 LIBS=-lsqlite3 -lcurl
 all: outline
 
