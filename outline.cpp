@@ -8,6 +8,14 @@ foreach team:
 
 initial version could do assuming that all teams are equal
 later version could assume that teams have some sort of skill quantified by either their first event, or ELO, or something else.
+
+how to do worlds odds:
+hold over some of the data from calculating the make DCMP cutoffs to get distribution for that
+do the same distribution of points as a district event -> not good because have larger size & more chairmans winners, etc.
+TODO: Find table of # of chairman's winners per DCMP
+Engineering inspiration (#?)
+Rookie All-Star (probability that given out?)
+district championship winners -> just assume that they would have enough points anyway?
 */
 
 #include<fstream>
@@ -496,7 +504,8 @@ string gen_html(
 	map<Point,Pr> cutoff_pr,
 	string title,
 	string district_short,
-	Year year
+	Year year,
+	int dcmp_size
 ){
 	//auto title="PNW District Championship Predictions 2019"; //TODO: Put in date & make district configurable
 		//cout<<"Team #\tP(DCMP)\tPts 5%\tPts 50%\tPts 95%\tNickname\n";
@@ -532,6 +541,7 @@ string gen_html(
 			link("https://frc-events.firstinspires.org/2019/district/"+district_short,"FRC Events")+"<br>"+
 			link("https://www.thebluealliance.com/events/"+district_short+"/"+as_string(year)+"#rankings","The Blue Alliance")+"<br>"+
 			link("http://frclocks.com/index.php?d="+district_short,"FRC Locks")+"(slow)<br>"+
+			"Slots at event:"+as_string(dcmp_size)+
 			cutoff_table+
 			h2("Team Probabilities")+
 			tag("table border",
@@ -780,12 +790,6 @@ void run(Cached_fetcher &f,District_key district,Year year,int dcmp_size,string 
 	for(auto d:{.05,.5,.95}){
 		interesting_cutoffs[d]=cutoff_level(d);
 	}
-	//double p50_cutoff=cutoff_level(.5);
-	//double p95_cutoff=cutoff_level(.95);
-
-	/*
-	TODO: Rookie points, chairman's award
-	*/
 
 	vector<tuple<Team_key,Pr,Point,Point,Point>> result;
 	for(auto team:d1){
@@ -832,7 +836,7 @@ void run(Cached_fetcher &f,District_key district,Year year,int dcmp_size,string 
 	PRINT(sum(x));
 
 	{
-		auto g=gen_html(result,team_info,cutoff_pr,title,district_short,year);
+		auto g=gen_html(result,team_info,cutoff_pr,title,district_short,year,dcmp_size);
 		ofstream f(district.get()+".html");
 		f<<g;
 	}
@@ -854,6 +858,35 @@ void run(Cached_fetcher &f,District_key district,Year year,int dcmp_size,string 
 			cout<<f.nickname<<"\n";
 		}
 	}
+}
+
+#if 0
+void dcmp_awards(District_key district){
+	map<District_key,int> chairmans{
+		{"2019pnw",3/*chairmans*/+2/*ei*/+1/*ras*/},
+	};
+	//able to win DCMP EI without competing there with robot?
+	//looks like 568 did last year in PNW
+}
+#endif
+
+int cmp_slots(District_key district){
+	map<string,int> slots{
+		{"2019chs",21},
+		{"2019fim",87},
+		{"2019isr",11},
+		{"2019fma",21},
+		{"2019in",10},
+		{"2019ne",33},
+		{"2019ont",29},
+		{"2019tx",38},
+		{"2019fnc",15},
+		{"2019pnw",31},
+		{"2019pch",17},
+	};
+	auto f=slots.find(district.get());
+	assert(f!=slots.end());
+	return f->second;
 }
 
 int main(int argc,char **argv){
@@ -888,5 +921,3 @@ int main(int argc,char **argv){
 	}
 	return 0;
 }
-
-
