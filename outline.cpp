@@ -498,10 +498,20 @@ double entropy(Pr p){
 	return -(log(p)*p+log(1-p)*(1-p))/log(2);
 }
 
+using Extended_cutoff=pair<Point,Pr>;
+
+map<Point,Pr> simplify(map<pair<Point,Pr>,Pr> m){
+	map<Point,Pr> r;
+	for(auto [k,v]:m){
+		r[k.first]+=v;
+	}
+	return r;
+}
+
 string gen_html(
 	vector<tuple<Team_key,Pr,Point,Point,Point>> result,
 	vector<Team> team_info,
-	map<Point,Pr> cutoff_pr,
+	map<Extended_cutoff,Pr> cutoff_pr,
 	string title,
 	string district_short,
 	Year year,
@@ -519,6 +529,20 @@ string gen_html(
 
 	auto cutoff_table=[=](){
 		return h2("Cutoff value")+tag("table border",
+			tr(th("Points")+th("Probability"))+
+			join(mapf(
+				[](auto a){
+					return tr(join(MAP(td,a)));
+				},
+				simplify(cutoff_pr)
+			))
+		);
+	}();
+
+	auto cutoff_table_long=[=](){
+		return h2("Cutoff value - extended")+
+		"The cutoff values, along with how likely a team at that value is to get in"+
+		tag("table border",
 			tr(th("Points")+th("Probability"))+
 			join(mapf(
 				[](auto a){
@@ -581,7 +605,8 @@ string gen_html(
 						)))
 					)
 				)
-			)
+			)+
+			cutoff_table_long
 		)
 	);
 }
@@ -748,7 +773,7 @@ void run(Cached_fetcher &f,District_key district,Year year,int dcmp_size,string 
 		assert(0);
 	};
 
-	multiset<Point> cutoffs;
+	multiset<pair<Point,Pr>> cutoffs;
 	const auto iterations=2000; //usually want this to be like 2k
 	for(auto iteration:range(iterations)){
 		//PRINT(iteration);
@@ -760,17 +785,22 @@ void run(Cached_fetcher &f,District_key district,Year year,int dcmp_size,string 
 			unsigned total=0;
 			for(auto [points,teams]:final_points){
 				total+=teams;
-				if(total>=teams_left_out){
+				/*if(total>=teams_left_out){
 					return points;
+				}*/
+				if(total>=teams_left_out){
+					auto excess=total-teams_left_out;
+					return make_pair(points,excess/teams);
 				}
 			}
+			assert(0);
 		}();
 		//PRINT(find_cutoff);
 		cutoffs|=find_cutoff;
 	}
 
 	//print_lines(count(cutoffs));
-	map<Point,Pr> cutoff_pr=map_values(
+	map<pair<Point,Pr>,Pr> cutoff_pr=map_values(
 		[=](auto x){ return (0.0+x)/iterations; },
 		count(cutoffs)
 	);
@@ -786,7 +816,7 @@ void run(Cached_fetcher &f,District_key district,Year year,int dcmp_size,string 
 		}
 		assert(0);
 	};
-	map<Pr,Point> interesting_cutoffs;
+	map<Pr,Extended_cutoff> interesting_cutoffs;
 	for(auto d:{.05,.5,.95}){
 		interesting_cutoffs[d]=cutoff_level(d);
 	}
@@ -803,8 +833,11 @@ void run(Cached_fetcher &f,District_key district,Year year,int dcmp_size,string 
 		for(auto [cutoff,c_pr]:cutoff_pr){
 			for(auto [team_value,t_pr]:team_pr){
 				auto combined_pr=c_pr*t_pr;
-				if(team_value>cutoff){
+				if(team_value>cutoff.first){
 					pr_make+=combined_pr;
+				}else if(team_value==cutoff.first){
+					pr_make+=combined_pr*cutoff.second;
+					pr_miss+=combined_pr*(1-cutoff.second);
 				}else{
 					pr_miss+=combined_pr;
 				}
@@ -816,6 +849,7 @@ void run(Cached_fetcher &f,District_key district,Year year,int dcmp_size,string 
 			assert(total>=-.01 && total<=.01);
 			result|=make_tuple(team.team_key,1.0,0,0,0);
 		}else{
+			PRINT(total);
 			assert(total>.99 && total<1.01);
 
 			//PRINT(pr_make);
@@ -824,7 +858,7 @@ void run(Cached_fetcher &f,District_key district,Year year,int dcmp_size,string 
 			vector<Point> interesting;
 			for(auto [pr,pts]:interesting_cutoffs){
 				//cout<<pr<<":"<<max(0.0,pts-points_so_far)<<"\n";
-				auto value=max(0,int(pts-points_so_far));
+				auto value=max(0,int(pts.first-points_so_far));
 				interesting|=value;
 			}
 			assert(interesting.size()==3);
@@ -903,7 +937,7 @@ int main(int argc,char **argv){
 		auto district=year_info.key;
 		PRINT(district);
 		auto dcmp_size=[=](){
-			if(district=="2019chs") return 60;
+			if(district=="2019chs") return 58;
 			if(district=="2019isr") return 45;
 			if(district=="2019fma") return 60;
 			if(district=="2019fnc") return 32;
