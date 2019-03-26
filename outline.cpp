@@ -541,7 +541,7 @@ string gen_html(
 
 	auto cutoff_table_long=[=](){
 		return h2("Cutoff value - extended")+
-		"The cutoff values, along with how likely a team at that value is to get in"+
+		"The cutoff values, along with how likely a team at that value is to miss advancing.  For example: a line that said (50,.25) would correspond to the probability that team above 50 get in, teams below 50 do not, and 75% of teams ending up with exactly 50 would qualify for the district championship."+
 		tag("table border",
 			tr(th("Points")+th("Probability"))+
 			join(mapf(
@@ -790,7 +790,7 @@ void run(Cached_fetcher &f,District_key district,Year year,int dcmp_size,string 
 				}*/
 				if(total>=teams_left_out){
 					auto excess=total-teams_left_out;
-					return make_pair(points,excess/teams);
+					return make_pair(points,1-excess/teams);
 				}
 			}
 			assert(0);
@@ -836,8 +836,8 @@ void run(Cached_fetcher &f,District_key district,Year year,int dcmp_size,string 
 				if(team_value>cutoff.first){
 					pr_make+=combined_pr;
 				}else if(team_value==cutoff.first){
-					pr_make+=combined_pr*cutoff.second;
-					pr_miss+=combined_pr*(1-cutoff.second);
+					pr_make+=combined_pr*(1-cutoff.second);
+					pr_miss+=combined_pr*cutoff.second;
 				}else{
 					pr_miss+=combined_pr;
 				}
