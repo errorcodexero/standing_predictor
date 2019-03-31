@@ -785,12 +785,13 @@ void run(Cached_fetcher &f,District_key district,Year year,int dcmp_size,string 
 			unsigned total=0;
 			for(auto [points,teams]:final_points){
 				total+=teams;
-				/*if(total>=teams_left_out){
-					return points;
-				}*/
-				if(total>=teams_left_out){
+				if(total>teams_left_out){
 					auto excess=total-teams_left_out;
 					return make_pair(points,1-excess/teams);
+				}else if(total==teams_left_out){
+					//to make it so that being at cutoff number is min to possibly be in, rather than 
+					//saying cutoff is X but everyone at that number missed.
+					return make_pair(points+1,0.0);
 				}
 			}
 			assert(0);
@@ -923,7 +924,17 @@ int cmp_slots(District_key district){
 	return f->second;
 }
 
+vector<string> args(int argc,char **argv){
+	vector<string> r;
+	//ignore program name
+	for(int i=1;i<argc;i++){
+		r|=string{argv[i]};
+	}
+	return r;
+}
+
 int main(int argc,char **argv){
+	auto a=args(argc,argv);
 	//first, look up teams in the district
 	//for each team
 		//look up their schedule
@@ -932,10 +943,23 @@ int main(int argc,char **argv){
 	Cached_fetcher f{Fetcher{Nonempty_string{tba_key}},Cache{}};
 	Year year{2019};
 	//PRINT(districts(f,year));
-	for(auto year_info:districts(f,year)){
+	auto dists=[&](){
+		/*if(a.size()){
+			for(auto elem:a){
+				if(elem=="--help" || elem=="-h"){
+					cout<<"Create HTML output giving district championship odds.\n";
+					cout<<"args: optionally, a list of district keys.\n";
+					exit(0);
+				}
+			return a;
+		}*/
+		return districts(f,year);
+	}();
+	for(auto year_info:dists){
 		//District_key district{"2019pnw"};
 		auto district=year_info.key;
 		PRINT(district);
+		//if( !(district==District_key{"2019pnw"}) ) continue;
 		auto dcmp_size=[=](){
 			if(district=="2019chs") return 58;
 			if(district=="2019isr") return 45;
