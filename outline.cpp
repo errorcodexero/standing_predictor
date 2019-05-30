@@ -434,10 +434,23 @@ map<Point,Pr> operator+(map<Point,Pr> a,int i){
 set<Team_key> chairmans_winners(Cached_fetcher& f,District_key district){
 	set<Team_key> r;
 	for(auto event:district_events(f,district)){
+		switch(event.event_type){
+			case Event_type::DISTRICT_CMP:
+			case Event_type::DISTRICT_CMP_DIVISION:
+				continue;
+			case Event_type::DISTRICT:
+				break;
+			default:
+				PRINT(event.event_type);
+				nyi
+		}
 		auto k=event.key;
 		auto aw=event_awards(f,k);
 		if(aw.empty()) continue;
 		auto f=filter_unique([](auto a){ return a.award_type==Award_type::CHAIRMANS; },aw);
+		if(f.recipient_list.size()!=1){
+			PRINT(f);
+		}
 		assert(f.recipient_list.size()==1);
 		auto team=f.recipient_list[0].team_key;
 		assert(team);
@@ -652,7 +665,7 @@ void run(Cached_fetcher &f,District_key district,Year year,int dcmp_size,string 
 			continue;
 		}
 		//auto events_left=2-team.event_points.size();
-		auto max_counters=2-team.event_points.size();
+		size_t max_counters=2-min(2,(int)team.event_points.size()); //min in case district championship has already been played.
 		auto events_scheduled=team_events_year_keys(f,team.team_key,year);
 		auto events_left=min(max_counters,events_scheduled.size()-team.event_points.size());
 		assert(events_left>=0);
@@ -686,6 +699,7 @@ void run(Cached_fetcher &f,District_key district,Year year,int dcmp_size,string 
 				return convolve(pr,pr)+team.rookie_bonus;
 			}
 			PRINT(team);
+			PRINT(events_left);
 			nyi
 		}()+team.rookie_bonus;
 	}
