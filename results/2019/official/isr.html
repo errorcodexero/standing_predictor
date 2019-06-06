@@ -1,0 +1,2865 @@
+<!DOCTYPE html>
+<html lang="en"><!--  PLEASE DO NOT SCRAPE WEBPAGES FOR EVENT DATA!
+      We now have an API that allows easy access to event and team
+      data. It is easier for developers, and helps keep this server
+      available for the public who are seeking basic event information.
+      For more info, visit our project website at:
+      https://usfirst.collab.net/sf/projects/first_community_developers/
+   ____ ____ ___   ____ ______
+  / __//  _// _ \ / __//_  __/ (R)
+ / _/ _/ / / , _/_\ \   / /
+/_/  /___//_/|_|/___/  /_/
+    ____   _        __         _        __          
+   / __ \ (_)_____ / /_ _____ (_)_____ / /_         
+  / / / // // ___// __// ___// // ___// __/         
+ / /_/ // /(__  )/ /_ / /   / // /__ / /_           
+/_____//_//____/ \__//_/   /_/ \___/ \__/           
+    ____                 __    _                    
+   / __ \ ____ _ ____   / /__ (_)____   ____ _ _____
+  / /_/ // __ `// __ \ / //_// // __ \ / __ `// ___/
+ / _, _// /_/ // / / // ,<  / // / / // /_/ /(__  ) 
+/_/ |_| \__,_//_/ /_//_/|_|/_//_/ /_/ \__, //____/  
+                                     /____/
+--><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <link href="isr_files/bootstrap.css" rel="stylesheet">
+    <link href="isr_files/leaderboard.css" rel="stylesheet">
+    <title>FRC Leaderboard :: Rankings</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1,user-scalable=no">
+    <link rel="icon" type="image/x-icon" href="https://frc-cdn.firstinspires.org/eventweb/favicon.ico">
+    <link rel="apple-touch-icon" href="https://frc-cdn.firstinspires.org/eventweb/apple/apple-touch-icon-72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="https://frc-cdn.firstinspires.org/eventweb/apple/apple-touch-icon-114.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://frc-cdn.firstinspires.org/eventweb/apple/apple-touch-icon-180.png">
+    <script async="" src="isr_files/analytics.js"></script><script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-60219656-3', 'auto');
+        ga('send', 'pageview');
+    </script>
+</head>
+<body>
+    <script src="isr_files/jquery.js"></script>
+    <script src="isr_files/bootstrap.js"></script>
+    <script src="isr_files/jquery_002.js"></script>
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+        <!-- Color Strip -->
+        <div class="color-strip">
+            <div class="fgreen"></div>
+            <div class="fred"></div>
+            <div class="forange"></div>
+            <div class="fblue"></div>
+        </div>
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false" aria-controls="navbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a href="http://frc-districtrankings.firstinspires.org/" title="Home">
+                    <div class="navbar-brand hidden-xs"><strong>FRC District Rankings</strong></div>
+                    <div class="navbar-brand visible-xs"><strong>District Rankings</strong></div>
+                </a>
+            </div>
+            <div id="navbar-collapse" class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <!-- Navigation -->
+                    <li><a href="http://frc-districtrankings.firstinspires.org/" title="Home"><span class="glyphicon glyphicon-home" aria-hidden="true"></span></a></li>
+                    <li><a href="http://frc-districtrankings.firstinspires.org/2019/rankings">Rankings</a></li>
+                    <li><a href="http://frc-districtrankings.firstinspires.org/2019/eventResults">Event Results</a></li>
+                    <li class="hidden-sm"><a href="http://frc-districtrankings.firstinspires.org/2019/teamResults">Team Results</a></li>
+                                    <li class="hidden-sm"><a href="http://frc-districtrankings.firstinspires.org/about">About</a></li>
+                    <li class="hidden-sm"><a href="http://frc-districtrankings.firstinspires.org/scoring">Scoring</a></li>
+                                                </ul>
+                            </div>
+        </div>
+    </nav>
+    <div class="flex" id="flex">
+        <div class="whitebg">
+                <div class="jumbotron">
+                    <div class="container">
+                        <h3 class="col-xs-12 col-sm-10">
+                                                            2019
+                                                        Rankings
+                                                            <span class="hidden-md hidden-lg" style="font-size:60%;">
+                                    <br>FIRST Israel District
+                                </span>
+                                <span class="hidden-xs hidden-sm">
+                                    - FIRST Israel District
+                                </span>
+                                       
+                        </h3>
+                        <div class="hidden-xs col-sm-2">
+                                                            <img src="isr_files/2019.png" alt="Game Logo" style="max-width:175px;max-height:60px;">
+                                                    </div>
+                    </div>
+                </div>   
+            <div class="container">
+                                    <div class="alert alert-dismissible 
+                    alert-success
+              " role="alert">
+  <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">×</span></button>
+  <strong>The district system has completed play for 2019. Congratulations to all teams!</strong>
+</div>
+<div class="alert alert-dismissible 
+                    alert-warning
+              " role="alert">
+  <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">×</span></button>
+  <strong>District ranking data is now available through the 
+https://frc-events.firstinspires.org website under individual teams and 
+events. This dedicated domain will be removed in the future. Please 
+contact frcteamadvocate@firstinspires.org with any questions or 
+comments.</strong>
+</div>
+
+                                <script>
+    $(document).ready(function () {
+        $('table').tablesorter({
+        });
+    });
+</script>
+<h4>
+    Full District Rankings&nbsp;&nbsp;--&nbsp;&nbsp;
+    66 Teams&nbsp;&nbsp;--&nbsp;&nbsp;
+    5 Events
+</h4>
+
+<table class="table table-striped table-hover text-center tablesorter tablesorter-default tablesorter03d2cbc11b814" role="grid">
+    <thead>
+        <tr role="row" class="tablesorter-headerRow">
+            <th class="col-sm-1 text-center tablesorter-header tablesorter-headerUnSorted" data-column="0" tabindex="0" scope="col" role="columnheader" aria-disabled="false" unselectable="on" style="-moz-user-select: none;" aria-sort="none" aria-label="Rank: No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">Rank</div></th>
+            <th class="col-sm-1 text-center tablesorter-header tablesorter-headerUnSorted" data-column="1" tabindex="0" scope="col" role="columnheader" aria-disabled="false" unselectable="on" style="-moz-user-select: none;" aria-sort="none" aria-label="DistrictPoints: No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">District<br>Points</div></th>
+            <th class="col-sm-3 tablesorter-header tablesorter-headerUnSorted" data-column="2" tabindex="0" scope="col" role="columnheader" aria-disabled="false" unselectable="on" style="-moz-user-select: none;" aria-sort="none" aria-label="Team: No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">Team</div></th>
+            <th class="col-sm-2 text-center tablesorter-header tablesorter-headerUnSorted" data-column="3" tabindex="0" scope="col" role="columnheader" aria-disabled="false" unselectable="on" style="-moz-user-select: none;" aria-sort="none" aria-label="Event 1: No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">Event 1</div></th>
+            <th class="col-sm-2 text-center tablesorter-header tablesorter-headerUnSorted" data-column="4" tabindex="0" scope="col" role="columnheader" aria-disabled="false" unselectable="on" style="-moz-user-select: none;" aria-sort="none" aria-label="Event 2: No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">Event 2</div></th>
+
+                        <th class="col-sm-1 text-center tablesorter-header tablesorter-headerUnSorted" data-column="5" tabindex="0" scope="col" role="columnheader" aria-disabled="false" unselectable="on" style="-moz-user-select: none;" aria-sort="none" aria-label="District Championship: No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">District <span style="font-size:11px;">Championship</span></div></th>
+            
+                        <th class="col-sm-1 text-center tablesorter-header tablesorter-headerUnSorted" data-column="6" tabindex="0" scope="col" role="columnheader" aria-disabled="false" unselectable="on" style="-moz-user-select: none;" aria-sort="none" aria-label="FRC Championship: No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">FRC <span style="font-size:11px;">Championship</span></div></th>
+            
+            <th class="col-sm-1 text-center tablesorter-header tablesorter-headerUnSorted" data-column="7" tabindex="0" scope="col" role="columnheader" aria-disabled="false" unselectable="on" style="-moz-user-select: none;" aria-sort="none" aria-label="Team Age Points: No sort applied, activate to apply an ascending sort"><div class="tablesorter-header-inner">Team Age Points</div></th>
+        </tr>
+    </thead>
+    <tbody aria-live="polite" aria-relevant="all">
+            <tr style="text-align:center;" role="row">
+            <td>1</td>
+            <td>320</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/3075">
+                3075 - Ha-Dream Team
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            69
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE2">
+                            <img src="isr_files/calendar.png" title="ISR District Event #2">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            53
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE3">
+                            <img src="isr_files/calendar.png" title="ISR District Event #3">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                        
+                                                                        
+                                                    198
+                            <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISCMP">
+                                <img src="isr_files/calendar.png" title="FIRST Israel District Championship">
+                            </a>
+                                                                                    </td>
+        
+                            <td>
+                                    <span title="Qualified" style="color:green;font-weight:bold;">Qualified</span>
+                            </td>
+        
+                    <td><span title="Rookie Year: 2009">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>2</td>
+            <td>315</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/4338">
+                4338 - Falcons
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            66
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE1">
+                            <img src="isr_files/calendar.png" title="ISR District Event #1">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            63
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE3">
+                            <img src="isr_files/calendar.png" title="ISR District Event #3">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                        
+                                                                        
+                                                    186
+                            <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISCMP">
+                                <img src="isr_files/calendar.png" title="FIRST Israel District Championship">
+                            </a>
+                                                                                    </td>
+        
+                            <td>
+                                    <span title="Qualified" style="color:green;font-weight:bold;">Qualified</span>
+                            </td>
+        
+                    <td><span title="Rookie Year: 2012">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>3</td>
+            <td>272</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/1690">
+                1690 - Orbit
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            63
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE1">
+                            <img src="isr_files/calendar.png" title="ISR District Event #1">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            53
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE4">
+                            <img src="isr_files/calendar.png" title="ISR District Event #4">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                        
+                                                                        
+                                                    156
+                            <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISCMP">
+                                <img src="isr_files/calendar.png" title="FIRST Israel District Championship">
+                            </a>
+                                                                                    </td>
+        
+                            <td>
+                                    <span title="Qualified" style="color:green;font-weight:bold;">Qualified</span>
+                            </td>
+        
+                    <td><span title="Rookie Year: 2005">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>4</td>
+            <td>271</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/3339">
+                3339 - BumbleB
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            73
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE2">
+                            <img src="isr_files/calendar.png" title="ISR District Event #2">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            66
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE4">
+                            <img src="isr_files/calendar.png" title="ISR District Event #4">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                        
+                                                                        
+                                                    132
+                            <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISCMP">
+                                <img src="isr_files/calendar.png" title="FIRST Israel District Championship">
+                            </a>
+                                                                                    </td>
+        
+                            <td>
+                                    <span title="Qualified" style="color:green;font-weight:bold;">Qualified</span>
+                            </td>
+        
+                    <td><span title="Rookie Year: 2010">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>5</td>
+            <td>242</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/1577">
+                1577 - Steampunk
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            59
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE1">
+                            <img src="isr_files/calendar.png" title="ISR District Event #1">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            39
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE3">
+                            <img src="isr_files/calendar.png" title="ISR District Event #3">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                        
+                                                                        
+                                                    144
+                            <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISCMP">
+                                <img src="isr_files/calendar.png" title="FIRST Israel District Championship">
+                            </a>
+                                                                                    </td>
+        
+                            <td>
+                                    <span title="Qualified" style="color:green;font-weight:bold;">Qualified</span>
+                            </td>
+        
+                    <td><span title="Rookie Year: 2005">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>6</td>
+            <td>240</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/3211">
+                3211 - The Y Team
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            34
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE1">
+                            <img src="isr_files/calendar.png" title="ISR District Event #1">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            41
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE3">
+                            <img src="isr_files/calendar.png" title="ISR District Event #3">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                        
+                                                                        
+                                                    165
+                            <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISCMP">
+                                <img src="isr_files/calendar.png" title="FIRST Israel District Championship">
+                            </a>
+                                                                                    </td>
+        
+                            <td>
+                                    <span title="Qualified" style="color:green;font-weight:bold;">Qualified</span>
+                            </td>
+        
+                    <td><span title="Rookie Year: 2010">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>7</td>
+            <td>213</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/1937">
+                1937 - Elysium 
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            49
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE1">
+                            <img src="isr_files/calendar.png" title="ISR District Event #1">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            62
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE4">
+                            <img src="isr_files/calendar.png" title="ISR District Event #4">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                        
+                                                                        
+                                                    102
+                            <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISCMP">
+                                <img src="isr_files/calendar.png" title="FIRST Israel District Championship">
+                            </a>
+                                                                                    </td>
+        
+                            <td>
+                                    <span title="Qualified" style="color:green;font-weight:bold;">Qualified</span>
+                            </td>
+        
+                    <td><span title="Rookie Year: 2006">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>8</td>
+            <td>211</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/1574">
+                1574 - MisCar
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            69
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE1">
+                            <img src="isr_files/calendar.png" title="ISR District Event #1">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            34
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE3">
+                            <img src="isr_files/calendar.png" title="ISR District Event #3">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                        
+                                                                        
+                                                    108
+                            <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISCMP">
+                                <img src="isr_files/calendar.png" title="FIRST Israel District Championship">
+                            </a>
+                                                                                    </td>
+        
+                            <td>
+                                    <span title="Qualified" style="color:green;font-weight:bold;">Qualified</span>
+                            </td>
+        
+                    <td><span title="Rookie Year: 2005">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>9</td>
+            <td>203</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/5554">
+                5554 - The Poros
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            43
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE1">
+                            <img src="isr_files/calendar.png" title="ISR District Event #1">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            34
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE4">
+                            <img src="isr_files/calendar.png" title="ISR District Event #4">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                        
+                                                                        
+                                                    126
+                            <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISCMP">
+                                <img src="isr_files/calendar.png" title="FIRST Israel District Championship">
+                            </a>
+                                                                                    </td>
+        
+                            <td>
+                                    <span title="Qualified" style="color:green;font-weight:bold;">Qualified</span>
+                            </td>
+        
+                    <td><span title="Rookie Year: 2015">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>10</td>
+            <td>196</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/6738">
+                6738 - Excalibur
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            24
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE2">
+                            <img src="isr_files/calendar.png" title="ISR District Event #2">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            25
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE4">
+                            <img src="isr_files/calendar.png" title="ISR District Event #4">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                        
+                                                                        
+                                                    147
+                            <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISCMP">
+                                <img src="isr_files/calendar.png" title="FIRST Israel District Championship">
+                            </a>
+                                                                                    </td>
+        
+                            <td>
+                                    ---
+                            </td>
+        
+                    <td><span title="Rookie Year: 2017">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>11</td>
+            <td>195</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/5990">
+                5990 - TRIGON
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            38
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE2">
+                            <img src="isr_files/calendar.png" title="ISR District Event #2">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            19
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE4">
+                            <img src="isr_files/calendar.png" title="ISR District Event #4">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                        
+                                                                        
+                                                    138
+                            <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISCMP">
+                                <img src="isr_files/calendar.png" title="FIRST Israel District Championship">
+                            </a>
+                                                                                    </td>
+        
+                            <td>
+                                    <span title="Qualified" style="color:green;font-weight:bold;">Qualified</span>
+                            </td>
+        
+                    <td><span title="Rookie Year: 2016">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>12</td>
+            <td>185</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/2231">
+                2231 - OnyxTronix
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            26
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE2">
+                            <img src="isr_files/calendar.png" title="ISR District Event #2">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            39
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE3">
+                            <img src="isr_files/calendar.png" title="ISR District Event #3">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                        
+                                                                        
+                                                    120
+                            <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISCMP">
+                                <img src="isr_files/calendar.png" title="FIRST Israel District Championship">
+                            </a>
+                                                                                    </td>
+        
+                            <td>
+                                    ---
+                            </td>
+        
+                    <td><span title="Rookie Year: 2007">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>13</td>
+            <td>181</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/7039">
+                7039 - ❌⭕
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            34
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE1">
+                            <img src="isr_files/calendar.png" title="ISR District Event #1">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            55
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE4">
+                            <img src="isr_files/calendar.png" title="ISR District Event #4">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                        
+                                                                        
+                                                    87
+                            <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISCMP">
+                                <img src="isr_files/calendar.png" title="FIRST Israel District Championship">
+                            </a>
+                                                                                    </td>
+        
+                            <td>
+                                    ---
+                            </td>
+        
+                    <td><span title="Rookie Year: 2018">5</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>14</td>
+            <td>166</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/2630">
+                2630 - Thunderbolts
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            51
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE2">
+                            <img src="isr_files/calendar.png" title="ISR District Event #2">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            49
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE4">
+                            <img src="isr_files/calendar.png" title="ISR District Event #4">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                        
+                                                                        
+                                                    66
+                            <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISCMP">
+                                <img src="isr_files/calendar.png" title="FIRST Israel District Championship">
+                            </a>
+                                                                                    </td>
+        
+                            <td>
+                                    ---
+                            </td>
+        
+                    <td><span title="Rookie Year: 2008">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>15</td>
+            <td>165</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/2096">
+                2096 - RoboActive
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            40
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE2">
+                            <img src="isr_files/calendar.png" title="ISR District Event #2">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            35
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE4">
+                            <img src="isr_files/calendar.png" title="ISR District Event #4">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                        
+                                                                        
+                                                    90
+                            <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISCMP">
+                                <img src="isr_files/calendar.png" title="FIRST Israel District Championship">
+                            </a>
+                                                                                    </td>
+        
+                            <td>
+                                    <span title="Qualified" style="color:green;font-weight:bold;">Qualified</span>
+                            </td>
+        
+                    <td><span title="Rookie Year: 2007">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>16</td>
+            <td>163</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/4586">
+                4586 - PRIMO
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            30
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE2">
+                            <img src="isr_files/calendar.png" title="ISR District Event #2">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            43
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE3">
+                            <img src="isr_files/calendar.png" title="ISR District Event #3">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                        
+                                                                        
+                                                    90
+                            <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISCMP">
+                                <img src="isr_files/calendar.png" title="FIRST Israel District Championship">
+                            </a>
+                                                                                    </td>
+        
+                            <td>
+                                    ---
+                            </td>
+        
+                    <td><span title="Rookie Year: 2013">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>17</td>
+            <td>156</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/5654">
+                5654 - Phoenix
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            43
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE2">
+                            <img src="isr_files/calendar.png" title="ISR District Event #2">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            50
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE3">
+                            <img src="isr_files/calendar.png" title="ISR District Event #3">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                        
+                                                                        
+                                                    63
+                            <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISCMP">
+                                <img src="isr_files/calendar.png" title="FIRST Israel District Championship">
+                            </a>
+                                                                                    </td>
+        
+                            <td>
+                                    ---
+                            </td>
+        
+                    <td><span title="Rookie Year: 2015">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>18</td>
+            <td>155</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/4590">
+                4590 - GreenBlitz
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            44
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE1">
+                            <img src="isr_files/calendar.png" title="ISR District Event #1">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            48
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE4">
+                            <img src="isr_files/calendar.png" title="ISR District Event #4">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                        
+                                                                        
+                                                    63
+                            <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISCMP">
+                                <img src="isr_files/calendar.png" title="FIRST Israel District Championship">
+                            </a>
+                                                                                    </td>
+        
+                            <td>
+                                    ---
+                            </td>
+        
+                    <td><span title="Rookie Year: 2013">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>19</td>
+            <td>143</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/3034">
+                3034 - Galileo
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            39
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE1">
+                            <img src="isr_files/calendar.png" title="ISR District Event #1">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            59
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE3">
+                            <img src="isr_files/calendar.png" title="ISR District Event #3">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                        
+                                                                        
+                                                    45
+                            <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISCMP">
+                                <img src="isr_files/calendar.png" title="FIRST Israel District Championship">
+                            </a>
+                                                                                    </td>
+        
+                            <td>
+                                    ---
+                            </td>
+        
+                    <td><span title="Rookie Year: 2009">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>20</td>
+            <td>139</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/3388">
+                3388 - Flash
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            31
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE2">
+                            <img src="isr_files/calendar.png" title="ISR District Event #2">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            42
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE3">
+                            <img src="isr_files/calendar.png" title="ISR District Event #3">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                        
+                                                                        
+                                                    66
+                            <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISCMP">
+                                <img src="isr_files/calendar.png" title="FIRST Israel District Championship">
+                            </a>
+                                                                                    </td>
+        
+                            <td>
+                                    ---
+                            </td>
+        
+                    <td><span title="Rookie Year: 2010">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>21</td>
+            <td>130</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/5951">
+                5951 - Makers Assemble
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            30
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE2">
+                            <img src="isr_files/calendar.png" title="ISR District Event #2">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            37
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE4">
+                            <img src="isr_files/calendar.png" title="ISR District Event #4">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                        
+                                                                        
+                                                    63
+                            <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISCMP">
+                                <img src="isr_files/calendar.png" title="FIRST Israel District Championship">
+                            </a>
+                                                                                    </td>
+        
+                            <td>
+                                    <span title="Qualified" style="color:green;font-weight:bold;">Qualified</span>
+                            </td>
+        
+                    <td><span title="Rookie Year: 2016">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>22</td>
+            <td>125</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/6104">
+                6104 - Desert Eagles
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            38
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE2">
+                            <img src="isr_files/calendar.png" title="ISR District Event #2">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            9
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE4">
+                            <img src="isr_files/calendar.png" title="ISR District Event #4">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                        
+                                                                        
+                                                    78
+                            <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISCMP">
+                                <img src="isr_files/calendar.png" title="FIRST Israel District Championship">
+                            </a>
+                                                                                    </td>
+        
+                            <td>
+                                    ---
+                            </td>
+        
+                    <td><span title="Rookie Year: 2016">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>23</td>
+            <td>123</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/2212">
+                2212 - The Spikes
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            4
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE2">
+                            <img src="isr_files/calendar.png" title="ISR District Event #2">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            62
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE3">
+                            <img src="isr_files/calendar.png" title="ISR District Event #3">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                        
+                                                                        
+                                                    57
+                            <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISCMP">
+                                <img src="isr_files/calendar.png" title="FIRST Israel District Championship">
+                            </a>
+                                                                                    </td>
+        
+                            <td>
+                                    ---
+                            </td>
+        
+                    <td><span title="Rookie Year: 2007">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>24</td>
+            <td>122</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/7177">
+                7177 - Amal Taybe
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            23
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE3">
+                            <img src="isr_files/calendar.png" title="ISR District Event #3">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            37
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE4">
+                            <img src="isr_files/calendar.png" title="ISR District Event #4">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                        
+                                                                        
+                                                    57
+                            <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISCMP">
+                                <img src="isr_files/calendar.png" title="FIRST Israel District Championship">
+                            </a>
+                                                                                    </td>
+        
+                            <td>
+                                    ---
+                            </td>
+        
+                    <td><span title="Rookie Year: 2018">5</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>25</td>
+            <td>120</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/3065">
+                3065 - Jatt High School
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            30
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE1">
+                            <img src="isr_files/calendar.png" title="ISR District Event #1">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            15
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE4">
+                            <img src="isr_files/calendar.png" title="ISR District Event #4">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                        
+                                                                        
+                                                    75
+                            <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISCMP">
+                                <img src="isr_files/calendar.png" title="FIRST Israel District Championship">
+                            </a>
+                                                                                    </td>
+        
+                            <td>
+                                    ---
+                            </td>
+        
+                    <td><span title="Rookie Year: 2009">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>26</td>
+            <td>120</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/3316">
+                3316 - D-Bug
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            61
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE2">
+                            <img src="isr_files/calendar.png" title="ISR District Event #2">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            35
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE4">
+                            <img src="isr_files/calendar.png" title="ISR District Event #4">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                        
+                                                                        
+                                                    24
+                            <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISCMP">
+                                <img src="isr_files/calendar.png" title="FIRST Israel District Championship">
+                            </a>
+                                                                                    </td>
+        
+                            <td>
+                                    ---
+                            </td>
+        
+                    <td><span title="Rookie Year: 2010">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>27</td>
+            <td>118</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/4784">
+                4784 - ATOM
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            11
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE1">
+                            <img src="isr_files/calendar.png" title="ISR District Event #1">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            32
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE2">
+                            <img src="isr_files/calendar.png" title="ISR District Event #2">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                        
+                                                                        
+                                                    75
+                            <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISCMP">
+                                <img src="isr_files/calendar.png" title="FIRST Israel District Championship">
+                            </a>
+                                                                                    </td>
+        
+                            <td>
+                                    ---
+                            </td>
+        
+                    <td><span title="Rookie Year: 2013">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>28</td>
+            <td>115</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/6736">
+                6736 - Knights of the Sea
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            39
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE1">
+                            <img src="isr_files/calendar.png" title="ISR District Event #1">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            40
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE2">
+                            <img src="isr_files/calendar.png" title="ISR District Event #2">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                        
+                                                                        
+                                                    36
+                            <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISCMP">
+                                <img src="isr_files/calendar.png" title="FIRST Israel District Championship">
+                            </a>
+                                                                                    </td>
+        
+                            <td>
+                                    ---
+                            </td>
+        
+                    <td><span title="Rookie Year: 2017">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>29</td>
+            <td>111</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/6740">
+                6740 - G3 - Glue Gun &amp; Glitter
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            28
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE1">
+                            <img src="isr_files/calendar.png" title="ISR District Event #1">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            20
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE4">
+                            <img src="isr_files/calendar.png" title="ISR District Event #4">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                        
+                                                                        
+                                                    63
+                            <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISCMP">
+                                <img src="isr_files/calendar.png" title="FIRST Israel District Championship">
+                            </a>
+                                                                                    </td>
+        
+                            <td>
+                                    ---
+                            </td>
+        
+                    <td><span title="Rookie Year: 2017">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>30</td>
+            <td>108</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/5987">
+                5987 - Galaxia in memory of David Zoh...
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            28
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE1">
+                            <img src="isr_files/calendar.png" title="ISR District Event #1">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            59
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE4">
+                            <img src="isr_files/calendar.png" title="ISR District Event #4">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                        
+                                                                        
+                                                    21
+                            <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISCMP">
+                                <img src="isr_files/calendar.png" title="FIRST Israel District Championship">
+                            </a>
+                                                                                    </td>
+        
+                            <td>
+                                    <span title="Qualified" style="color:green;font-weight:bold;">Qualified</span>
+                            </td>
+        
+                    <td><span title="Rookie Year: 2016">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>31</td>
+            <td>104</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/5635">
+                5635 - Demacia
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            37
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE2">
+                            <img src="isr_files/calendar.png" title="ISR District Event #2">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            28
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE4">
+                            <img src="isr_files/calendar.png" title="ISR District Event #4">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                        
+                                                                        
+                                                    39
+                            <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISCMP">
+                                <img src="isr_files/calendar.png" title="FIRST Israel District Championship">
+                            </a>
+                                                                                    </td>
+        
+                            <td>
+                                    ---
+                            </td>
+        
+                    <td><span title="Rookie Year: 2015">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>32</td>
+            <td>102</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/5614">
+                5614 - Team Sycamore
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            24
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE2">
+                            <img src="isr_files/calendar.png" title="ISR District Event #2">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            36
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE3">
+                            <img src="isr_files/calendar.png" title="ISR District Event #3">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                        
+                                                                        
+                                                    42
+                            <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISCMP">
+                                <img src="isr_files/calendar.png" title="FIRST Israel District Championship">
+                            </a>
+                                                                                    </td>
+        
+                            <td>
+                                    ---
+                            </td>
+        
+                    <td><span title="Rookie Year: 2015">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>33</td>
+            <td>95</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/2679">
+                2679 - Tiger Team
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            41
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE3">
+                            <img src="isr_files/calendar.png" title="ISR District Event #3">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            24
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE4">
+                            <img src="isr_files/calendar.png" title="ISR District Event #4">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                        
+                                                                        
+                                                    30
+                            <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISCMP">
+                                <img src="isr_files/calendar.png" title="FIRST Israel District Championship">
+                            </a>
+                                                                                    </td>
+        
+                            <td>
+                                    ---
+                            </td>
+        
+                    <td><span title="Rookie Year: 2008">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>34</td>
+            <td>95</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/6741">
+                6741 - Space monkeys
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            24
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE1">
+                            <img src="isr_files/calendar.png" title="ISR District Event #1">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            29
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE3">
+                            <img src="isr_files/calendar.png" title="ISR District Event #3">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                        
+                                                                        
+                                                    42
+                            <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISCMP">
+                                <img src="isr_files/calendar.png" title="FIRST Israel District Championship">
+                            </a>
+                                                                                    </td>
+        
+                            <td>
+                                    ---
+                            </td>
+        
+                    <td><span title="Rookie Year: 2017">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>35</td>
+            <td>94</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/2230">
+                2230 - General Angels
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            19
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE1">
+                            <img src="isr_files/calendar.png" title="ISR District Event #1">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            30
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE4">
+                            <img src="isr_files/calendar.png" title="ISR District Event #4">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                        
+                                                                        
+                                                    45
+                            <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISCMP">
+                                <img src="isr_files/calendar.png" title="FIRST Israel District Championship">
+                            </a>
+                                                                                    </td>
+        
+                            <td>
+                                    ---
+                            </td>
+        
+                    <td><span title="Rookie Year: 2007">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>36</td>
+            <td>93</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/7554">
+                7554 - Green Rockets
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            17
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE1">
+                            <img src="isr_files/calendar.png" title="ISR District Event #1">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            30
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE3">
+                            <img src="isr_files/calendar.png" title="ISR District Event #3">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                        
+                                                                        
+                                                    36
+                            <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISCMP">
+                                <img src="isr_files/calendar.png" title="FIRST Israel District Championship">
+                            </a>
+                                                                                    </td>
+        
+                            <td>
+                                    <span title="Qualified" style="color:green;font-weight:bold;">Qualified</span>
+                            </td>
+        
+                    <td><span title="Rookie Year: 2019">10</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>37</td>
+            <td>91</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/5038">
+                5038 - MEGIDDO LIONS
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            34
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE2">
+                            <img src="isr_files/calendar.png" title="ISR District Event #2">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            24
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE4">
+                            <img src="isr_files/calendar.png" title="ISR District Event #4">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                        
+                                                                        
+                                                    33
+                            <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISCMP">
+                                <img src="isr_files/calendar.png" title="FIRST Israel District Championship">
+                            </a>
+                                                                                    </td>
+        
+                            <td>
+                                    ---
+                            </td>
+        
+                    <td><span title="Rookie Year: 2014">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>38</td>
+            <td>89</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/7845">
+                7845 - 8BIT
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            13
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE2">
+                            <img src="isr_files/calendar.png" title="ISR District Event #2">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            18
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE4">
+                            <img src="isr_files/calendar.png" title="ISR District Event #4">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                        
+                                                                        
+                                                    48
+                            <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISCMP">
+                                <img src="isr_files/calendar.png" title="FIRST Israel District Championship">
+                            </a>
+                                                                                    </td>
+        
+                            <td>
+                                    ---
+                            </td>
+        
+                    <td><span title="Rookie Year: 2019">10</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>39</td>
+            <td>87</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/5291">
+                5291 - Emperius
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            26
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE1">
+                            <img src="isr_files/calendar.png" title="ISR District Event #1">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            31
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE2">
+                            <img src="isr_files/calendar.png" title="ISR District Event #2">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                        
+                                                                        
+                                                    30
+                            <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISCMP">
+                                <img src="isr_files/calendar.png" title="FIRST Israel District Championship">
+                            </a>
+                                                                                    </td>
+        
+                            <td>
+                                    ---
+                            </td>
+        
+                    <td><span title="Rookie Year: 2014">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>40</td>
+            <td>82</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/4744">
+                4744 - Ninjas
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            12
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE2">
+                            <img src="isr_files/calendar.png" title="ISR District Event #2">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            34
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE3">
+                            <img src="isr_files/calendar.png" title="ISR District Event #3">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                        
+                                                                        
+                                                    36
+                            <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISCMP">
+                                <img src="isr_files/calendar.png" title="FIRST Israel District Championship">
+                            </a>
+                                                                                    </td>
+        
+                            <td>
+                                    ---
+                            </td>
+        
+                    <td><span title="Rookie Year: 2013">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>41</td>
+            <td>78</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/5135">
+                5135 - Black Unicorns
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            44
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE1">
+                            <img src="isr_files/calendar.png" title="ISR District Event #1">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            19
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE3">
+                            <img src="isr_files/calendar.png" title="ISR District Event #3">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                        
+                                                                        
+                                                    15
+                            <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISCMP">
+                                <img src="isr_files/calendar.png" title="FIRST Israel District Championship">
+                            </a>
+                                                                                    </td>
+        
+                            <td>
+                                    ---
+                            </td>
+        
+                    <td><span title="Rookie Year: 2014">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>42</td>
+            <td>78</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/1657">
+                1657 - Hamosad
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            24
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE1">
+                            <img src="isr_files/calendar.png" title="ISR District Event #1">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            18
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE3">
+                            <img src="isr_files/calendar.png" title="ISR District Event #3">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                        
+                                                                        
+                                                    36
+                            <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISCMP">
+                                <img src="isr_files/calendar.png" title="FIRST Israel District Championship">
+                            </a>
+                                                                                    </td>
+        
+                            <td>
+                                    ---
+                            </td>
+        
+                    <td><span title="Rookie Year: 2005">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>43</td>
+            <td>73</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/1573">
+                1573 - Kfar Galim
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            24
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE1">
+                            <img src="isr_files/calendar.png" title="ISR District Event #1">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            34
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE2">
+                            <img src="isr_files/calendar.png" title="ISR District Event #2">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                        
+                                                                        
+                                                    15
+                            <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISCMP">
+                                <img src="isr_files/calendar.png" title="FIRST Israel District Championship">
+                            </a>
+                                                                                    </td>
+        
+                            <td>
+                                    ---
+                            </td>
+        
+                    <td><span title="Rookie Year: 2005">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>44</td>
+            <td>69</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/1576">
+                1576 - Voltrix
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            5
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE3">
+                            <img src="isr_files/calendar.png" title="ISR District Event #3">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            43
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE4">
+                            <img src="isr_files/calendar.png" title="ISR District Event #4">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                        
+                                                                        
+                                                    21
+                            <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISCMP">
+                                <img src="isr_files/calendar.png" title="FIRST Israel District Championship">
+                            </a>
+                                                                                    </td>
+        
+                            <td>
+                                    ---
+                            </td>
+        
+                    <td><span title="Rookie Year: 2005">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>45</td>
+            <td>60</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/7112">
+                7112 - EverGreen
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            15
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE1">
+                            <img src="isr_files/calendar.png" title="ISR District Event #1">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            22
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE3">
+                            <img src="isr_files/calendar.png" title="ISR District Event #3">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                        
+                                                                        
+                                                    18
+                            <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISCMP">
+                                <img src="isr_files/calendar.png" title="FIRST Israel District Championship">
+                            </a>
+                                                                                    </td>
+        
+                            <td>
+                                    ---
+                            </td>
+        
+                    <td><span title="Rookie Year: 2018">5</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>46</td>
+            <td>40</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/4320">
+                4320 - The Joker
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            24
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE2">
+                            <img src="isr_files/calendar.png" title="ISR District Event #2">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            16
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE4">
+                            <img src="isr_files/calendar.png" title="ISR District Event #4">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                ---
+                                        </td>
+        
+                            <td>
+                                    ---
+                            </td>
+        
+                    <td><span title="Rookie Year: 2012">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>47</td>
+            <td>38</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/1943">
+                1943 - Neat Team
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            11
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE2">
+                            <img src="isr_files/calendar.png" title="ISR District Event #2">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            27
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE3">
+                            <img src="isr_files/calendar.png" title="ISR District Event #3">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                ---
+                                        </td>
+        
+                            <td>
+                                    ---
+                            </td>
+        
+                    <td><span title="Rookie Year: 2006">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>48</td>
+            <td>38</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/6230">
+                6230 - Team Koi
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            6
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE2">
+                            <img src="isr_files/calendar.png" title="ISR District Event #2">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            32
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE4">
+                            <img src="isr_files/calendar.png" title="ISR District Event #4">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                ---
+                                        </td>
+        
+                            <td>
+                                    ---
+                            </td>
+        
+                    <td><span title="Rookie Year: 2016">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>49</td>
+            <td>38</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/1942">
+                1942 - Cinderella Tel-Nof
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            21
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE2">
+                            <img src="isr_files/calendar.png" title="ISR District Event #2">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            17
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE4">
+                            <img src="isr_files/calendar.png" title="ISR District Event #4">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                ---
+                                        </td>
+        
+                            <td>
+                                    ---
+                            </td>
+        
+                    <td><span title="Rookie Year: 2006">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>50</td>
+            <td>37</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/5747">
+                5747 - Athena
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            24
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE1">
+                            <img src="isr_files/calendar.png" title="ISR District Event #1">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            13
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE3">
+                            <img src="isr_files/calendar.png" title="ISR District Event #3">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                ---
+                                        </td>
+        
+                            <td>
+                                    ---
+                            </td>
+        
+                    <td><span title="Rookie Year: 2015">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>51</td>
+            <td>34</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/1580">
+                1580 -  The Blue Monkeys
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            10
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE1">
+                            <img src="isr_files/calendar.png" title="ISR District Event #1">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            24
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE3">
+                            <img src="isr_files/calendar.png" title="ISR District Event #3">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                ---
+                                        </td>
+        
+                            <td>
+                                    ---
+                            </td>
+        
+                    <td><span title="Rookie Year: 2005">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>52</td>
+            <td>32</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/7067">
+                7067 - Team Streak
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            20
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE1">
+                            <img src="isr_files/calendar.png" title="ISR District Event #1">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            7
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE4">
+                            <img src="isr_files/calendar.png" title="ISR District Event #4">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                ---
+                                        </td>
+        
+                            <td>
+                                    ---
+                            </td>
+        
+                    <td><span title="Rookie Year: 2018">5</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>53</td>
+            <td>30</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/7079">
+                7079 - Co-Bot
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            14
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE2">
+                            <img src="isr_files/calendar.png" title="ISR District Event #2">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            11
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE4">
+                            <img src="isr_files/calendar.png" title="ISR District Event #4">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                ---
+                                        </td>
+        
+                            <td>
+                                    ---
+                            </td>
+        
+                    <td><span title="Rookie Year: 2018">5</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>54</td>
+            <td>28</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/3835">
+                3835 - Vulcan
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            14
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE2">
+                            <img src="isr_files/calendar.png" title="ISR District Event #2">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            14
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE3">
+                            <img src="isr_files/calendar.png" title="ISR District Event #3">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                ---
+                                        </td>
+        
+                            <td>
+                                    ---
+                            </td>
+        
+                    <td><span title="Rookie Year: 2011">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>55</td>
+            <td>28</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/5715">
+                5715 - DRC
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            13
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE2">
+                            <img src="isr_files/calendar.png" title="ISR District Event #2">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            15
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE4">
+                            <img src="isr_files/calendar.png" title="ISR District Event #4">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                ---
+                                        </td>
+        
+                            <td>
+                                    ---
+                            </td>
+        
+                    <td><span title="Rookie Year: 2015">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>56</td>
+            <td>27</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/6168">
+                6168 - alzahrawi
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            15
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE1">
+                            <img src="isr_files/calendar.png" title="ISR District Event #1">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            12
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE4">
+                            <img src="isr_files/calendar.png" title="ISR District Event #4">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                ---
+                                        </td>
+        
+                            <td>
+                                    ---
+                            </td>
+        
+                    <td><span title="Rookie Year: 2016">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>57</td>
+            <td>26</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/4319">
+                4319 - Ladies FIRST
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            12
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE1">
+                            <img src="isr_files/calendar.png" title="ISR District Event #1">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            14
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE2">
+                            <img src="isr_files/calendar.png" title="ISR District Event #2">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                ---
+                                        </td>
+        
+                            <td>
+                                    ---
+                            </td>
+        
+                    <td><span title="Rookie Year: 2012">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>58</td>
+            <td>24</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/5636">
+                5636 - Moona
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            10
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE1">
+                            <img src="isr_files/calendar.png" title="ISR District Event #1">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            14
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE3">
+                            <img src="isr_files/calendar.png" title="ISR District Event #3">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                ---
+                                        </td>
+        
+                            <td>
+                                    ---
+                            </td>
+        
+                    <td><span title="Rookie Year: 2015">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>59</td>
+            <td>23</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/3083">
+                3083 - Artemis
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            13
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE2">
+                            <img src="isr_files/calendar.png" title="ISR District Event #2">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            10
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE4">
+                            <img src="isr_files/calendar.png" title="ISR District Event #4">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                ---
+                                        </td>
+        
+                            <td>
+                                    ---
+                            </td>
+        
+                    <td><span title="Rookie Year: 2009">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>60</td>
+            <td>23</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/6149">
+                6149 - hand by hand
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            11
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE3">
+                            <img src="isr_files/calendar.png" title="ISR District Event #3">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            12
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE4">
+                            <img src="isr_files/calendar.png" title="ISR District Event #4">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                ---
+                                        </td>
+        
+                            <td>
+                                    ---
+                            </td>
+        
+                    <td><span title="Rookie Year: 2016">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>61</td>
+            <td>23</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/4416">
+                4416 - Skynet
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            5
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE1">
+                            <img src="isr_files/calendar.png" title="ISR District Event #1">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            18
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE3">
+                            <img src="isr_files/calendar.png" title="ISR District Event #3">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                ---
+                                        </td>
+        
+                            <td>
+                                    ---
+                            </td>
+        
+                    <td><span title="Rookie Year: 2012">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>62</td>
+            <td>19</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/4661">
+                4661 - The Red Pirates
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            6
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE3">
+                            <img src="isr_files/calendar.png" title="ISR District Event #3">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            13
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE4">
+                            <img src="isr_files/calendar.png" title="ISR District Event #4">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                ---
+                                        </td>
+        
+                            <td>
+                                    ---
+                            </td>
+        
+                    <td><span title="Rookie Year: 2013">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>63</td>
+            <td>18</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/5928">
+                5928 - MetalBoost
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            12
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE2">
+                            <img src="isr_files/calendar.png" title="ISR District Event #2">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            6
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE4">
+                            <img src="isr_files/calendar.png" title="ISR District Event #4">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                ---
+                                        </td>
+        
+                            <td>
+                                    ---
+                            </td>
+        
+                    <td><span title="Rookie Year: 2016">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>64</td>
+            <td>17</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/1954">
+                1954 - ElectroBunny
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            9
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE2">
+                            <img src="isr_files/calendar.png" title="ISR District Event #2">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            8
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE4">
+                            <img src="isr_files/calendar.png" title="ISR District Event #4">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                ---
+                                        </td>
+        
+                            <td>
+                                    ---
+                            </td>
+        
+                    <td><span title="Rookie Year: 2006">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>65</td>
+            <td>14</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/4757">
+                4757 - Talos
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            4
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE1">
+                            <img src="isr_files/calendar.png" title="ISR District Event #1">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            10
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE3">
+                            <img src="isr_files/calendar.png" title="ISR District Event #3">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                ---
+                                        </td>
+        
+                            <td>
+                                    ---
+                            </td>
+        
+                    <td><span title="Rookie Year: 2013">0</span></td>
+        </tr>
+            <tr style="text-align:center;" role="row">
+            <td>66</td>
+            <td>11</td>
+            <td style="text-align:left;">
+                <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/4649">
+                4649 - HeavyMech
+                </a>
+            </td>
+            
+                            <td>
+                                                                
+                                            7
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE3">
+                            <img src="isr_files/calendar.png" title="ISR District Event #3">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                                
+                                            4
+                        <a href="http://frc-districtrankings.firstinspires.org/2019/ISR/ISDE4">
+                            <img src="isr_files/calendar.png" title="ISR District Event #4">
+                        </a>
+
+                                </td>
+        
+                            <td>
+                                                ---
+                                        </td>
+        
+                            <td>
+                                    ---
+                            </td>
+        
+                    <td><span title="Rookie Year: 2013">0</span></td>
+        </tr>
+        </tbody>
+</table>
+
+<hr>
+    <a href="http://frc-districtrankings.firstinspires.org/2019/eventResults">
+        View All Results By FIRST Israel District Event
+    </a>
+<hr>
+<u><b>Key</b></u><br>
+<span style="color:green;font-weight:bold;">S</span>: Scheduled to Play at Upcoming Event<br>
+<span style="color:blue;font-weight:bold;">IP</span>: Playing at In Progress Event (Score Subject to Change)<br>
+<span style="color:red;font-weight:bold;">DI</span>: Declined Invitation to Event<br>
+---: Did Not Qualify / Not Yet Qualified<br>
+<img src="isr_files/leaderboard.png">: Hover for Associated Event, Click for Event Details
+                <div class="visible-xs text-center">
+                                           <img src="isr_files/2019.png" alt="Game Logo" style="max-width:175px;max-height:60px;">
+                                    </div>
+                <div class="visible-xs visible-sm alert alert-danger hidden-print"><a href="#" class="close" data-dismiss="alert" aria-label="close">×</a>Some
+ content is hidden on small displays like yours. Please try rotating 
+your device or using a larger screen to see more content.</div>
+            </div>
+        </div>
+        <div class="footer" id="footer">
+            <div class="footer-text">
+                Copyright © <a href="http://www.firstinspires.org/frc" target="_blank"><i>FIRST</i>&nbsp; Robotics Competition</a><br>
+            </div>
+    </div>
+        <script type="text/javascript">
+            $(window).load(function() {
+                    $.ajax({
+                            url: "/api/request_sync",
+                            dataType: "json",
+                            success: function( json ) {
+                                    if (window.console) {
+                                            window.console.log("Sync request OK:");
+                                            window.console.log(json);
+                                    }
+                            },
+                            error: function( xhr, status ) {
+                                    if (window.console) {
+                                            window.console.log("Sync request error:");
+                                            window.console.log(status);
+                                    }
+                            },
+                    });
+            })
+    </script>
+
+</div></body></html>

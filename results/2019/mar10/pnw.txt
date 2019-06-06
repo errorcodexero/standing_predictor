@@ -1,0 +1,172 @@
+(49,0.0005)
+(50,0.001)
+(51,0.005)
+(52,0.0265)
+(53,0.05)
+(54,0.098)
+(55,0.1095)
+(56,0.1495)
+(57,0.19)
+(58,0.1445)
+(59,0.1085)
+(60,0.061)
+(61,0.0345)
+(62,0.016)
+(63,0.004)
+(64,0.0015)
+Team #	P(DCMP)	Pts 5%	Pts 50%	Pts 95%	Nickname
+4125	1	0	0	0	Confidential
+2980	1	0	0	0	The Whidbey Island Wild Cats
+2557	1	0	0	0	SOTAbots 
+1983	1	0	0	0	Skunk Works Robotics
+6443	1	0	0	0	AEMBOT
+5803	1	0	0	0	Apex Robotics
+2990	1	0	0	0	Hotwire
+2930	1	0	0	0	Sonic Squirrels
+2910	1	0	0	0	Jack in the Bot
+5827	0.991	0	2	6	Code Purple
+1425	0.982	0	3	7	Error Code Xero
+1540	0.968	0	4	8	Flaming Chickens
+948	0.95	1	5	9	NRG (Newport Robotics Group)
+5085	0.95	1	5	9	LakerBots
+2976	0.95	1	5	9	Spartabots
+2928	0.875	4	8	12	Viking Robotics
+2046	0.845	5	9	13	Bear Metal
+6445	0.752	8	12	16	CTEC Robotics
+4043	0.752	8	12	16	NerdHerd
+3574	0.752	8	12	16	HIGH TEKERZ
+4309	0.72	9	13	17	4-H Botsmiths
+7819	0.699	43	47	51	Automataardvarks
+7803	0.699	43	47	51	Pioneer Robotics
+7776	0.699	43	47	51	MVR
+7696	0.699	43	47	51	Gear Hounds 
+7493	0.699	43	47	51	Phoenix Force Robotics
+4057	0.69	10	14	18	Klamath Basin Robotics - STEAMPUNK 
+3588	0.69	10	14	18	the Talon
+7034	0.663	11	15	19	2B Determined
+6845	0.663	11	15	19	River Bots
+4512	0.638	12	16	20	Otter Chaos
+1318	0.638	12	16	20	Issaquah Robotics Society
+4513	0.597	14	18	22	Circuit Breakers
+5937	0.579	15	19	23	MI-Robotics
+997	0.56	16	20	24	Spartan Robotics
+2915	0.56	16	20	24	Pandamonium
+7118	0.537	48	52	56	ScotBots
+4060	0.518	18	22	26	Bearcat Robotics
+2733	0.495	19	23	27	Pigmice
+4579	0.471	20	24	28	RoboEagles
+4469	0.447	21	25	29	R.A.I.D. (Raider Artificial Intelligence DIvision)
+3711	0.447	21	25	29	Iron Mustang
+2097	0.447	21	25	29	Phoenix Force Robotics
+3238	0.426	22	26	30	Cyborg Ferrets
+5450	0.406	23	27	31	SHREC - St. Helens Robotics and Engineering Club
+5468	0.385	24	28	32	Chaos Theory
+3663	0.385	24	28	32	CPR - Cedar Park Robotics
+360	0.385	24	28	32	The Revolution
+6465	0.385	53	57	61	Mystic Biscuit
+6442	0.385	53	57	61	Modern Americans
+6129	0.385	53	57	61	Warp Speed, Scotty !
+6076	0.385	53	57	61	Mustangs
+5975	0.385	53	57	61	Beta Blues
+5970	0.385	53	57	61	BeaverTronics
+5920	0.385	53	57	61	VIKotics
+5748	0.385	53	57	61	Adna Pirate Robotics
+4980	0.385	53	57	61	Canine Crusaders
+492	0.385	53	57	61	Titan Robotics Club
+4911	0.385	53	57	61	CyberKnights
+4726	0.385	53	57	61	Robo Dynasty
+4662	0.385	53	57	61	Byte Sized Robotics
+4488	0.385	53	57	61	Shockwave
+4461	0.385	53	57	61	Ramen
+4127	0.385	53	57	61	LoggerBots
+4110	0.385	53	57	61	DEEP SPACE NINERS
+4104	0.385	53	57	61	Blackhawks
+4061	0.385	53	57	61	SciBorgs
+3876	0.385	53	57	61	Mabton LugNutz
+3712	0.385	53	57	61	RoboCats
+3693	0.385	53	57	61	GearHead Pirates
+3674	0.385	53	57	61	CloverBots
+3220	0.385	53	57	61	Mechanics of Mayhem
+3192	0.385	53	57	61	High Visibility
+3070	0.385	53	57	61	Team Pronto
+2944	0.385	53	57	61	Titanium Tigers
+2926	0.385	53	57	61	Robo Sparks
+2898	0.385	53	57	61	Flying Hedgehogs
+2635	0.385	53	57	61	Lake Monsters
+2522	0.385	53	57	61	Royal Robotics
+2521	0.385	53	57	61	SERT
+2471	0.385	53	57	61	Team Mean Machine
+2411	0.385	53	57	61	Rebel Alliance
+2374	0.385	53	57	61	Crusader Bots
+2148	0.385	53	57	61	Mechaknights
+1595	0.385	53	57	61	The Dragons
+1571	0.385	53	57	61	CALibrate Robotics
+1510	0.385	53	57	61	Wildcats
+1432	0.385	53	57	61	Metal Beavers
+4450	0.366	25	29	33	Olympia Robotics Federation
+3812	0.366	25	29	33	Bits & Bots
+1899	0.366	25	29	33	Saints Robotics
+1258	0.349	26	30	34	SeaBot
+7627	0.314	28	32	36	Descendants of G.O.R.T.
+4205	0.314	28	32	36	ROBOCUBS
+4131	0.314	28	32	36	Iron Patriots
+3826	0.314	28	32	36	Sequim Robotics Federation "SRF" 
+3223	0.314	28	32	36	Robotics Of Central Kitsap
+1778	0.314	28	32	36	Chill Out
+957	0.298	29	33	37	SWARM
+847	0.298	29	33	37	PHRED
+2907	0.298	29	33	37	Lion Robotics
+2412	0.298	29	33	37	Robototes
+5683	0.284	30	34	38	Hello World
+7461	0.269	31	35	39	Binary Circles
+6831	0.269	31	35	39	 A-05 Annex
+6343	0.269	31	35	39	Steel Ridge Robotics
+5588	0.269	31	35	39	Reign Robotics
+5198	0.269	31	35	39	Knight Tech
+4915	0.269	31	35	39	Spartronics
+6350	0.255	32	36	40	Clawbots
+2147	0.255	32	36	40	CHUCK
+4173	0.241	33	37	41	 IMVERT (Interscholastic Mount Vernon Engineering Robotics Team)
+3268	0.241	33	37	41	Vahallabots
+2903	0.229	34	38	42	NeoBots
+3636	0.207	36	40	44	Generals
+3237	0.207	36	40	44	Event Horizon
+2811	0.196	37	41	45	StormBots
+7032	0.185	38	42	46	Raptors
+4682	0.185	38	42	46	BraveBots
+2605	0.185	38	42	46	Seamonsters 
+2550	0.185	38	42	46	Skynet
+949	0.174	39	43	47	Wolverine Robotics
+7448	0.174	39	43	47	S.C. Robotics
+6696	0.174	39	43	47	Cardinal Dynamics
+488	0.174	39	43	47	Team XBot
+1294	0.174	39	43	47	Top Gun
+4692	0.163	40	44	48	Metal Mallards
+3681	0.163	40	44	48	Robo-Raiders
+3393	0.163	40	44	48	Horns of Havoc
+3049	0.163	40	44	48	BremerTron
+1359	0.163	40	44	48	Scalawags
+753	0.151	41	45	49	High Desert Droids
+4683	0.151	41	45	49	Full Metal Robotics
+955	0.141	42	46	50	CV Robotics
+3218	0.141	42	46	50	Panther Robotics
+7204	0.132	43	47	51	Freedom Gliders
+6959	0.132	43	47	51	Organized Chaos
+4051	0.132	43	47	51	Sabin-Sharks
+3131	0.132	43	47	51	Gladiators
+2927	0.132	43	47	51	Pi Rho Techs
+6503	0.122	44	48	52	Iron Dragon
+4180	0.122	44	48	52	Iron Riders
+3786	0.122	44	48	52	Chargers
+3219	0.122	44	48	52	TREAD
+4918	0.114	45	49	53	The Roboctopi
+3684	0.114	45	49	53	Electric Eagles
+3673	0.114	45	49	53	C.Y.B.O.R.G. Seagulls
+2906	0.114	45	49	53	Sentinel Prime Robotics
+568	0.106	46	50	54	Nerds of the North
+3024	0.106	46	50	54	My Favorite Team
+5977	0.0971	47	51	55	Rosemary Rebels
+4681	0.0971	47	51	55	Murphys law
+4089	0.0971	47	51	55	Stealth Robotics
+5295	0.0864	48	52	56	Aldernating Current
+2929	0.0762	49	53	57	JAGBOTS
